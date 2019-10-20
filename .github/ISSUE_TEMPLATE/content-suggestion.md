@@ -1,17 +1,12 @@
 ---
 name: Content Suggestion
 about: Suggest New Content to be Added
-title: 'Content Suggestion: '
+title: 'Content Suggestion: NAME OF CONTENT TO BE ADDED'
 labels: content suggestion
 assignees: ''
 
 ---
 
-**Link to Content** 
->>PASTE URL HERE<<
-
-**Briefly Describe Content**
->>WRITE BRIEF DESCRIPTION HERE<<
-
-**Suggested Section**
->>SUGGEST SECTION HERE<<
+1) Link to Content: PASTE URL HERE
+2) Briefly Describe Content: WRITE BRIEF DESCRIPTION HERE
+3) Suggested Section: SUGGEST SECTION HERE

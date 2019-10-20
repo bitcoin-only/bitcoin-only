@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-**Link to Content**
-Please provide a link to the content you would like added.
+**Link to Content** 
+>>PASTE URL HERE<<
 
 **Briefly Describe Content**
-Please provide a brief description of the content.
+>>WRITE BRIEF DESCRIPTION HERE<<
 
 **Suggested Section**
-Please suggest the section you believe this content should be listed under.
+>>SUGGEST SECTION HERE<<

@@ -2,7 +2,7 @@
 name: Requirement Suggestion
 about: Suggest New Requirement
 title: 'Requirement Suggestion: REQUIREMENT'
-labels: requirement suggestion
+labels: requirement
 assignees: ''
 
 ---

@@ -6,6 +6,7 @@ labels: requirement
 assignees: ''
 
 ---
+
 ## Current Requirement: **REQUIREMENT HERE (E.G. HARDWARE WALLETS)**
 The current listing criteria for **REQUIREMENT HERE** is:
 ```

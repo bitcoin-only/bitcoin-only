@@ -20,7 +20,7 @@ Meetups which allow the promotion of any coin or token are not suitable for list
 3. At least one of the following:
 - Meetup Page (or similar): **https://www.meetup.com/example-bitcoin-meetup/**
 - Telegram Group (or similar): **Invite link**
-- Website: **https:/meetup-website-here**
+- Website: **https://meetup-website-here**
 
 ## Optional 
 - Name of Organiser(s) & Twitter Handle: **[@bitcoinonly_](https://twitter.com/bitcoinonly_), [@6102bitcoin](https://twitter.com/6102bitcoin)**

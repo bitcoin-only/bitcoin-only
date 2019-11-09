@@ -2,12 +2,12 @@
 name: Meetup Suggestion
 about: Suggest a Meetup to be Added
 title: 'Meetup Suggestion: **Example Bitcoin Meetup**'
-labels: ''
+labels: meetup
 assignees: ''
 
 ---
 
-**Replace Bold Text**
+**>>> Replace Bold Text <<<**
 
 ## Required:
 1. Name of Meetup: **Example Bitcoin Meetup**
@@ -19,4 +19,4 @@ assignees: ''
 
 ## Optional 
 - Name of Organiser(s) & Twitter Handle: **[@bitcoinonly_](https://twitter.com/bitcoinonly_), [@6102bitcoin](https://twitter.com/6102bitcoin)**
-- Links showing public support: ** https://twitter.com/6102bitcoin/status/1193203530150096897 **
+- Links showing public support: **https://twitter.com/6102bitcoin/status/1193203530150096897**

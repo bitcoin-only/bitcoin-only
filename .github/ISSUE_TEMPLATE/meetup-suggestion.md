@@ -10,7 +10,7 @@ assignees: ''
 Thanks for making a suggestion for a new meetup.
 
 Please note: Only suggest bitcoin-only meetups. 
-Meetups which allow the promotion of any coin or token are not suitable for listing - any mention of altcoins must only be in the context of technological lessons learnt for bitcoin.
+Meetups which promote any coin or token other than Bitcoin are not suitable for listing. Any mention topics pertaining to altcoins must be in the context of technological lessons learnt.
 
 **>>> Replace Bold Text <<<**
 

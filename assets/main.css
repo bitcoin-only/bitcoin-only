@@ -2732,7 +2732,7 @@ h1.style7, h2.style7, h3.style7, p.style7 {
 }
 
 #container48 > .inner {
-	padding: 0rem 1.75rem;
+	padding: 1.5rem 1.75rem;
 	width: 100%;
 	max-width: 48rem;
 }
@@ -2886,7 +2886,7 @@ h1.style7, h2.style7, h3.style7, p.style7 {
 }
 
 #container40 > .inner {
-	padding: 0rem 1.75rem;
+	padding: 1.5rem 1.75rem;
 	width: 100%;
 	max-width: 48rem;
 }
@@ -3349,7 +3349,7 @@ h1.style7, h2.style7, h3.style7, p.style7 {
 }
 
 #container39 > .inner {
-	padding: 0rem 1.75rem;
+	padding: 1.5rem 1.75rem;
 	width: 100%;
 	max-width: 48rem;
 }
@@ -4131,7 +4131,7 @@ h1.style7, h2.style7, h3.style7, p.style7 {
 }
 
 #container37 > .inner {
-	padding: 0rem 1.75rem;
+	padding: 1.5rem 1.75rem;
 	width: 100%;
 	max-width: 48rem;
 }
@@ -4593,7 +4593,7 @@ h1.style7, h2.style7, h3.style7, p.style7 {
 }
 
 #container41 > .inner {
-	padding: 0rem 1.75rem;
+	padding: 1.5rem 1.75rem;
 	width: 100%;
 	max-width: 48rem;
 }
@@ -4901,7 +4901,7 @@ h1.style7, h2.style7, h3.style7, p.style7 {
 }
 
 #container42 > .inner {
-	padding: 0rem 1.75rem;
+	padding: 1.5rem 1.75rem;
 	width: 100%;
 	max-width: 48rem;
 }
@@ -5833,7 +5833,7 @@ h1.style7, h2.style7, h3.style7, p.style7 {
 }
 
 #container43 > .inner {
-	padding: 0rem 1.75rem;
+	padding: 1.5rem 1.75rem;
 	width: 100%;
 	max-width: 48rem;
 }
@@ -6141,7 +6141,7 @@ h1.style7, h2.style7, h3.style7, p.style7 {
 }
 
 #container44 > .inner {
-	padding: 0rem 1.75rem;
+	padding: 1.5rem 1.75rem;
 	width: 100%;
 	max-width: 48rem;
 }
@@ -6604,7 +6604,7 @@ h1.style7, h2.style7, h3.style7, p.style7 {
 }
 
 #container45 > .inner {
-	padding: 0rem 1.75rem;
+	padding: 1.5rem 1.75rem;
 	width: 100%;
 	max-width: 48rem;
 }
@@ -7993,7 +7993,7 @@ h1.style7, h2.style7, h3.style7, p.style7 {
 }
 
 #container38 > .inner {
-	padding: 0rem 1.75rem;
+	padding: 1.5rem 1.75rem;
 	width: 100%;
 	max-width: 48rem;
 }
@@ -8943,10 +8943,6 @@ th {
 
 .table-wrapper.style2 .table-inner {
 	width: 48rem;
-}
-
-.table-wrapper.style2 th:nth-child(1), .table-wrapper.style2 td:nth-child(1) {
-	text-align: center;
 }
 
 .table-wrapper.style2 thead {

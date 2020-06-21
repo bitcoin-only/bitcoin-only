@@ -8945,10 +8945,6 @@ th {
 	width: 48rem;
 }
 
-.table-wrapper.style2 th:nth-child(1), .table-wrapper.style2 td:nth-child(1) {
-	text-align: center;
-}
-
 .table-wrapper.style2 thead {
 	border-bottom: solid 2px rgba(255,255,255,0.169);
 }

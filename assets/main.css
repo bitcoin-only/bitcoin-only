@@ -9198,7 +9198,7 @@ hr:before {
 
 #divider10:before {
 	width: 15%;
-	border-top: solid 1px rgba(255,255,255,0.169);
+	border-top: 0;
 	height: 1px;
 }
 
@@ -9209,7 +9209,7 @@ hr:before {
 
 #divider11:before {
 	width: 15%;
-	border-top: solid 1px rgba(255,255,255,0.169);
+	border-top: 0;
 	height: 1px;
 }
 
@@ -9220,18 +9220,18 @@ hr:before {
 
 #divider12:before {
 	width: 15%;
-	border-top: solid 1px rgba(255,255,255,0.169);
+	border-top: 0;
 	height: 1px;
 }
 
-#divider09 {
+#divider09 {
 	height: 1rem;
 	line-height: 1rem;
 }
 
 #divider09:before {
 	width: 15%;
-	border-top: solid 1px rgba(255,255,255,0.169);
+	border-top: 0;
 	height: 1px;
 }
 

@@ -2578,7 +2578,7 @@ h1.style7, h2.style7, h3.style7, p.style7 {
 }
 
 #container47 > .inner {
-	padding: 0rem 1.75rem;
+	padding: 1.5rem 1.75rem;
 	width: 100%;
 	max-width: 48rem;
 }
@@ -2732,7 +2732,7 @@ h1.style7, h2.style7, h3.style7, p.style7 {
 }
 
 #container48 > .inner {
-	padding: 0rem 1.75rem;
+	padding: 1.5rem 1.75rem;
 	width: 100%;
 	max-width: 48rem;
 }
@@ -2886,7 +2886,7 @@ h1.style7, h2.style7, h3.style7, p.style7 {
 }
 
 #container40 > .inner {
-	padding: 0rem 1.75rem;
+	padding: 1.5rem 1.75rem;
 	width: 100%;
 	max-width: 48rem;
 }
@@ -3349,7 +3349,7 @@ h1.style7, h2.style7, h3.style7, p.style7 {
 }
 
 #container39 > .inner {
-	padding: 0rem 1.75rem;
+	padding: 1.5rem 1.75rem;
 	width: 100%;
 	max-width: 48rem;
 }
@@ -4131,7 +4131,7 @@ h1.style7, h2.style7, h3.style7, p.style7 {
 }
 
 #container37 > .inner {
-	padding: 0rem 1.75rem;
+	padding: 1.5rem 1.75rem;
 	width: 100%;
 	max-width: 48rem;
 }
@@ -4593,7 +4593,7 @@ h1.style7, h2.style7, h3.style7, p.style7 {
 }
 
 #container41 > .inner {
-	padding: 0rem 1.75rem;
+	padding: 1.5rem 1.75rem;
 	width: 100%;
 	max-width: 48rem;
 }
@@ -4901,7 +4901,7 @@ h1.style7, h2.style7, h3.style7, p.style7 {
 }
 
 #container42 > .inner {
-	padding: 0rem 1.75rem;
+	padding: 1.5rem 1.75rem;
 	width: 100%;
 	max-width: 48rem;
 }
@@ -5833,7 +5833,7 @@ h1.style7, h2.style7, h3.style7, p.style7 {
 }
 
 #container43 > .inner {
-	padding: 0rem 1.75rem;
+	padding: 1.5rem 1.75rem;
 	width: 100%;
 	max-width: 48rem;
 }
@@ -6141,7 +6141,7 @@ h1.style7, h2.style7, h3.style7, p.style7 {
 }
 
 #container44 > .inner {
-	padding: 0rem 1.75rem;
+	padding: 1.5rem 1.75rem;
 	width: 100%;
 	max-width: 48rem;
 }
@@ -6604,7 +6604,7 @@ h1.style7, h2.style7, h3.style7, p.style7 {
 }
 
 #container45 > .inner {
-	padding: 0rem 1.75rem;
+	padding: 1.5rem 1.75rem;
 	width: 100%;
 	max-width: 48rem;
 }
@@ -7993,7 +7993,7 @@ h1.style7, h2.style7, h3.style7, p.style7 {
 }
 
 #container38 > .inner {
-	padding: 0rem 1.75rem;
+	padding: 1.5rem 1.75rem;
 	width: 100%;
 	max-width: 48rem;
 }
@@ -8945,10 +8945,6 @@ th {
 	width: 48rem;
 }
 
-.table-wrapper.style2 th:nth-child(1), .table-wrapper.style2 td:nth-child(1) {
-	text-align: center;
-}
-
 .table-wrapper.style2 thead {
 	border-bottom: solid 2px rgba(255,255,255,0.169);
 }
@@ -9202,7 +9198,7 @@ hr:before {
 
 #divider10:before {
 	width: 15%;
-	border-top: solid 1px rgba(255,255,255,0.169);
+	border-top: 0;
 	height: 1px;
 }
 
@@ -9213,7 +9209,7 @@ hr:before {
 
 #divider11:before {
 	width: 15%;
-	border-top: solid 1px rgba(255,255,255,0.169);
+	border-top: 0;
 	height: 1px;
 }
 
@@ -9224,18 +9220,18 @@ hr:before {
 
 #divider12:before {
 	width: 15%;
-	border-top: solid 1px rgba(255,255,255,0.169);
+	border-top: 0;
 	height: 1px;
 }
 
-#divider09 {
+#divider09 {
 	height: 1rem;
 	line-height: 1rem;
 }
 
 #divider09:before {
 	width: 15%;
-	border-top: solid 1px rgba(255,255,255,0.169);
+	border-top: 0;
 	height: 1px;
 }
 
@@ -10925,7 +10921,7 @@ hr:before {
 	}
 	
 	#container47 > .inner {
-		padding: 0rem 1.75rem;
+		padding: 1.5rem 1.75rem;
 		max-width: 100%;
 	}
 	

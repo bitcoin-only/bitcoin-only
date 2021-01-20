@@ -1,0 +1,23 @@
+{
+	"name": "bitcoin-only",
+	"version": "1.0.0",
+	"author": "marc-chouinard",
+	"private": true,
+	"scripts": {
+	"dev": "NUXT_HOST=0.0.0.0 PORT=1111 nuxt",
+	"build": "nuxt build",
+	"start": "nuxt start",
+	"generate": "nuxt generate"
+},
+	"dependencies": {
+		"core-js": "^3.6.5",
+		"nuxt": "^2.14.6",
+		"nuxt-buefy": "^0.4.3"
+	},
+	"devDependencies": {
+		"@nuxt/types": "^2.14.12",
+		"fibers": "^5.0.0",
+		"sass": "^1.32.0",
+		"sass-loader": "^10.1.0"
+	}
+}

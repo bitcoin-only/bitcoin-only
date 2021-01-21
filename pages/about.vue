@@ -3,7 +3,7 @@
 
 		<h1 class="page-title">About</h1>
 
-		<p class="about-me">My name is <a href="https://twitter.com/6102bitcoin" target="_blank">@6102bitcoin</a> and I created this website to showcase the highest quality Bitcoin resources. I'm a pseudonymous Bitcoin user and educator doing what I can to accelerate Bitcoin understanding.</p>
+		<p class="about-me">Bitcoin only is an open source website created to showcase the highest quality Bitcoin resources. It is built and maintained by volunteers.</p>
 
 		<div class="quote-wrapper">
 			<div class="inner">

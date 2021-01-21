@@ -3,7 +3,17 @@
 
 		<h1 class="page-title">Hardware</h1>
 
-		<p>The following hardware projects explicitly state that they support Bitcoin only.</p>
+		<div class="getting-started-section">
+
+			<h3>Getting Started</h3>
+
+			<ul>
+				<li> Samourai Wallet users: Buy a <a href="https://shop.nodl.it/en/home/38-nodl-samourai-edition.html" target="_blank">Nodl Samourai Edition</a>
+				<li> Blue Wallet users: Buy a <a href="http://mynodebtc.com/products/one" target="_blank">MyNode</a>
+				<li> Secure your bitcoin: Buy a <a href="https://coldcardwallet.com/" target="_blank">Coldcard</a> hardware wallet</li>
+			</ul>
+
+		</div>
 
 		<h3>Node: Buy (Plug & Play)</h3>
 

@@ -8,9 +8,9 @@
 			<h3>Getting Started</h3>
 
 			<ul>
-				<li>Desktop: Download <a href="https://bitcoin.org/" target="_blank">Bitcoin Core</a> & <a href="https://github.com/cryptoadvance/specter-desktop" target="_blank">Specter Desktop</a></li>
-				<li>iOS: Download <a href="https://bluewallet.io/" target="_blank">Blue Wallet</a></li>
-				<li>Android: Download <a href="https://samouraiwallet.com/" target="_blank">Samourai Wallet</a></li>
+				<li>Desktop: <a href="https://bitcoin.org/" target="_blank">Bitcoin Core</a> & <a href="https://github.com/cryptoadvance/specter-desktop" target="_blank">Specter Desktop</a></li>
+				<li>iOS: <a href="https://bluewallet.io/" target="_blank">Blue Wallet</a></li>
+				<li>Android: <a href="https://samouraiwallet.com/" target="_blank">Samourai Wallet</a></li>
 			</ul>
 
 		</div>

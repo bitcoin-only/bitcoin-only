@@ -32,9 +32,9 @@
 						</template>
 					</div>
 					<div>
-						(<template v-for="(purchaseLink, purchaseLinkIndex) in book.purchaseLinks">
-							<a :key="purchaseLinkIndex" :href="purchaseLink.link" target="_blank">{{ purchaseLink.title }}</a><span v-if="purchaseLinkIndex + 1 < book.purchaseLinks.length"> | </span>
-						</template>)
+						<template v-for="(purchaseLink, purchaseLinkIndex) in book.purchaseLinks">
+							<a :key="purchaseLinkIndex" :href="purchaseLink.link" target="_blank">{{ purchaseLink.title }}</a><span v-if="purchaseLinkIndex + 1 < book.purchaseLinks.length"> , </span>
+						</template>
 					</div>
 				</div>
 			</div>

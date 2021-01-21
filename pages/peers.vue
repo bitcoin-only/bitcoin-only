@@ -106,6 +106,14 @@ export default {
 					weReceivedLink: 'https://github.com/6102bitcoin/bitcoin-only/blob/master/introduction/introduction.md'
 				},
 				{
+					peer: 'Marc Chouinard',
+					peerLink: 'https://twitter.com/TheRealestMarc',
+					weGave: '-',
+					weGaveLink: '',
+					weReceived: 'Complete website redesign',
+					weReceivedLink: 'https://bitcoin-only.com'
+				},
+				{
 					peer: 'Max Hillebrand',
 					peerLink: 'https://twitter.com/hillebrandmax',
 					weGave: '-',

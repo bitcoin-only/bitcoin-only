@@ -3,7 +3,7 @@
 
 		<h1 class="page-title">Contact</h1>
 
-		<p>Have any questions? Need some help? Please do get in touch and I'll do my best to help.</p>
+		<p>Have any questions? Need some help? Please get in touch and we will do our best to help.</p>
 
 		<ul class="contact-methods">
 			<li>Twitter - <a href="https://twitter.com/bitcoinonly_" target="_blank">@bitcoinonly_</a></li>

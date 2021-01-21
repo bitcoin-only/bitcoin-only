@@ -7,8 +7,7 @@
 
 		<ul class="contact-methods">
 			<li>Twitter - <a href="https://twitter.com/bitcoinonly_" target="_blank">@bitcoinonly_</a></li>
-			<li>Email - <a href="mailto:sixoneohtwo@protonmail.com" target="_blank">sixoneohtwo@protonmail.com</a></li>
-			<li>GitHub - <a href="https://github.com/bitcoin-only/bitcoin-only/" target="_blank">submit a pull request on GitHub</a></li>
+			<li>GitHub Issue - <a href="https://github.com/bitcoin-only/bitcoin-only/issues/new/choose" target="_blank">Raise an issue on GitHub</a></li>
 			<li></li>
 		</ul>
 

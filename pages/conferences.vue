@@ -106,7 +106,7 @@ export default {
 				{
 					title: 'Bitcoin Only India',
 					link: 'http://blr.bitcoinmeetup.info/',
-					pastContent: '<a href="http://blr.bitcoinmeetup.info/" target="_blank">Feb 2020</a>'
+					pastContent: '<a href="http://blr.bitcoinmeetup.info/" target="_blank">2020</a>'
 				},
 				{
 					title: 'The Lightning Conference',

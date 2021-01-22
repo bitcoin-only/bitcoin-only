@@ -8,7 +8,7 @@
 			<h3>Getting Started</h3>
 
 			<p>Don't reuse addresses, learn to CoinJoin and use your own node. </p>
-			<p>Read how to <a href="https://bitcoinprivacy.guide/" target="_blank">use Bitcoin Privately & <a href="https://en.bitcoin.it/Privacy" target="_blank">the bitcoin wiki page</a></p>
+			<p>Read how to <a href="https://bitcoinprivacy.guide/" target="_blank">use Bitcoin Privately</a> & <a href="https://en.bitcoin.it/Privacy" target="_blank">the bitcoin wiki page</a></p>
 
 		</div>
 

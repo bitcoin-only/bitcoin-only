@@ -96,6 +96,12 @@ export default {
 					location: 'Portland, OR / USA',
 					dates: '2021 / May / 23rd'
 				},
+				{
+					title: 'Bit Block Boom!',
+					link: 'https://bitblockboom.com/',
+					location: 'Dallas, TX / USA',
+					dates: '2021 / Aug / 26-29th'
+				},
 			],
 			lookingBack: [
 				{

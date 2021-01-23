@@ -372,6 +372,13 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Charlotte, North Carolina',
+					link: 'http://www.meetup.com/BitcoinCharlotte',
+					organizer: '@jacobparrish',
+					organizerLink: 'https://twitter.com/jacobparrish'
+				},
+				{
+					country: 'USA',
 					city: 'Georgetown, Washington',
 					link: 'https://www.eventbrite.com/e/georgetown-bitcoin-meetup-tickets-84828150281',
 					organizer: '@gtown_bitcoin',

@@ -231,6 +231,11 @@ export default {
 					description: 'Links to 10h of Bitcoin lessons'
 				},
 				{
+					title: 'Bitcoin Briefly',
+					link: 'https://bitcoinbriefly.com/',
+					description: 'Brief Bitcoin Explanations'
+				},
+				{
 					title: 'Bitcoin Designed',
 					link: 'https://www.bitcoindesigned.com/',
 					description: 'Striking Bitcoin infographics'

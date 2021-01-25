@@ -178,6 +178,11 @@ export default {
 					description: '4-day Course'
 				},
 				{
+					title: 'Bitcoin Developer Network',
+					link: 'https://bitcoindev.network/',
+					description: 'Bitcoin developer tutorials'
+				},
+				{
 					title: 'Bitcoin Lessons',
 					link: 'https://www.bitcoinlessons.org/',
 					description: 'App based lessons'

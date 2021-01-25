@@ -51,7 +51,7 @@
 
 		<h3>Mine</h3>
 
-		<p class="explainer">Long gone are the days that you could mine Bitcoin using common hardware. Bitcoin mining is now dominated by specialist hardware powered by low cost electricity. This <a href="https://youtu.be/GmOzih6I1zs" target="_blank">video</a> gives a simple overview.</p>
+		<p class="explainer">Long gone are the days that you could mine Bitcoin using common hardware. Bitcoin mining is now dominated by specialist hardware powered by low cost electricity. This <a href="https://youtu.be/GmOzih6I1zs" target="_blank">video</a> gives a simple overview and this <a href="https://diverterbtc.keybase.pub/Mining%20for%20the%20Streets.pdf?dl=1" target="_blank">guide</a> explains how to start mining.</p>
 
 		<h3>Earn</h3>
 

@@ -15,7 +15,7 @@
 
 		</div>
 
-		<p>It is very important that you learn how to backup your mnemonic seed & that if you use a passphrase you back that up too. Read <https://bitcoin-intro.com/en/backup" target="_blank">this document</a> to learn more about backing up your wallet and check out the <nuxt-link to="/privacy">privacy page</nuxt-link>.</p>
+		<p>It is very important that you learn how to backup your mnemonic seed & that if you use a passphrase you back that up too. Read <a href="https://bitcoin-intro.com/en/backup" target="_blank">this document</a> to learn more about backing up your wallet and check out the <nuxt-link to="/privacy">privacy page</nuxt-link>.</p>
 		<p> See <a href="https://veriphi.io/en/blog/software-wallet-analysis" target="_blank">this report</a> for a comparison of the features of many of the wallets listed below.</p>
 
 		<h3>On-Chain Wallets</h3>

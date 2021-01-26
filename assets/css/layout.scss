@@ -7,7 +7,7 @@ html, body {
 a {
 	color: #f2ad4f;
 	border-bottom: 1px solid rgba(255,255,255,0.35);
-
+	transition: all 200ms ease;
 	&:hover {
 		color: #f2ad4f;
 		border-color: #f2ad4f;
@@ -59,4 +59,3 @@ a {
 		padding: 68px 20px 50px;
 	}
 }
-

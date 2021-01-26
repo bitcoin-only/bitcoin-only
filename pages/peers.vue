@@ -103,7 +103,7 @@ export default {
 					weGave: '-',
 					weGaveLink: '',
 					weReceived: 'Introduction to Bitcoin',
-					weReceivedLink: 'https://github.com/6102bitcoin/bitcoin-only/blob/master/introduction/introduction.md'
+					weReceivedLink: 'https://github.com/bitcoin-only/bitcoin-only/blob/master/pages/what-is-bitcoin.vue'
 				},
 				{
 					peer: 'Marc Chouinard',

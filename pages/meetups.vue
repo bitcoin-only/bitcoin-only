@@ -386,6 +386,13 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Holly Springs, NC',
+					link: 'https://www.meetup.com/holly-springs-bitcoin-meetup-group/',
+					organizer: '@Dave_Parrish',
+					organizerLink: 'https://twitter.com/Dave_Parrish/status/1354810724325810185'
+				},
+				{
+					country: 'USA',
 					city: 'Irvine',
 					link: 'https://www.meetup.com/oc-btc/',
 					organizer: '@sthenc',

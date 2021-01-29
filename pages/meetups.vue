@@ -395,8 +395,8 @@ export default {
 					country: 'USA',
 					city: 'Irvine',
 					link: 'https://www.meetup.com/oc-btc/',
-					organizer: '@sthenc',
-					organizerLink: 'https://twitter.com/sthenc/status/1131928269626851328'
+					organizer: '@ocbtcn',
+					organizerLink: 'https://twitter.com/ocbtcn'
 				},
 				{
 					country: 'USA',

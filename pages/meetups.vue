@@ -430,8 +430,8 @@ export default {
 					country: 'USA',
 					city: 'Raleigh',
 					link: 'https://meetu.ps/c/11CJj/5jYS/d',
-					organizer: '@Dave_Parrish',
-					organizerLink: 'https://twitter.com/Dave_Parrish/status/1131940216737075200'
+					organizer: '@Steve_Jeffress',
+					organizerLink: 'https://twitter.com/Steve_Jeffress/status/1354864725675433988'
 				},
 				{
 					country: 'USA',

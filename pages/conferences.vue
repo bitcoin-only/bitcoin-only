@@ -85,16 +85,16 @@ export default {
 					dates: '2021 / Apr / 10-11th'
 				},
 				{
-					title: 'Bitcoin 2021',
-					link: 'https://b.tc/conference',
-					location: 'Los Angeles, CA / USA',
-					dates: '2021 / Apr / 30-1st'
-				},
-				{
 					title: 'Portland Bitcoin Conf',
 					link: 'https://portlandbitcoinconference.com/',
 					location: 'Portland, OR / USA',
 					dates: '2021 / May / 23rd'
+				},
+				{
+					title: 'Bitcoin 2021',
+					link: 'https://b.tc/conference',
+					location: 'Miami, FL / USA',
+					dates: '2021 / June / 4-5th'
 				},
 				{
 					title: 'Bit Block Boom!',

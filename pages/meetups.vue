@@ -365,6 +365,13 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Anaheim',
+					link: 'https://www.meetup.com/oc-btc/',
+					organizer: '@ocbtcn',
+					organizerLink: 'https://twitter.com/ocbtcn'
+				},
+				{
+					country: 'USA',
 					city: 'Austin',
 					link: 'https://www.meetup.com/Austin-Bitcoin-Developers/',
 					organizer: '@_justinmoon_',
@@ -379,6 +386,13 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Denver',
+					link: 'https://www.meetup.com/Bitcoin-and-Beer/',
+					organizer: '@beerbitcoin',
+					organizerLink: 'https://twitter.com/BeerBitcoin'
+				},
+				{
+					country: 'USA',
 					city: 'Georgetown, Washington',
 					link: 'https://www.eventbrite.com/e/georgetown-bitcoin-meetup-tickets-84828150281',
 					organizer: '@gtown_bitcoin',
@@ -390,13 +404,6 @@ export default {
 					link: 'https://www.meetup.com/holly-springs-bitcoin-meetup-group/',
 					organizer: '@Dave_Parrish',
 					organizerLink: 'https://twitter.com/Dave_Parrish/status/1354810724325810185'
-				},
-				{
-					country: 'USA',
-					city: 'Irvine',
-					link: 'https://www.meetup.com/oc-btc/',
-					organizer: '@ocbtcn',
-					organizerLink: 'https://twitter.com/ocbtcn'
 				},
 				{
 					country: 'USA',
@@ -418,6 +425,13 @@ export default {
 					link: 'https://www.meetu.ps/c/3Js7d/t1fRT/d',
 					organizer: '@TiKawamoto',
 					organizerLink: 'https://twitter.com/TiKawamoto/status/1131919021589389312'
+				},
+				{
+					country: 'USA',
+					city: 'Phoenix',
+					link: 'https://www.meetup.com/azbitcoin/',
+					organizer: '@sthenc',
+					organizerLink: 'https://twitter.com/sthenc/status/1355291173133320194'
 				},
 				{
 					country: 'USA',

@@ -276,6 +276,11 @@ export default {
 					description: 'Bitcoin information'
 				},
 				{
+					title: 'Bitcoin-Intro',
+					link: 'https://bitcoin-intro.com/',
+					description: 'Step by Step bitcoin onboarding guide'
+				},
+				{
 					title: 'BitKnow',
 					link: 'https://thebitgeneration.org/',
 					description: 'Quality Bitcoin blog'

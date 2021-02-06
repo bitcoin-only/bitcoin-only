@@ -331,6 +331,11 @@ export default {
 					description: 'Basics guide & glossary'
 				},
 				{
+					title: 'Storing Bitcoin',
+					link: 'https://storingbitcoin.info/',
+					description: 'Interactive guide to storing bitcoin'
+				},
+				{
 					title: 'Towards Liberty',
 					link: 'http://towardsliberty.com/bitcoin',
 					description: 'Open source Bitcoin archive'

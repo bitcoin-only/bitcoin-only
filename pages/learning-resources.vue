@@ -2,6 +2,14 @@
 	<div id="learning-resources-page">
 		<h1 class="page-title">Learning Resources</h1>
 
+		<div class="getting-started-section">
+
+			<h3>Getting Started</h3>
+
+			<p>Work through the steps on <a href="https://bitcoin-intro.com/" target="_blank">bitcoin-intro.com</a>.</p>
+
+		</div>
+
 		<h3>Articles</h3>
 
 		<div class="tbl-scroller">

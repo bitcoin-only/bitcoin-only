@@ -246,7 +246,7 @@ export default {
 					title: 'Muun Wallet',
 					link: 'https://muun.com/',
 					description: 'Relatively new wallet with novel multi-sig 2-of-2 spending.',
-					platform: 'Android'
+					platform: 'iOS & Android'
 				},
 				{
 					title: 'Samourai Wallet',
@@ -298,6 +298,12 @@ export default {
 					link: 'https://github.com/ACINQ/eclair-mobile',
 					description: 'Lightning-ready Bitcoin wallet',
 					platform: 'Android'
+				},
+				{
+					title: 'Muun Wallet',
+					link: 'https://muun.com/',
+					description: 'Relatively new lightning wallet',
+					platform: 'iOS & Android'
 				},
 				{
 					title: 'Phoenix',

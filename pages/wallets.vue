@@ -300,6 +300,12 @@ export default {
 					platform: 'Android'
 				},
 				{
+					title: 'Electrum',
+					link: 'https://electrum.org/#home',
+					description: 'The most feature rich bitcoin desktop wallet available today',
+					platform: 'Desktop'
+				},
+				{
 					title: 'Muun Wallet',
 					link: 'https://muun.com/',
 					description: 'Relatively new lightning wallet',

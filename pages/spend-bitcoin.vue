@@ -240,6 +240,11 @@ export default {
 					description: 'Stamps, stickers, & more'
 				},
 				{
+					title: '21 million',
+					link: 'https://21million.co/',
+					description: 'Bitcoin Apparel'
+				},
+				{
 					title: '21X',
 					link: 'https://www.21x.io/',
 					description: 'Bitcoin art, designs, & merchandise'

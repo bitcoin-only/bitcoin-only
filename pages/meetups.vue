@@ -128,9 +128,9 @@ export default {
 				{
 					country: 'Australia',
 					city: 'Perth',
-					link: 'https://www.meetup.com/Bitcoin-Only-Perth/',
-					organizer: '@Ben_Sharp_',
-					organizerLink: 'https://twitter.com/Ben_Sharp_/status/1155804520674279424'
+					link: 'https://t.me/bitcoin_perth',
+					organizer: '@_Bosch_',
+					organizerLink: 'https://twitter.com/_Bosch_/status/1362077347541704713'
 				},
 				{
 					country: 'Australia',

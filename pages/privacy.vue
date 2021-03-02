@@ -189,7 +189,7 @@ export default {
 			otherInfo: [
 				{
 					title: '10 Tips For Interacting With Bitcoin more Privately',
-					link: 'https://www.bitcoinqna.com/post/10-tips-for-interacting-with-bitcoin-more-privately',
+					link: 'https://bitcoiner.guide/privacytips/',
 					author: 'Bitcoin Q+A',
 					authorLink: 'https://twitter.com/BitcoinQ_A'
 				},

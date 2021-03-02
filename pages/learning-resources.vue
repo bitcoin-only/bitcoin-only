@@ -255,7 +255,7 @@ export default {
 				},
 				{
 					title: 'Bitcoin Q & A',
-					link: 'https://www.bitcoinqna.com/',
+					link: 'https://bitcoiner.guide/qna/',
 					description: 'Extensive questions & answers'
 				},
 				{

@@ -94,6 +94,11 @@ export default {
 					link: 'https://t.me/bitcoinvr_aus',
 					description: 'VR meetup *'
 				},
+				{
+					title: 'Sovereign Club',
+					link: 'https://matrix.to/#/#SovereignClub:matrix.org',
+					description: '24/7 voice chat'
+				},
 			],
 
 			meatspace: [

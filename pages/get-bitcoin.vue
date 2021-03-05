@@ -212,7 +212,7 @@ export default {
 					title: 'Relai',
 					link: 'https://relai.ch/',
 					description: 'Buy & Sell',
-					location: 'Switzerland',
+					location: 'EU',
 					autoDca: 'Yes'
 				},
 				{

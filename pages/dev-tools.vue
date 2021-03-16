@@ -224,11 +224,6 @@ export default {
 			],
 			services: [
 				{
-					title: '8333.io',
-					link: 'https://8333.io/',
-					description: 'Trustless Bitcoin Service Provider'
-				},
-				{
 					title: 'Blockstream Satellite',
 					link: 'https://blockstream.com/satellite/',
 					description: 'Blockchain satellite service'

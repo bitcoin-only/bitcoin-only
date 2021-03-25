@@ -243,7 +243,7 @@ export default {
 				},
 				{
 					title: 'Hodl Privacy',
-					link: 'https://github.com/6102bitcoin/FAQ/blob/master/hodl-privacy.md',
+					link: 'https://6102bitcoin.com/faq-hodl-privacy/',
 					author: '6102bitcoin',
 					authorLink: 'https://twitter.com/6102bitcoin'
 				},

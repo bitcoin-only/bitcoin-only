@@ -81,6 +81,11 @@ export default {
 					title: 'paid.co',
 					link: 'https://paid.co/',
 					description: 'Sell things for Bitcoin (uses OpenNode) *'
+				},
+				{
+					title: 'zaprite (BETA)',
+					link: 'https://app.zaprite.com/',
+					description: 'Bitcoin invoicing and task management'
 				}
 			]
 

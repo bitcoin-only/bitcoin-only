@@ -387,6 +387,16 @@ export default {
 
 			advancedStorageMethods: [
 				{
+					title: '10x Security Bitcoin Guide',
+					link: 'https://btcguide.github.io/',
+					devs: [
+						{
+							name: 'Michael Flaxman',
+							link: 'https://twitter.com/mflaxman/'
+						}
+					]
+				},
+				{
 					title: 'Casa Wealth Security Protocol',
 					link: 'https://github.com/Casa/wealth-security-protocol',
 					devs: [

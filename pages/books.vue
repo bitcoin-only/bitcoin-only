@@ -104,6 +104,30 @@ export default {
 					]
 				},
 				{
+					title: 'Bitcoin from theory to practice',
+					synopsis: 'Step by step bitcoin explainer with code tutorials',
+					authors: [
+						{
+							name: 'Alessio Barnini',
+							link: 'https://twitter.com/satoshiwantsyou'
+						},
+						{
+							name: 'Alessandro Aglietti',
+							link: 'https://twitter.com/satoshiwantsyou'
+						}
+					],
+					purchaseLinks: [
+						{
+							title: 'Direct',
+							link: 'https://www.corsobitcoin.com/prodotto/bitcoin-from-theory-to-practice/'
+						},
+						{
+							title: 'Amazon',
+							link: 'https://www.amazon.com/Bitcoin-theory-practice-Alessio-Barnini-ebook/dp/B08BJCBDGF/'
+						}
+					]
+				},
+				{
 					title: 'Grokking Bitcoin',
 					synopsis: 'Illustrated Bitcoin Explainer',
 					authors: [

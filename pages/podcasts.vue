@@ -237,6 +237,11 @@ export default {
 					description: 'Interviews with Bitcoiners'
 				},
 				{
+					title: 'Unhashed Podcast',
+					link: 'https://www.unhashedpodcast.com/',
+					description: 'Weekly Bitcoin news & explanations'
+				},
+				{
 					title: 'Wake Up Podcast',
 					link: 'https://anchor.fm/wakeuppod',
 					description: 'Interviews with Bitcoiners with <a href="https://twitter.com/AleksSvetski" target="_blank">Aleks Svetski</a>'

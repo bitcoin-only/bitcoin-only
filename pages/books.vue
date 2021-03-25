@@ -104,6 +104,30 @@ export default {
 					]
 				},
 				{
+					title: 'Bitcoin 199 Questions',
+					synopsis: 'Very concise answers to 199 bitcoin questions',
+					authors: [
+						{
+							name: 'Alessio Barnini',
+							link: 'https://twitter.com/satoshiwantsyou'
+						},
+						{
+							name: 'Alessandro Aglietti',
+							link: 'https://twitter.com/satoshiwantsyou'
+						}
+					],
+					purchaseLinks: [
+						{
+							title: 'Direct',
+							link: 'https://www.corsobitcoin.com/prodotto/book-bitcoin-199-questions/'
+						},
+						{
+							title: 'Amazon',
+							link: 'https://www.amazon.com/Bitcoin-199-questions-Alessio-Barnini/dp/1078155585/'
+						}
+					]
+				},
+				{
 					title: 'Bitcoin from theory to practice',
 					synopsis: 'Step by step bitcoin explainer with code tutorials',
 					authors: [

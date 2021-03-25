@@ -182,6 +182,11 @@ export default {
 					description: 'The definitive introduction to what Bitcoin is by BJ Dweck'
 				},
 				{
+					title: 'Bitcoin In Action',
+					link: 'https://www.youtube.com/BitcoinInAction',
+					description: 'Italian technical bitcoin explanations '
+				},
+				{
 					title: 'BitKnow',
 					link: 'https://www.youtube.com/channel/UCYa3V18xMgDCzs5Ae3qQIMQ',
 					description: 'Interviews'

@@ -84,6 +84,26 @@ export default {
 					]
 				},
 				{
+					title: 'Bitcoin and Lightning Network on Raspberry Pi',
+					synopsis: 'Bitcoin node tutorials & detailed explanations',
+					authors: [
+						{
+							name: 'Harris Brakmic',
+							link: 'https://twitter.com/brakmic'
+						}
+					],
+					purchaseLinks: [
+						{
+							title: 'Amazon',
+							link: 'https://www.amazon.com/dp/1484255216'
+						},
+						{
+							title: 'Publisher',
+							link: 'https://www.apress.com/gp/book/9781484255216'
+						}
+					]
+				},
+				{
 					title: 'Bitcoin Money',
 					synopsis: 'Bitcoin story book for kids',
 					authors: [

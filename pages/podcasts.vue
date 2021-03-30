@@ -245,6 +245,11 @@ export default {
 					title: 'Wake Up Podcast',
 					link: 'https://anchor.fm/wakeuppod',
 					description: 'Interviews with Bitcoiners with <a href="https://twitter.com/AleksSvetski" target="_blank">Aleks Svetski</a>'
+				},
+				{
+					title: 'BTC Sessions',
+					link: 'https://www.youtube.com/channel/UChzLnWVsl3puKQwc5PoO6Zg',
+					description: 'Informative Bitcoin News, Anaysis, Tutorials, and Discussions'
 				}
 			],
 			dutchPodcasts: [

@@ -202,13 +202,6 @@ export default {
 					autoDca: 'No'
 				},
 				{
-					title: 'Graaf',
-					link: 'https://www.graaf.one/',
-					description: 'Buy',
-					location: 'Canada',
-					autoDca: 'No'
-				},
-				{
 					title: 'Relai',
 					link: 'https://relai.ch/',
 					description: 'Buy & Sell',

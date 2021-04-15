@@ -384,6 +384,13 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Redding, California',
+					link: 'https://www.meetup.com/Redding-Bitcoin-Meetup/',
+					organizer: '@dooowta',
+					organizerLink: 'https://twitter.com/dooowta'
+				},
+				{
+					country: 'USA',
 					city: 'Charlotte, North Carolina',
 					link: 'http://www.meetup.com/BitcoinCharlotte',
 					organizer: '@jacobparrish',

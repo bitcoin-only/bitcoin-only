@@ -242,13 +242,6 @@ export default {
 					description: 'Buy & Sell',
 					location: 'Vietnam',
 					autoDca: 'No'
-				},
-				{
-					title: 'xsats',
-					link: 'https://xsats.com/',
-					description: 'Buy',
-					location: 'UK',
-					autoDca: 'Yes'
 				}
 			],
 

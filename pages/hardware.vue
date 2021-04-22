@@ -152,6 +152,11 @@ export default {
 					description: 'Full Stack (Rockpro 64 / Pi4 / Odroid N2)'
 				},
 				{
+					title: 'Start9 Embassy',
+					link: 'https://docs.start9labs.com/getting-started/diy.html',
+					description: 'Full Stack (Pi4)'
+				},
+				{
 					title: 'The Bitcoin Machines',
 					link: 'https://thebitcoinmachines.com/',
 					description: 'Custom made enclosure, heatsink, & SATA expansion'

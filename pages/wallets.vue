@@ -318,6 +318,12 @@ export default {
 					platform: 'Android'
 				},
 				{
+					title: 'Ride The Lightning',
+					link: 'https://github.com/Ride-The-Lightning/RTL',
+					description: 'Web user interface to manage lightning node operations',
+					platform: 'Web'
+				},
+				{
 					title: 'Sats App',
 					link: 'https://satsapp.com/',
 					description: 'Mobile non-custodial wallet connected to Casa node',

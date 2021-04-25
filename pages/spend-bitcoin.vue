@@ -265,6 +265,11 @@ export default {
 					description: 'Clothing, mugs, & more'
 				},
 				{
+					title: 'Bitcoin Gear',
+					link: 'https://www.bitcoin-gear.com/',
+					description: 'Bitcoin merchandise'
+				},
+				{
 					title: 'Bitko Yinowsky',
 					link: 'https://bitko.cc/',
 					description: 'Bitcoin art'

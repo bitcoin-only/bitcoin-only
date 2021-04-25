@@ -220,6 +220,11 @@ export default {
 					description: 'Optical seed encryption tool'
 				},
 				{
+					title: 'Seed Signer',
+					link: 'https://github.com/SeedSigner/seedsigner',
+					description: 'Offline, airgapped Bitcoin signing device'
+				},
+				{
 					title: 'Specter DIY',
 					link: 'https://github.com/cryptoadvance/specter-diy',
 					description: 'DIY cold storage hardware wallet'

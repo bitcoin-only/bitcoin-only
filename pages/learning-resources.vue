@@ -168,6 +168,11 @@ export default {
 					description: 'Weekly summary of Bitcoin and Lightning Network news'
 				},
 				{
+					title: 'Bitcoin Monthly',
+					link: 'https://bitcoiner.guide/monthly',
+					description: 'Monthly index of Bitcoin and Lightning Network news and developments'
+				},
+				{
 					title: 'The Bitcoin Times',
 					link: 'https://bitcointimes.news/',
 					description: 'A beautiful, informative and stylish publication released 2-3 times per year'

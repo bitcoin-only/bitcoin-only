@@ -330,6 +330,12 @@ export default {
 					platform: 'iOS & Android (Beta)'
 				},
 				{
+					title: 'Thunderhub',
+					link: 'https://thunderhub.io',
+					description: 'Web user interface to manage lightning node operations',
+					platform: 'Web'
+				},
+				{
 					title: 'Zap',
 					link: 'https://zap.jackmallers.com/',
 					description: 'Desktop Lightning wallet. Mobile LND interface',

@@ -50,6 +50,7 @@ export default {
 	modules: [
 		// https://go.nuxtjs.dev/buefy
 		'nuxt-buefy',
+		['nuxt-matomo', { matomoUrl: '//stats.wiz.biz/', siteId: 1 }]
 	],
 
 	// Build Configuration (https://go.nuxtjs.dev/config-build)

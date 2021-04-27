@@ -12,7 +12,8 @@
 	"dependencies": {
 		"core-js": "^3.6.5",
 		"nuxt": "^2.14.6",
-		"nuxt-buefy": "^0.4.3"
+		"nuxt-buefy": "^0.4.3",
+		"nuxt-matomo": "^1.2.4"
 	},
 	"devDependencies": {
 		"@nuxt/types": "^2.14.12",

@@ -79,12 +79,6 @@ export default {
 
 			upcomingConferences: [
 				{
-					title: 'Bear Arms N\' Bitcoin',
-					link: 'https://gunsnbitcoin.com/',
-					location: 'Round Rock, TX / USA',
-					dates: '2021 / Apr / 10-11th'
-				},
-				{
 					title: 'Portland Bitcoin Conf',
 					link: 'https://portlandbitcoinconference.com/',
 					location: 'Portland, OR / USA',
@@ -104,6 +98,12 @@ export default {
 				},
 			],
 			lookingBack: [
+				{
+					title: 'Bear Arms N\' Bitcoin',
+					link: 'https://gunsnbitcoin.com/',
+					location: 'Round Rock, TX / USA',
+					dates: '2021 / Apr / 10-11th'
+				},
 				{
 					title: 'Bit Block Boom!',
 					link: 'https://bitblockboom.com/',

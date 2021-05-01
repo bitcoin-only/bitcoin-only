@@ -123,7 +123,7 @@ export default {
 			englishPodcasts: [
 				{
 					title: 'Bitcoin Audible',
-					link: 'https://cryptoconomy.life/home/',
+					link: 'https://bitcoinaudible.com/',
 					description: 'Narrations of the best Bitcoin articles'
 				},
 				{

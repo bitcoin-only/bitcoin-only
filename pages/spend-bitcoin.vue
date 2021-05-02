@@ -198,6 +198,11 @@ export default {
 					description: 'Provably fair Bitcoin poker'
 				},
 				{
+					title: 'Hello Dime',
+					link: 'https://www.hellodime.com/',
+					description: 'Bitcoin inspired card game'
+				},
+				{
 					title: 'Moneni',
 					link: 'https://moneni.com/',
 					description: 'Lightning games'

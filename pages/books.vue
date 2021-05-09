@@ -172,6 +172,26 @@ export default {
 					]
 				},
 				{
+					title: 'Cryptoeconomics',
+					synopsis: 'Fundamental Principles of Bitcoin',
+					authors: [
+						{
+							name: 'Eric Voskuil',
+							link: 'https://twitter.com/evoskuil'
+						}
+					],
+					purchaseLinks: [
+						{
+							title: 'Free PDF',
+							link: 'https://voskuil.org/cryptoeconomics/cryptoeconomics.pdf'
+						},
+						{
+							title: 'Amazon',
+							link: 'https://www.amazon.com/dp/1735060828'
+						}
+					]
+				},
+				{
 					title: 'Grokking Bitcoin',
 					synopsis: 'Illustrated Bitcoin Explainer',
 					authors: [

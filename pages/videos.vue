@@ -18,6 +18,8 @@
 
 		</div>
 
+		<p>Find more bitcoin videos at <a href="https://bitcointv.com/" target="_blank">BitcoinTV.com</a></p>
+
 		<h3>Video Podcasts</h3>
 
 		<div class="tbl-scroller">

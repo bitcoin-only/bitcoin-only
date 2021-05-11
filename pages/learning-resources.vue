@@ -234,6 +234,11 @@ export default {
 					title: 'The Bitcoin Standard Academy',
 					link: 'https://saifedean.com/academy/',
 					description: '10-week course online'
+				},
+				{
+					title: 'Towards Liberty',
+					link: 'http://towardsliberty.com/bitcoin',
+					description: 'Bitcoin mentorship'
 				}
 			],
 
@@ -352,11 +357,6 @@ export default {
 					title: 'Storing Bitcoin',
 					link: 'https://storingbitcoin.info/',
 					description: 'Interactive guide to storing bitcoin'
-				},
-				{
-					title: 'Towards Liberty',
-					link: 'http://towardsliberty.com/bitcoin',
-					description: 'Open source Bitcoin archive'
 				},
 				{
 					title: 'Veriphi',

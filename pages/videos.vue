@@ -153,7 +153,7 @@ export default {
 				},
 				{
 					title: 'KIS Bitcoin',
-					link: 'https://www.keepitsimplebitcoin.com/videos/',
+					link: 'https://www.keepitsimplebitcoin.com/guides/',
 					description: 'Keep It Simple - practical guides'
 				},
 				{

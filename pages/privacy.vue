@@ -130,7 +130,7 @@ export default {
 					learnMore: [
 						{
 							name: 'Text',
-							link: 'https://github.com/6102bitcoin/FAQ/blob/master/wasabi.md'
+							link: 'https://6102bitcoin.com/faq-wasabi/'
 						},
 						{
 							name: 'Video',
@@ -149,7 +149,7 @@ export default {
 					learnMore: [
 						{
 							name: 'Text',
-							link: 'https://github.com/6102bitcoin/FAQ/blob/master/whirlpool.md'
+							link: 'https://6102bitcoin.com/faq-whirlpool/'
 						},
 						{
 							name: 'Video',
@@ -254,8 +254,8 @@ export default {
 					authorLink: 'https://twitter.com/6102bitcoin'
 				},
 				{
-					title: 'Seed FAQ',
-					link: 'https://github.com/6102bitcoin/FAQ/blob/master/seed.md',
+					title: 'Seed/Backup FAQ',
+					link: 'https://bitcoin-intro.com/en/backup',
 					author: '6102bitcoin',
 					authorLink: 'https://twitter.com/6102bitcoin'
 				}

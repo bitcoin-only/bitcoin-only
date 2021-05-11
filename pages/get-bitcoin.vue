@@ -257,11 +257,6 @@ export default {
 					description: 'Bitcoin fundraising *'
 				},
 				{
-					title: 'LNDwork',
-					link: 'https://www.lndwork.com/',
-					description: 'Micro-freelancing'
-				},
-				{
 					title: 'MicroLancer',
 					link: 'https://microlancer.io/',
 					description: 'Micro-freelancing'

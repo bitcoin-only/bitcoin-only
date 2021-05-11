@@ -126,12 +126,12 @@ export default {
 				},
 				{
 					title: 'Advancing Bitcoin',
-					link: 'https://www.advancingbitcoin.com/',
+					link: 'https://web.archive.org/web/20190206134928/https://www.advancingbitcoin.com/',
 					pastContent: '<a href="https://vimeo.com/user94991385" target="_blank">2019</a>'
 				},
 				{
 					title: 'Baltic Honeybadger',
-					link: 'https://bitcoinmeritbadge.com/',
+					link: 'https://bh2019.hodlhodl.com/',
 					pastContent: '2019: <a href="https://www.youtube.com/watch?v=2IpZWSWUIVE" target="_blank">Day 1</a> | <a href="https://www.youtube.com/watch?v=ns_I2LpeAbQ" target="_blank">Day 2</a> / <a href="https://bh2018.hodlhodl.com/" target="_blank">2018</a>'
 				},
 				{

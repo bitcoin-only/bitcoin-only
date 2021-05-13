@@ -433,6 +433,13 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Miami, Florida',
+					link: 'https://www.meetup.com/miamibitcoiners/',
+					organizer: '@jonchenot',
+					organizerLink: 'https://twitter.com/jonchenot/status/1388988111338807297'
+				},
+				{
+					country: 'USA',
 					city: 'NYC',
 					link: 'https://www.meetu.ps/c/3Js7d/t1fRT/d',
 					organizer: '@TiKawamoto',

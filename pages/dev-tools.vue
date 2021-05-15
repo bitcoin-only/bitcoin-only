@@ -120,6 +120,11 @@ export default {
 					description: 'Scala Bitcoin library'
 				},
 				{
+					title: 'Bitcoin Dev Kit',
+					link: 'https://bitcoindevkit.org/',
+					description: 'Rust Bitcoin tools and libraries'
+				},
+				{
 					title: 'Braiins OS',
 					link: 'https://braiins-os.org/',
 					description: 'Open source mining software'

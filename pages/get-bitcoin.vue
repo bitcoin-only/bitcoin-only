@@ -202,6 +202,13 @@ export default {
 					autoDca: 'No'
 				},
 				{
+					title: 'Pocket Bitcoin',
+					link: 'https://pocketbitcoin.com/',
+					description: 'Buy',
+					location: 'EU',
+					autoDca: 'Yes'
+				},
+				{
 					title: 'Relai',
 					link: 'https://relai.ch/',
 					description: 'Buy & Sell',

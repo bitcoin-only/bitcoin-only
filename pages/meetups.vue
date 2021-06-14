@@ -475,6 +475,13 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'San Diego, California',
+					link: 'https://sdbitcoiners.com',
+					organizer: '@sdbitcoiners',
+					organizerLink: 'https://twitter.com/sdbitcoiners/status/1402331053549711360'
+				},
+				{
+					country: 'USA',
 					city: 'Toledo, Ohio',
 					link: 'https://toledobitcoin.wordpress.com/',
 					organizer: '@MaxwellSikorski',

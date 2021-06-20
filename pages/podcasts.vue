@@ -247,6 +247,11 @@ export default {
 					description: 'Interviews with Bitcoiners with <a href="https://twitter.com/AleksSvetski" target="_blank">Aleks Svetski</a>'
 				},
 				{
+					title: 'What Bitcoin Did',
+					link: 'https://www.whatbitcoindid.com/',
+					description: 'Interviews with Bitcoiners with <a href="https://twitter.com/PeterMcCormack" target="_blank">Peter McCormack</a>'
+				},
+				{
 					title: 'BTC Sessions',
 					link: 'https://www.youtube.com/channel/UChzLnWVsl3puKQwc5PoO6Zg',
 					description: 'Informative Bitcoin News, Anaysis, Tutorials, and Discussions'

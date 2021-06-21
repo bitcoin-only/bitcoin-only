@@ -167,6 +167,13 @@ export default {
 					autoDca: '?'
 				},
 				{
+					title: 'Bittr',
+					link: 'https://getbittr.com/',
+					description: 'Buy',
+					location: 'EU',
+					autoDca: 'Yes'
+				},
+				{
 					title: 'BullBitcoin',
 					link: 'https://bullbitcoin.com/',
 					description: 'Buy & Sell',

@@ -249,6 +249,11 @@ export default {
 					description: 'Links to 10h of Bitcoin lessons'
 				},
 				{
+					title: 'BIPs',
+					link: 'https://bips.xyz/',
+					description: 'Explorer for BIPs. View, search and share easily BIPs'
+				},
+				{
 					title: 'Bitcoin Briefly',
 					link: 'https://bitcoinbriefly.com/',
 					description: 'Brief Bitcoin Explanations'

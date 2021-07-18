@@ -177,6 +177,13 @@ export default {
 					autoDca: 'Yes'
 				},
 				{
+					title: 'Bitcoin Reserve',
+					link: 'https://bitcoinreserve.com/',
+					description: 'Buy',
+					location: 'EU',
+					autoDca: 'No'
+				},
+				{
 					title: 'Bitonic',
 					link: 'https://bitonic.nl/',
 					description: 'Buy & Sell',

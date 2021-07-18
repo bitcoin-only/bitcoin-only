@@ -72,6 +72,23 @@
 
 		<div class="footnote">* Tallycoin & jfgi could at any time swap out your donation address for their own.</div>
 
+		<h3>Win</h3>
+
+		<div class="tbl-scroller">
+			<div class="tbl-wrapper">
+				<div class="tbl-header">
+					<div class="tbl-title">Name</div>
+					<div class="tbl-title">Description</div>
+				</div>
+				<div v-for="(service, index) in winBitcoin" :key="index" class="tbl-row">
+					<div>
+						<a :href="service.link" target="_blank">{{ service.title }}</a>
+					</div>
+					<div>{{ service.description }}</div>
+				</div>
+			</div>
+		</div>
+
 		<h3>Cashback Rewards</h3>
 
 		<div class="tbl-scroller">
@@ -261,11 +278,6 @@ export default {
 
 			earnBitcoin: [
 				{
-					title: 'Hangar Six Gaming',
-					link: 'https://www.hangarsixgaming.com/',
-					description: 'Lightning gaming'
-				},
-				{
 					title: 'jfgi',
 					link: 'https://www.jfgi.cc/',
 					description: 'Bitcoin fundraising *'
@@ -284,6 +296,19 @@ export default {
 					title: 'TallyCoin',
 					link: 'https://tallyco.in/',
 					description: 'Bitcoin Fundraising *'
+				}
+			],
+
+			winBitcoin: [
+				{
+					title: 'Hangar Six Gaming',
+					link: 'https://www.hangarsixgaming.com/',
+					description: 'Lightning gaming'
+				},
+				{
+					title: 'THNDR Games',
+					link: 'https://thndr.games',
+					description: 'Lightning games'
 				}
 			],
 

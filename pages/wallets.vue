@@ -101,6 +101,7 @@
 				<div class="tbl-header">
 					<div class="tbl-title">Project</div>
 					<div class="tbl-title">Dev</div>
+					<div class="tbl-title">Description</div>
 				</div>
 				<div v-for="(wallet, index) in advancedStorageMethods" :key="index" class="tbl-row">
 					<div>
@@ -111,6 +112,7 @@
 							<a :key="devIndex" :href="dev.link" target="_blank">{{ dev.name }}</a><span v-if="devIndex + 1 < wallet.devs.length">, </span>
 						</template>
 					</div>
+					<div v-html="wallet.description"></div>
 				</div>
 			</div>
 		</div>
@@ -122,6 +124,7 @@
 			<p><sup>[3]</sup>Opennode is fully custodial meaning you do not have your private keys, thus you are not guaranteed full control of your funds. You can (and should) set reoccurring withdrawals to send any bitcoin you receive to your own wallet.</p>
 			<p><sup>[4]</sup>Tippin.me is fully custodial meaning you do not have your private keys, thus you are not guaranteed full control of your funds.</p>
 			<p><sup>[5]</sup>Wallet of Satoshi is fully custodial meaning you do not have your private keys, thus you are not guaranteed full control of your funds.</p>
+			<p><sup>[6]</sup>As the wallet is closed source we recommend using 3/5 and only with hardware devices that you source independently.</p>
 		</div>
 
 	</div>
@@ -401,6 +404,7 @@ export default {
 				{
 					title: '10x Security Bitcoin Guide',
 					link: 'https://btcguide.github.io/',
+					description: 'Store bitcoin without a single point of failure.',
 					devs: [
 						{
 							name: 'Michael Flaxman',
@@ -411,6 +415,7 @@ export default {
 				{
 					title: 'Casa Wealth Security Protocol',
 					link: 'https://github.com/Casa/wealth-security-protocol',
+					description: 'Casa approach to designing their service <sup>[6]</sup>',
 					devs: [
 						{
 							name: 'Casa Team',
@@ -421,6 +426,7 @@ export default {
 				{
 					title: 'Gentle Introduction to Cold Storage',
 					link: 'https://bitzuma.com/posts/a-gentle-introduction-to-bitcoin-cold-storage/',
+					description: 'Short explanation of hot wallet risk',
 					devs: [
 						{
 							name: 'Rich Apodaca',
@@ -431,6 +437,7 @@ export default {
 				{
 					title: 'Glacier Protocol',
 					link: 'https://glacierprotocol.org/',
+					description: '[OLD] Cold storage protocol',
 					devs: [
 						{
 							name: 'Glacier Protocol',
@@ -441,6 +448,7 @@ export default {
 				{
 					title: 'Hodl Guides',
 					link: 'https://github.com/DriftwoodPalace/guides',
+					description: '[OLD] Multiple guides to cold storage.',
 					devs: [
 						{
 							name: 'Driftwood Palace',
@@ -451,6 +459,7 @@ export default {
 				{
 					title: 'Rusty\'s Bitcoin Storage Guide',
 					link: 'https://github.com/rustyrussell/bitcoin-storage-guide',
+					description: '[OLD] Cold storage guide.',
 					devs: [
 						{
 							name: 'Rusty Russell',
@@ -461,6 +470,7 @@ export default {
 				{
 					title: 'Smart Custody',
 					link: 'https://github.com/BlockchainCommons/SmartCustodyWhitePapers/blob/master/%23SmartCustody-_Simple_Self-Custody_Cold_Storage_Scenario.md',
+					description: '[OLD] Best Practices for Cold Storage',
 					devs: [
 						{
 							name: 'C. Allen',

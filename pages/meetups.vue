@@ -440,6 +440,13 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Minneapolis',
+					link: 'https://t.me/joinchat/SWd5ZeVCAhGpZIjh',
+					organizer: '@Bquittem',
+					organizerLink: 'https://twitter.com/Bquittem/status/1415441814933344266'
+				},
+				{
+					country: 'USA',
 					city: 'NYC',
 					link: 'https://www.meetu.ps/c/3Js7d/t1fRT/d',
 					organizer: '@TiKawamoto',

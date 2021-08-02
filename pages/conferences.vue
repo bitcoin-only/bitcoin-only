@@ -79,23 +79,24 @@ export default {
 
 			upcomingConferences: [
 				{
-					title: 'Portland Bitcoin Conf',
-					link: 'https://portlandbitcoinconference.com/',
-					location: 'Portland, OR / USA',
-					dates: '2021 / May / 23rd'
-				},
-				{
-					title: 'Bitcoin 2021',
-					link: 'https://b.tc/conference',
-					location: 'Miami, FL / USA',
-					dates: '2021 / June / 4-5th'
-				},
-				{
 					title: 'Bit Block Boom!',
 					link: 'https://bitblockboom.com/',
 					location: 'Dallas, TX / USA',
 					dates: '2021 / Aug / 26-29th'
 				},
+				{
+					title: 'The Atlanta Bitcoin Conference',
+					link: 'https://tabconf.com/',
+					location: 'Atlanta, GA / USA',
+					dates: '2021 / Nov / 4-6th'
+				},
+				{
+					title: 'Bitcoin 2022',
+					link: 'https://b.tc/conference',
+					location: 'TBD',
+					dates: '2022 / Q1'
+				},
+				
 			],
 			lookingBack: [
 				{

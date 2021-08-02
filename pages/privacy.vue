@@ -219,7 +219,7 @@ export default {
 				},
 				{
 					title: 'JoinMarket.me (Bitcoin Privacy Blog)',
-					link: 'https://joinmarket.me/blog/',
+					link: 'https://joinmarket.me/',
 					author: 'Adam Gibson',
 					authorLink: 'https://twitter.com/waxwing__'
 				},

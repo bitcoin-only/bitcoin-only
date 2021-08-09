@@ -185,6 +185,11 @@ export default {
 					link: 'https://bitcoin.clarkmoody.com/dashboard/',
 					description: 'Bitcoin & LN metrics'
 				}
+				{
+					title: 'Priced In Bitcoin',
+					link: 'https://www.pricedinbitcoin21.com/about',
+					description: 'Price of assets in BTC'
+				}
 			],
 			offlineBitcoin: [
 				{

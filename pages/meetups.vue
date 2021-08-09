@@ -419,6 +419,13 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Houston, Texas',
+					link: 'https://www.meetup.com/houston-bitcoin-meetup-group/',
+					organizer: '@lacrosse_al',
+					organizerLink: 'https://twitter.com/lacrosse_al/status/1372764115807080457'
+				},
+				{
+					country: 'USA',
 					city: 'Little Rock',
 					link: 'https://www.meetup.com/Bitcoin-Little-Block/',
 					organizer: '@_joerodgers',

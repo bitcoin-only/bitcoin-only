@@ -489,6 +489,13 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'San Francisco Bay Area, California',
+					link: 'https://www.meetup.com/bay-bitcoin-meetup/',
+					organizer: '@thomasbtc',
+					organizerLink: 'https://twitter.com/thomasbtc/status/1414659662377459735?s=20'
+				},
+				{
+					country: 'USA',
 					city: 'Toledo, Ohio',
 					link: 'https://toledobitcoin.wordpress.com/',
 					organizer: '@MaxwellSikorski',

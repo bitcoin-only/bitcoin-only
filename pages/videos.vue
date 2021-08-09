@@ -189,6 +189,11 @@ export default {
 					description: 'Italian technical bitcoin explanations '
 				},
 				{
+					title: 'Bitcoin Stimulus',
+					link: 'https://www.youtube.com/channel/UCI6gR1ViAl7hJ2NNOg7S5yA',
+					description: 'Short Engaging Animated Explainers'
+				},
+				{
 					title: 'BitKnow',
 					link: 'https://www.youtube.com/channel/UCYa3V18xMgDCzs5Ae3qQIMQ',
 					description: 'Interviews'

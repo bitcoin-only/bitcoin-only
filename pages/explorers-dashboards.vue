@@ -176,6 +176,11 @@ export default {
 					description: 'Bitcoin & LN graphs'
 				},
 				{
+					title: 'Bitcoin Stimulus',
+					link: 'https://www.bitcoinstimulus.net/',
+					description: 'Tracking stimulus check buying power'
+				},
+				{
 					title: 'Bitcoin Treasuries',
 					link: 'https://bitcointreasuries.org/',
 					description: 'Publicly-traded companies holding Bitcoin'

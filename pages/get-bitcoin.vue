@@ -233,6 +233,13 @@ export default {
 					autoDca: 'No'
 				},
 				{
+					title: 'HardBlock',
+					link: 'https://www.hardblock.com.au/',
+					description: 'Buy & Sell',
+					location: 'Australia',
+					autoDca: 'No'
+				},
+				{
 					title: 'Pocket Bitcoin',
 					link: 'https://pocketbitcoin.com/',
 					description: 'Buy',

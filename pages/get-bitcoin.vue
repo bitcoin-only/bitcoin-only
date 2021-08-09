@@ -219,6 +219,13 @@ export default {
 					autoDca: 'Yes'
 				},
 				{
+					title: 'Flitz',
+					link: 'https://flitz.be/',
+					description: 'Buy',
+					location: 'EU',
+					autoDca: 'Yes'
+				},
+				{
 					title: 'FastBitcoins',
 					link: 'https://fastbitcoins.com/',
 					description: 'Buy & Sell',

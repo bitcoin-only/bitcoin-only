@@ -496,6 +496,13 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'St. Augustine, Florida',
+					link: 'https://oldcity-bitcoiners.info/introducing-oldcity-bitcoiners/',
+					organizer: '@OldCityBitcoin',
+					organizerLink: 'https://twitter.com/OldCityBitcoin/status/1374379639632629768'
+				},
+				{
+					country: 'USA',
 					city: 'Toledo, Ohio',
 					link: 'https://toledobitcoin.wordpress.com/',
 					organizer: '@MaxwellSikorski',

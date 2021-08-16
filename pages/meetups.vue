@@ -454,6 +454,13 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Nashville',
+					link: 'https://www.meetup.com/nashville-bitcoin/',
+					organizer: '@nashbitcoiners',
+					organizerLink: 'https://twitter.com/bitkite/status/1427327701413728264'
+				},
+				{
+					country: 'USA',
 					city: 'NYC',
 					link: 'https://www.meetu.ps/c/3Js7d/t1fRT/d',
 					organizer: '@TiKawamoto',

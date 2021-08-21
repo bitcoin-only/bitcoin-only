@@ -329,7 +329,7 @@ export default {
 				{
 					country: 'Thailand',
 					city: 'Chiang Mai',
-					link: 'https://t.me/cmbtcevents',
+					link: 'https://matrix.to/#/#cnx-kpg-hard-money-fan-club:matrix.org',
 					organizer: '@nolim1t',
 					organizerLink: 'https://twitter.com/nolim1t/status/1324629315972001793'
 				},

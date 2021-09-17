@@ -118,6 +118,13 @@ export default {
 				},
 				{
 					country: 'Australia',
+					city: 'Adelaide',
+					link: 'https://bitcoinadelaide.net/',
+					organizer: '@danWilcz',
+					organizerLink: 'https://twitter.com/danWilcz/'
+				},
+				{
+					country: 'Australia',
 					city: 'Brisbane',
 					link: 'http://meetu.ps/c/3xLDF/53GSl/a',
 					organizer: '@AleksSvetski',

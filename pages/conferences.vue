@@ -94,13 +94,13 @@ export default {
 					title: 'Bitcoin 2022',
 					link: 'https://b.tc/conference',
 					location: 'TBD',
-					dates: '2022 / Q1'
+					dates: '2022 / Apr / 6-9th'
 				},
 				{
 					title: 'Bit Block Boom!',
 					link: 'https://bitblockboom.com/',
 					location: 'Austin, TX / USA',
-					dates: '2022/ Aug / 25-28th'
+					dates: '2022 / Aug / 25-28th'
 				},
 				
 			],

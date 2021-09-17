@@ -137,6 +137,11 @@ export default {
 					description: 'Interviews with Bitcoiners'
 				},
 				{
+					title: 'Bitcoin Brothers',
+					link: 'https://www.bitcoinbrothers.io/',
+					description: 'Brothers talk bitcoin'
+				},
+				{
 					title: 'Bitcoin Echo Chamber',
 					link: 'https://bitcoinechochamber.com/',
 					description: 'Interviews with Bitcoiners'

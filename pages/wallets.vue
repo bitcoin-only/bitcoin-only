@@ -216,8 +216,8 @@ export default {
 					platform: 'Desktop, Android'
 				},
 				{
-					title: 'Fully Noded (BETA)',
-					link: 'https://testflight.apple.com/join/PuFnSqgi',
+					title: 'Fully Noded',
+					link: 'https://fonta1n3.github.io/FullyNoded/',
 					description: 'Bitcoin Core GUI for iOS',
 					platform: 'iOS'
 				},

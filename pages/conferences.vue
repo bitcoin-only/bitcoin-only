@@ -91,6 +91,12 @@ export default {
 					dates: '2021 / Nov / 4-6th'
 				},
 				{
+					title: 'Adopting Bitcoin',
+					link: 'https://adoptingbitcoin.org/',
+					location: 'El Salvador',
+					dates: '2021 / Nov / 16-18th'
+				},
+				{
 					title: 'Bitcoin 2022',
 					link: 'https://b.tc/conference',
 					location: 'TBD',

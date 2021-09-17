@@ -182,7 +182,7 @@ export default {
 				},
 				{
 					title: 'Bitcoin Treasuries',
-					link: 'https://bitcointreasuries.org/',
+					link: 'https://bitcointreasuries.net/',
 					description: 'Publicly-traded companies holding Bitcoin'
 				},
 				{

@@ -145,6 +145,11 @@ export default {
 					description: 'End-to-end Bitcoin Wallet backing server'
 				},
 				{
+					title: 'Embit',
+					link: 'https://embit.rocks/#/',
+					description: 'Bitcoin lib for Python3 or MicroPython'
+				},
+				{
 					title: 'LibreTX',
 					link: 'https://github.com/coinsurenz/LibreTX',
 					description: 'Create Bitcoin tx\'s to learn'

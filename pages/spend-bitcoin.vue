@@ -300,8 +300,8 @@ export default {
 					description: 'The Bitcoin publishing house'
 				},
 				{
-					title: 'Layer One BTC',
-					link: 'https://layeronebtc.com/',
+					title: 'Orange Coin Goods',
+					link: 'https://orangecoingoods.com/',
 					description: 'Bitcoin apparel & more'
 				},
 				{

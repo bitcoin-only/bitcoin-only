@@ -182,6 +182,11 @@ export default {
 					description: 'Putting Bitcoin within everyone\'s reach'
 				},
 				{
+					title: 'Citadel Dispatch',
+					link: 'https://citadeldispatch.com/',
+					description: 'Weekly technical bitcoin show'
+				},
+				{
 					title: 'Citizen Bitcoin',
 					link: 'https://citizenbitcoin.world/',
 					description: 'Interviews with Bitcoiners'

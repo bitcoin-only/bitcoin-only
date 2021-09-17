@@ -212,6 +212,11 @@ export default {
 					description: 'Lawrence Nahum & Udi Wertheimer'
 				},
 				{
+					title: 'Satosheshow',
+					link: 'https://www.satosheshow.com/',
+					description: 'All female bitcoin news show'
+				},
+				{
 					title: 'Stephan Livera',
 					link: 'https://stephanlivera.com/',
 					description: 'Bitcoin and Austrian Economics'

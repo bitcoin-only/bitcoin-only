@@ -79,12 +79,6 @@ export default {
 
 			upcomingConferences: [
 				{
-					title: 'Bit Block Boom!',
-					link: 'https://bitblockboom.com/',
-					location: 'Dallas, TX / USA',
-					dates: '2021 / Aug / 26-29th'
-				},
-				{
 					title: 'The Atlanta Bitcoin Conference',
 					link: 'https://tabconf.com/',
 					location: 'Atlanta, GA / USA',
@@ -102,6 +96,12 @@ export default {
 					location: 'TBD',
 					dates: '2022 / Q1'
 				},
+				{
+					title: 'Bit Block Boom!',
+					link: 'https://bitblockboom.com/',
+					location: 'Austin, TX / USA',
+					dates: '2022/ Aug / 25-28th'
+				},
 				
 			],
 			lookingBack: [
@@ -114,7 +114,7 @@ export default {
 				{
 					title: 'Bit Block Boom!',
 					link: 'https://bitblockboom.com/',
-					pastContent: '2020: <a href="https://www.youtube.com/watch?v=Robc43rQoVQ" target="_blank">1</a> | <a href="https://www.youtube.com/watch?v=HLALE9X2JkA" target="_blank">2</a> | <a href="https://www.youtube.com/watch?v=bLKlsYYnoXM" target="_blank">3</a>'
+					pastContent: '<a href="https://www.youtube.com/watch?v=ch4IFBkNxsM" target="_blank">2021</a> | 2020: <a href="https://www.youtube.com/watch?v=Robc43rQoVQ" target="_blank">1</a> | <a href="https://www.youtube.com/watch?v=HLALE9X2JkA" target="_blank">2</a> | <a href="https://www.youtube.com/watch?v=bLKlsYYnoXM" target="_blank">3</a>'
 				},
 				{
 					title: 'Bitcoin Only India',

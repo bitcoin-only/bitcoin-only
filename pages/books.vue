@@ -318,6 +318,34 @@ export default {
 							link: 'https://www.amazon.com//dp/1733219609'
 						}
 					]
+				},
+				{
+					title: 'ビットコイン・スタンダード : お金が変わると世界が変わる',
+					synopsis: 'Japanese translation of The Bitcoin Standard',
+					authors: [
+						{
+							name: 'Saifedean Ammous',
+							link: 'https://twitter.com/saifedean'
+						},
+						{
+							name: 'Teruko Neriki',
+							link: 'https://twitter.com/TerukoNeriki'
+						},
+						{
+							name: 'wiz',
+							link: 'https://twitter.com/wiz'
+						}
+					],
+					purchaseLinks: [
+						{
+							title: 'Direct',
+							link: 'https://bitcoinstandard.jp'
+						},
+						{
+							title: 'Amazon',
+							link: 'https://www.amazon.co.jp/dp/4623090299'
+						}
+					]
 				}
 			]
 

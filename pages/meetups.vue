@@ -426,6 +426,13 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Detroit, Michigan',
+					link: 'detbtc.com',
+					organizer: '@detbtc',
+					organizerLink: 'https://twitter.com/detbtc'
+				},
+				{
+					country: 'USA',
 					city: 'Georgetown, Washington',
 					link: 'https://www.eventbrite.com/e/georgetown-bitcoin-meetup-tickets-84828150281',
 					organizer: '@gtown_bitcoin',

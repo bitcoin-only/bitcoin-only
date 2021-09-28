@@ -9,7 +9,6 @@
 
 			<ul>
 				<li>Desktop: <a href="https://www.sparrowwallet.com/" target="_blank">Sparrow Wallet</a> connected to <a href="https://bitcoincore.org/" target="_blank">Bitcoin Core</a></li>
-				<li>iOS: <a href="https://bluewallet.io/" target="_blank">Blue Wallet</a></li>
 				<li>Android: <a href="https://samouraiwallet.com/" target="_blank">Samourai Wallet</a></li>
 				<li>Lightning: <a href="https://muun.com/" target="_blank">Muun Wallet</a></li>
 			</ul>
@@ -58,8 +57,7 @@
 					<div v-if="wallet.onchain"><b-icon icon="check-circle" size="is-medium"> </b-icon></div>
 					<div v-else><b-icon icon="panorama-fisheye" size="is-medium"> </b-icon></div>
 					<!-- lightning -->
-					<div v-if="wallet.lightning == 'custodial'"><b-icon icon="alert-circle-outline" size="is-medium"> </b-icon></div>
-					<div v-else-if="wallet.lightning"><b-icon icon="check-circle" size="is-medium"> </b-icon></div>
+					<div v-if="wallet.lightning"><b-icon icon="check-circle" size="is-medium"> </b-icon></div>
 					<div v-else><b-icon icon="panorama-fisheye" size="is-medium"> </b-icon></div>
 					<!-- multisig -->
 					<div v-if="wallet.multisig"><b-icon icon="check-circle" size="is-medium"> </b-icon></div>
@@ -68,8 +66,6 @@
 			</div>
 		</div>
 		
-		<p><b-icon icon="alert-circle-outline" size="is-small"> </b-icon> Blue Wallet's Lightning is custodial by default but users can opt to connect their app to their own Lightning node using LNDhub.</p>
-
 		<h3>On-Chain Wallets</h3>
 
 		<div class="tbl-scroller">
@@ -265,18 +261,6 @@ export default {
 					onchain: false,
 					lightning: true,
 					multisig: false,
-				},
-				{
-					title: 'Blue Wallet',
-					link: 'https://bluewallet.io/',
-					desktop: false,
-					ios: true,
-					android: true,
-					coincontrol: true,
-					coinjoin: false,
-					onchain: true,
-					lightning: "custodial",
-					multisig: true,
 				},
 			],
 

@@ -475,6 +475,13 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Kansas City, Missouri',
+					link: 'https://www.meetup.com/kansas-city-bitcoin-meetup-group/',
+					organizer: '@WittyUsername30',
+					organizerLink: 'https://twitter.com/WittyUsername30/status/1442907393684168704'
+				},
+				{
+					country: 'USA',
 					city: 'Little Rock',
 					link: 'https://www.meetup.com/Bitcoin-Little-Block/',
 					organizer: '@_joerodgers',

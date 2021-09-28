@@ -32,6 +32,7 @@
 					<div class="tbl-title">OnChain</div>
 					<div class="tbl-title">Lightning</div>
 					<div class="tbl-title">Multisig</div>
+					<div class="tbl-title">Tor</div>
 				</div>
 				<div v-for="(wallet, index) in recommendedWallets" :key="index" class="tbl-row">
 					<div>
@@ -61,6 +62,9 @@
 					<div v-else><b-icon icon="panorama-fisheye" size="is-medium"> </b-icon></div>
 					<!-- multisig -->
 					<div v-if="wallet.multisig"><b-icon icon="check-circle" size="is-medium"> </b-icon></div>
+					<div v-else><b-icon icon="panorama-fisheye" size="is-medium"> </b-icon></div>
+					<!-- tor -->
+					<div v-if="wallet.tor"><b-icon icon="check-circle" size="is-medium"> </b-icon></div>
 					<div v-else><b-icon icon="panorama-fisheye" size="is-medium"> </b-icon></div>
 				</div>
 			</div>
@@ -237,6 +241,7 @@ export default {
 					onchain: true,
 					lightning: false,
 					multisig: true,
+					tor: true,
 				},
 				{
 					title: 'Samourai Wallet',
@@ -249,6 +254,7 @@ export default {
 					onchain: true,
 					lightning: false,
 					multisig: false,
+					tor: true,
 				},
 				{
 					title: 'Muun Wallet',
@@ -261,6 +267,7 @@ export default {
 					onchain: false,
 					lightning: true,
 					multisig: false,
+					tor: false,
 				},
 			],
 

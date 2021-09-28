@@ -405,6 +405,13 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Cincinnati, Ohio',
+					link: 'https://t.me/joinchat/Yt-J5-c7QRJiOGEx',
+					organizer: '@bitcoinincincy',
+					organizerLink: 'https://twitter.com/bitcoinincincy'
+				},
+				{
+					country: 'USA',
 					city: 'Denver',
 					link: 'https://www.meetup.com/Bitcoin-and-Beer/',
 					organizer: '@beerbitcoin',

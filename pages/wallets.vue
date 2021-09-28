@@ -11,12 +11,64 @@
 				<li>Desktop: <a href="https://www.sparrowwallet.com/" target="_blank">Sparrow Wallet</a> connected to <a href="https://bitcoincore.org/" target="_blank">Bitcoin Core</a></li>
 				<li>iOS: <a href="https://bluewallet.io/" target="_blank">Blue Wallet</a></li>
 				<li>Android: <a href="https://samouraiwallet.com/" target="_blank">Samourai Wallet</a></li>
+				<li>Lightning: <a href="https://muun.com/" target="_blank">Muun Wallet</a></li>
 			</ul>
 
 		</div>
 
 		<p>It is very important that you learn how to backup your mnemonic seed & that if you use a passphrase you back that up too. Read <a href="https://bitcoin-intro.com/en/backup" target="_blank">this document</a> to learn more about backing up your wallet and check out the <nuxt-link to="/privacy">privacy page</nuxt-link>.</p>
 		<p> See <a href="https://veriphi.io/en/blog/software-wallet-analysis" target="_blank">this report</a> for a comparison of the features of many of the wallets listed below.</p>
+
+		<h3>Recommended Wallets</h3>
+
+		<div class="tbl-scroller">
+			<div class="tbl-wrapper">
+				<div class="tbl-header">
+					<div class="tbl-title">Project</div>
+					<div class="tbl-title">Desktop</div>
+					<div class="tbl-title">iOS</div>
+					<div class="tbl-title">Android</div>
+					<div class="tbl-title">CoinControl</div>
+					<div class="tbl-title">CoinJoin</div>
+					<div class="tbl-title">OnChain</div>
+					<div class="tbl-title">Lightning</div>
+					<div class="tbl-title">Multisig</div>
+				</div>
+				<div v-for="(wallet, index) in recommendedWallets" :key="index" class="tbl-row">
+					<div>
+						<a :href="wallet.link" target="_blank">{{ wallet.title }}</a>
+					</div>
+
+					<!-- desktop -->
+					<div v-if="wallet.desktop"><b-icon icon="check-circle" size="is-medium"> </b-icon></div>
+					<div v-else><b-icon icon="panorama-fisheye" size="is-medium"> </b-icon></div>
+					<!-- ios -->
+					<div v-if="wallet.ios"><b-icon icon="check-circle" size="is-medium"> </b-icon></div>
+					<div v-else><b-icon icon="panorama-fisheye" size="is-medium"> </b-icon></div>
+					<!-- android -->
+					<div v-if="wallet.android"><b-icon icon="check-circle" size="is-medium"> </b-icon></div>
+					<div v-else><b-icon icon="panorama-fisheye" size="is-medium"> </b-icon></div>
+					<!-- coincontrol -->
+					<div v-if="wallet.coincontrol"><b-icon icon="check-circle" size="is-medium"> </b-icon></div>
+					<div v-else><b-icon icon="panorama-fisheye" size="is-medium"> </b-icon></div>
+					<!-- coinjoin -->
+					<div v-if="wallet.coinjoin"><b-icon icon="check-circle" size="is-medium"> </b-icon></div>
+					<div v-else><b-icon icon="panorama-fisheye" size="is-medium"> </b-icon></div>
+					<!-- onchain -->
+					<div v-if="wallet.onchain"><b-icon icon="check-circle" size="is-medium"> </b-icon></div>
+					<div v-else><b-icon icon="panorama-fisheye" size="is-medium"> </b-icon></div>
+					<!-- lightning -->
+					<div v-if="wallet.lightning == 'custodial'"><b-icon icon="alert-circle-outline" size="is-medium"> </b-icon></div>
+					<div v-else-if="wallet.lightning"><b-icon icon="check-circle" size="is-medium"> </b-icon></div>
+					<div v-else><b-icon icon="panorama-fisheye" size="is-medium"> </b-icon></div>
+					<!-- multisig -->
+					<div v-if="wallet.multisig"><b-icon icon="check-circle" size="is-medium"> </b-icon></div>
+					<div v-else><b-icon icon="panorama-fisheye" size="is-medium"> </b-icon></div>
+				</div>
+			</div>
+		</div>
+		
+		<p><b-icon icon="alert-circle-outline" size="is-small"> </b-icon> Blue Wallet's Lightning is custodial by default but users can opt to connect their app to their own Lightning node using LNDhub.</p>
 
 		<h3>On-Chain Wallets</h3>
 
@@ -177,6 +229,56 @@ export default {
 
 	data() {
 		return {
+			recommendedWallets: [
+				{
+					title: 'Sparrow Wallet',
+					link: 'https://www.sparrowwallet.com/',
+					desktop: true,
+					ios: false,
+					android: false,
+					coincontrol: true,
+					coinjoin: true,
+					onchain: true,
+					lightning: false,
+					multisig: true,
+				},
+				{
+					title: 'Samourai Wallet',
+					link: 'https://samouraiwallet.com/',
+					desktop: false,
+					ios: false,
+					android: true,
+					coincontrol: true,
+					coinjoin: true,
+					onchain: true,
+					lightning: false,
+					multisig: false,
+				},
+				{
+					title: 'Muun Wallet',
+					link: 'https://muun.com/',
+					desktop: false,
+					ios: true,
+					android: true,
+					coincontrol: false,
+					coinjoin: false,
+					onchain: false,
+					lightning: true,
+					multisig: false,
+				},
+				{
+					title: 'Blue Wallet',
+					link: 'https://bluewallet.io/',
+					desktop: false,
+					ios: true,
+					android: true,
+					coincontrol: true,
+					coinjoin: false,
+					onchain: true,
+					lightning: "custodial",
+					multisig: true,
+				},
+			],
 
 			onChainWallets: [
 				{

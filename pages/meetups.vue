@@ -412,6 +412,13 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Cleveland, Ohio',
+					link: 'https://t.me/joinchat/GjJEXveMBtpiMzU5',
+					organizer: '@BitcoinCLE',
+					organizerLink: 'https://twitter.com/BitcoinCLE'
+				},
+				{
+					country: 'USA',
 					city: 'Denver',
 					link: 'https://www.meetup.com/Bitcoin-and-Beer/',
 					organizer: '@beerbitcoin',

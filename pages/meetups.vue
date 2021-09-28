@@ -391,6 +391,13 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Austin',
+					link: 'https://austinbitcoinclub.com',
+					organizer: '@AustinBTCclub',
+					organizerLink: 'https://twitter.com/AustinBTCclub'
+				},
+				{
+					country: 'USA',
 					city: 'Boise, Idaho',
 					link: 'https://www.meetup.com/boise-bitcoiners/',
 					organizer: '@boisebitcoiners',

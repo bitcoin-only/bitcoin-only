@@ -426,6 +426,13 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Dallas–Fort Worth, Texas ',
+					link: 'https://twitter.com/DTXbitcoiners',
+					organizer: '@DTXbitcoiners',
+					organizerLink: 'https://twitter.com/DTXbitcoiners'
+				},
+				{
+					country: 'USA',
 					city: 'Denver',
 					link: 'https://www.meetup.com/Bitcoin-and-Beer/',
 					organizer: '@beerbitcoin',

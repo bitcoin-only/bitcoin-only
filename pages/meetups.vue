@@ -391,6 +391,13 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Boise, Idaho',
+					link: 'https://www.meetup.com/boise-bitcoiners/',
+					organizer: '@boisebitcoiners',
+					organizerLink: 'https://twitter.com/boisebitcoiners'
+				},
+				{
+					country: 'USA',
 					city: 'Redding, California',
 					link: 'https://www.meetup.com/Redding-Bitcoin-Meetup/',
 					organizer: '@dooowta',

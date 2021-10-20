@@ -426,6 +426,13 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Chattanooga, Tennessee',
+					link: 'https://discord.gg/DwpkFRqcEu',
+					organizer: '@geekigai',
+					organizerLink: 'https://twitter.com/geekigai/status/1441205765662863367'
+				},
+				{
+					country: 'USA',
 					city: 'Cleveland, Ohio',
 					link: 'https://t.me/joinchat/GjJEXveMBtpiMzU5',
 					organizer: '@BitcoinCLE',

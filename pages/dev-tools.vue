@@ -125,6 +125,11 @@ export default {
 					description: 'Rust Bitcoin tools and libraries'
 				},
 				{
+					title: 'Bitcoin Spring Boot Starter',
+					link: 'https://github.com/theborakompanioni/bitcoin-spring-boot-starter',
+					description: 'Spring Boot Starter for Bitcoin [Experimental]'
+				},
+				{
 					title: 'Braiins OS',
 					link: 'https://braiins-os.org/',
 					description: 'Open source mining software'

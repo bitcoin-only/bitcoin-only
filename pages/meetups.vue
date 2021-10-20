@@ -3,7 +3,16 @@
 
 		<h1 class="page-title">Meetups</h1>
 
-		<p>These meetups are Bitcoin only. Do your own research before attending (stay safe). To get your meetup added <a href="https://github.com/bitcoin-only/bitcoin-only/issues/new?assignees=&labels=meetup&template=meetup-suggestion.md&title=Meetup+Suggestion%3A+%2A%2AExample+Bitcoin+Meetup%2A%2A" target="_blank">raise an issue</a>.</p>
+		<p> It is impossible to verify the authenticity of all meetups, please: </p>
+		<ul>
+			<li>Go with a friend for security</li>
+			<li>Do your own research before attending</li>
+			<li>Do not reveal personal information</li>
+			<li>Do not tell anyone how much bitcoin you own</li>
+			<li>Do <a href="https://github.com/bitcoin-only/bitcoin-only/issues/new?assignees=&labels=update&template=update-suggestion.md&title=Update+Suggestion%3A+NAME+OF+CONTENT+TO+BE+UPDATED" target="_blank">raise an issue</a> if you have a bad experience</li>
+		</ul>
+
+		<p> To get your meetup added <a href="https://github.com/bitcoin-only/bitcoin-only/issues/new?assignees=&labels=meetup&template=meetup-suggestion.md&title=Meetup+Suggestion%3A+%2A%2AExample+Bitcoin+Meetup%2A%2A" target="_blank">raise an issue</a>.</p>
 
 		<h3>Cyberspace</h3>
 

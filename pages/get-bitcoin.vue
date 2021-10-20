@@ -319,6 +319,11 @@ export default {
 					description: 'Easily paywall content'
 				},
 				{
+					title: 'Squeaknode',
+					link: 'https://github.com/yzernik/squeaknode',
+					description: 'P2P lightning status feed'
+				},
+				{
 					title: 'TallyCoin',
 					link: 'https://tallyco.in/',
 					description: 'Bitcoin Fundraising *'

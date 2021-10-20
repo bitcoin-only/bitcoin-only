@@ -384,6 +384,13 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Annapolis, Maryland',
+					link: 'https://www.meetup.com/annapolis-bitcoin-happy-hour/',
+					organizer: '@Robbobrobert_',
+					organizerLink: 'https://twitter.com/Robbobrobert_/status/1447201529178558465'
+				},
+				{
+					country: 'USA',
 					city: 'Austin',
 					link: 'https://www.meetup.com/Austin-Bitcoin-Developers/',
 					organizer: '@_justinmoon_',

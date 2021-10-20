@@ -299,6 +299,10 @@ export default {
 
 			earnBitcoin: [
 				{
+					title: 'Bitcoiner Jobs',
+					link: 'https://bitcoinerjobs.co/',
+					description: 'Jobs in Bitcoin'
+				},{
 					title: 'jfgi',
 					link: 'https://www.jfgi.cc/',
 					description: 'Bitcoin fundraising *'

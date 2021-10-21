@@ -172,6 +172,26 @@ export default {
 					]
 				},
 				{
+					title: 'Bullish Case for Bitcoin',
+					synopsis: 'Essential reading',
+					authors: [
+						{
+							name: 'Vijay Boyapati',
+							link: 'https://twitter.com/real_vijay'
+						}
+					],
+					purchaseLinks: [
+						{
+							title: 'Direct',
+							link: 'https://www.bullishcaseforbitcoin.com/'
+						},
+						{
+							title: 'Amazon',
+							link: 'https://www.amazon.com/Bullish-Case-Bitcoin-Vijay-Boyapati/dp/1737204118'
+						}
+					]
+				},
+				{
 					title: 'Cryptoeconomics',
 					synopsis: 'Fundamental Principles of Bitcoin',
 					authors: [

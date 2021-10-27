@@ -44,11 +44,13 @@
 			<div class="tbl-wrapper">
 				<div class="tbl-header">
 					<div class="tbl-title">Country</div>
+					<div class="tbl-title">Region</div>
 					<div class="tbl-title">City</div>
 					<div class="tbl-title">Organizer</div>
 				</div>
 				<div v-for="(meetup, index) in meatspace" :key="index" class="tbl-row">
 					<div>{{ meetup.country }}</div>
+					<div>{{ meetup.region }}</div>
 					<div>
 						<a :href="meetup.link" target="_blank">{{ meetup.city }}</a>
 					</div>
@@ -374,223 +376,254 @@ export default {
 					link: 'http://bitcoinsheffield.co.uk/',
 					organizer: '@in3rsha',
 					organizerLink: 'https://github.com/in3rsha'
-				},
+				},  
 				{
 					country: 'USA',
-					city: 'Anaheim',
-					link: 'https://www.meetup.com/oc-btc/',
-					organizer: '@ocbtcn',
-					organizerLink: 'https://twitter.com/ocbtcn'
-				},
-				{
-					country: 'USA',
-					city: 'Annapolis, Maryland',
-					link: 'https://www.meetup.com/annapolis-bitcoin-happy-hour/',
-					organizer: '@Robbobrobert_',
-					organizerLink: 'https://twitter.com/Robbobrobert_/status/1447201529178558465'
-				},
-				{
-					country: 'USA',
-					city: 'Austin, Texas',
-					link: 'https://www.meetup.com/Austin-Bitcoin-Developers/',
-					organizer: '@_justinmoon_',
-					organizerLink: 'https://twitter.com/_justinmoon_'
-				},
-				{
-					country: 'USA',
-					city: 'Austin, Texas',
-					link: 'https://austinbitcoinclub.com',
-					organizer: '@AustinBTCclub',
-					organizerLink: 'https://twitter.com/AustinBTCclub'
-				},
-				{
-					country: 'USA',
-					city: 'Boise, Idaho',
-					link: 'https://www.meetup.com/boise-bitcoiners/',
-					organizer: '@boisebitcoiners',
-					organizerLink: 'https://twitter.com/boisebitcoiners'
-				},
-				{
-					country: 'USA',
-					city: 'Redding, California',
-					link: 'https://www.meetup.com/Redding-Bitcoin-Meetup/',
-					organizer: '@dooowta',
-					organizerLink: 'https://twitter.com/dooowta'
-				},
-				{
-					country: 'USA',
-					city: 'Charlotte, North Carolina',
-					link: 'http://www.meetup.com/BitcoinCharlotte',
-					organizer: '@jacobparrish',
-					organizerLink: 'https://twitter.com/jacobparrish'
-				},
-				{
-					country: 'USA',
-					city: 'Cincinnati, Ohio',
-					link: 'https://t.me/joinchat/Yt-J5-c7QRJiOGEx',
-					organizer: '@bitcoinincincy',
-					organizerLink: 'https://twitter.com/bitcoinincincy'
-				},
-				{
-					country: 'USA',
-					city: 'Chattanooga, Tennessee',
-					link: 'https://discord.gg/DwpkFRqcEu',
-					organizer: '@geekigai',
-					organizerLink: 'https://twitter.com/geekigai/status/1441205765662863367'
-				},
-				{
-					country: 'USA',
-					city: 'Cleveland, Ohio',
-					link: 'https://t.me/joinchat/GjJEXveMBtpiMzU5',
-					organizer: '@BitcoinCLE',
-					organizerLink: 'https://twitter.com/BitcoinCLE'
-				},
-				{
-					country: 'USA',
-					city: 'Dallas–Fort Worth, Texas',
-					link: 'https://twitter.com/DTXbitcoiners',
-					organizer: '@DTXbitcoiners',
-					organizerLink: 'https://twitter.com/DTXbitcoiners'
-				},
-				{
-					country: 'USA',
-					city: 'Denver, Colorado',
-					link: 'https://www.meetup.com/Bitcoin-and-Beer/',
-					organizer: '@beerbitcoin',
-					organizerLink: 'https://twitter.com/BeerBitcoin'
-				},
-				{
-					country: 'USA',
-					city: 'Detroit, Michigan',
-					link: 'detbtc.com',
-					organizer: '@detbtc',
-					organizerLink: 'https://twitter.com/detbtc'
-				},
-				{
-					country: 'USA',
-					city: 'Georgetown, Washington',
-					link: 'https://www.eventbrite.com/e/georgetown-bitcoin-meetup-tickets-84828150281',
-					organizer: '@gtown_bitcoin',
-					organizerLink: 'https://twitter.com/gtown_bitcoin'
-				},
-				{
-					country: 'USA',
-					city: 'Holly Springs, North Carolina',
-					link: 'https://www.meetup.com/holly-springs-bitcoin-meetup-group/',
-					organizer: '@Dave_Parrish',
-					organizerLink: 'https://twitter.com/Dave_Parrish/status/1354810724325810185'
-				},
-				{
-					country: 'USA',
-					city: 'Houston, Texas',
-					link: 'https://www.meetup.com/houston-bitcoin-meetup-group/',
-					organizer: '@lacrosse_al',
-					organizerLink: 'https://twitter.com/lacrosse_al/status/1372764115807080457'
-				},
-				{
-					country: 'USA',
-					city: 'Kansas City, Missouri',
-					link: 'https://www.meetup.com/kansas-city-bitcoin-meetup-group/',
-					organizer: '@WittyUsername30',
-					organizerLink: 'https://twitter.com/WittyUsername30/status/1442907393684168704'
-				},
-				{
-					country: 'USA',
-					city: 'Little Rock, Arkansas',
-					link: 'https://www.meetup.com/Bitcoin-Little-Block/',
-					organizer: '@_joerodgers',
-					organizerLink: 'https://twitter.com/_joerodgers/status/1220186941368557575'
-				},
-				{
-					country: 'USA',
-					city: 'Los Angeles, California',
-					link: 'https://www.meetup.com/BitDevsLA/',
-					organizer: '@BitDevsLA',
-					organizerLink: 'https://twitter.com/BitDevsLA/status/1171919340020518912?s=19'
-				},
-				{
-					country: 'USA',
-					city: 'Miami, Florida',
-					link: 'https://www.meetup.com/miamibitcoiners/',
-					organizer: '@jonchenot',
-					organizerLink: 'https://twitter.com/jonchenot/status/1388988111338807297'
-				},
-				{
-					country: 'USA',
-					city: 'Minneapolis, Minnesota',
-					link: 'https://t.me/joinchat/SWd5ZeVCAhGpZIjh',
-					organizer: '@Bquittem',
-					organizerLink: 'https://twitter.com/Bquittem/status/1415441814933344266'
-				},
-				{
-					country: 'USA',
-					city: 'Nashville, Tennessee',
-					link: 'https://www.meetup.com/nashville-bitcoin/',
-					organizer: '@nashbitcoiners',
-					organizerLink: 'https://twitter.com/bitkite/status/1427327701413728264'
-				},
-				{
-					country: 'USA',
-					city: 'NYC, New York',
-					link: 'https://www.meetu.ps/c/3Js7d/t1fRT/d',
-					organizer: '@TiKawamoto',
-					organizerLink: 'https://twitter.com/TiKawamoto/status/1131919021589389312'
-				},
-				{
-					country: 'USA',
-					city: 'Phoenix, Arizona',
+					city: 'Phoenix',
+					region: 'Arizona',
 					link: 'https://www.meetup.com/azbitcoin/',
 					organizer: '@sthenc',
 					organizerLink: 'https://twitter.com/sthenc/status/1355291173133320194'
 				},
 				{
 					country: 'USA',
-					city: 'Portland, Oregon',
-					link: 'https://www.meetup.com/Portland-Bitcoin-Group/',
-					organizer: '@Jestopher_BTC',
-					organizerLink: 'https://twitter.com/Jestopher_BTC/status/1180280435894620160'
+					city: 'Little Rock',
+					region: 'Arkansas',
+					link: 'https://www.meetup.com/Bitcoin-Little-Block/',
+					organizer: '@_joerodgers',
+					organizerLink: 'https://twitter.com/_joerodgers/status/1220186941368557575'
 				},
 				{
 					country: 'USA',
-					city: 'Raleigh, North Carolina',
-					link: 'https://meetu.ps/c/11CJj/5jYS/d',
-					organizer: '@Steve_Jeffress',
-					organizerLink: 'https://twitter.com/Steve_Jeffress/status/1354864725675433988'
+					city: 'Anaheim',
+					region: 'California',
+					link: 'https://www.meetup.com/oc-btc/',
+					organizer: '@ocbtcn',
+					organizerLink: 'https://twitter.com/ocbtcn'
 				},
 				{
 					country: 'USA',
-					city: 'Seattle, Washington',
-					link: 'http://meetu.ps/c/jmyy/1v9Z5/a',
-					organizer: '@bitcoin_meetup',
-					organizerLink: 'https://twitter.com/bitcoin_meetup/status/1131925963598585856'
+					city: 'Los Angeles',
+					region: 'California',
+					link: 'https://www.meetup.com/BitDevsLA/',
+					organizer: '@BitDevsLA',
+					organizerLink: 'https://twitter.com/BitDevsLA/status/1171919340020518912?s=19'
 				},
 				{
 					country: 'USA',
-					city: 'San Diego, California',
+					city: 'Redding',
+					region: 'California',
+					link: 'https://www.meetup.com/Redding-Bitcoin-Meetup/',
+					organizer: '@dooowta',
+					organizerLink: 'https://twitter.com/dooowta'
+				},
+				{
+					country: 'USA',
+					city: 'San Diego',
+					region: 'California',
 					link: 'https://sdbitcoiners.com',
 					organizer: '@sdbitcoiners',
 					organizerLink: 'https://twitter.com/sdbitcoiners/status/1402331053549711360'
 				},
 				{
 					country: 'USA',
-					city: 'San Francisco Bay Area, California',
+					city: 'San Francisco Bay Area',
+					region: 'California',
 					link: 'https://www.meetup.com/bay-bitcoin-meetup/',
 					organizer: '@thomasbtc',
 					organizerLink: 'https://twitter.com/thomasbtc/status/1414659662377459735?s=20'
 				},
 				{
 					country: 'USA',
-					city: 'St. Augustine, Florida',
+					city: 'Denver',
+					region: 'Colorado',
+					link: 'https://www.meetup.com/Bitcoin-and-Beer/',
+					organizer: '@beerbitcoin',
+					organizerLink: 'https://twitter.com/BeerBitcoin'
+				},
+				{
+					country: 'USA',
+					city: 'Miami',
+					region: 'Florida',
+					link: 'https://www.meetup.com/miamibitcoiners/',
+					organizer: '@jonchenot',
+					organizerLink: 'https://twitter.com/jonchenot/status/1388988111338807297'
+				},
+				{
+					country: 'USA',
+					city: 'St. Augustine',
+					region: 'Florida',
 					link: 'https://oldcity-bitcoiners.info/introducing-oldcity-bitcoiners/',
 					organizer: '@OldCityBitcoin',
 					organizerLink: 'https://twitter.com/OldCityBitcoin/status/1374379639632629768'
 				},
 				{
 					country: 'USA',
-					city: 'Toledo, Ohio',
+					city: 'Boise',
+					region: 'Idaho',
+					link: 'https://www.meetup.com/boise-bitcoiners/',
+					organizer: '@boisebitcoiners',
+					organizerLink: 'https://twitter.com/boisebitcoiners'
+				},
+				{
+					country: 'USA',
+					city: 'Annapolis',
+					region: 'Maryland',
+					link: 'https://www.meetup.com/annapolis-bitcoin-happy-hour/',
+					organizer: '@Robbobrobert_',
+					organizerLink: 'https://twitter.com/Robbobrobert_/status/1447201529178558465'
+				},
+				{
+					country: 'USA',
+					city: 'Detroit',
+					region: 'Michigan',
+					link: 'detbtc.com',
+					organizer: '@detbtc',
+					organizerLink: 'https://twitter.com/detbtc'
+				},
+				{
+					country: 'USA',
+					city: 'Minneapolis',
+					region: 'Minnesota',
+					link: 'https://t.me/joinchat/SWd5ZeVCAhGpZIjh',
+					organizer: '@Bquittem',
+					organizerLink: 'https://twitter.com/Bquittem/status/1415441814933344266'
+				},
+				{
+					country: 'USA',
+					city: 'Kansas City',
+					region: 'Missouri',
+					link: 'https://www.meetup.com/kansas-city-bitcoin-meetup-group/',
+					organizer: '@WittyUsername30',
+					organizerLink: 'https://twitter.com/WittyUsername30/status/1442907393684168704'
+				},
+				{
+					country: 'USA',
+					city: 'NYC',
+					region: 'New York',
+					link: 'https://www.meetu.ps/c/3Js7d/t1fRT/d',
+					organizer: '@TiKawamoto',
+					organizerLink: 'https://twitter.com/TiKawamoto/status/1131919021589389312'
+				},
+				{
+					country: 'USA',
+					city: 'Charlotte',
+					region: 'North Carolina',
+					link: 'http://www.meetup.com/BitcoinCharlotte',
+					organizer: '@jacobparrish',
+					organizerLink: 'https://twitter.com/jacobparrish'
+				},
+				{
+					country: 'USA',
+					city: 'Holly Springs',
+					region: 'North Carolina',
+					link: 'https://www.meetup.com/holly-springs-bitcoin-meetup-group/',
+					organizer: '@Dave_Parrish',
+					organizerLink: 'https://twitter.com/Dave_Parrish/status/1354810724325810185'
+				},
+				{
+					country: 'USA',
+					city: 'Raleigh',
+					region: 'North Carolina',
+					link: 'https://meetu.ps/c/11CJj/5jYS/d',
+					organizer: '@Steve_Jeffress',
+					organizerLink: 'https://twitter.com/Steve_Jeffress/status/1354864725675433988'
+				},
+				{
+					country: 'USA',
+					city: 'Cincinnati',
+					region: 'Ohio',
+					link: 'https://t.me/joinchat/Yt-J5-c7QRJiOGEx',
+					organizer: '@bitcoinincincy',
+					organizerLink: 'https://twitter.com/bitcoinincincy'
+				},
+				{
+					country: 'USA',
+					city: 'Cleveland',
+					region: 'Ohio',
+					link: 'https://t.me/joinchat/GjJEXveMBtpiMzU5',
+					organizer: '@BitcoinCLE',
+					organizerLink: 'https://twitter.com/BitcoinCLE'
+				},
+				{
+					country: 'USA',
+					city: 'Toledo',
+					region: 'Ohio',
 					link: 'https://toledobitcoin.wordpress.com/',
 					organizer: '@MaxwellSikorski',
 					organizerLink: 'https://twitter.com/MaxwellSikorski/status/1232133160353370112'
+				},
+				{
+					country: 'USA',
+					city: 'Portland',
+					region: 'Oregon',
+					link: 'https://www.meetup.com/Portland-Bitcoin-Group/',
+					organizer: '@Jestopher_BTC',
+					organizerLink: 'https://twitter.com/Jestopher_BTC/status/1180280435894620160'
+				},
+				{
+					country: 'USA',
+					city: 'Chattanooga',
+					region: 'Tennessee',
+					link: 'https://discord.gg/DwpkFRqcEu',
+					organizer: '@geekigai',
+					organizerLink: 'https://twitter.com/geekigai/status/1441205765662863367'
+				},
+				{
+					country: 'USA',
+					city: 'Nashville',
+					region: 'Tennessee',
+					link: 'https://www.meetup.com/nashville-bitcoin/',
+					organizer: '@nashbitcoiners',
+					organizerLink: 'https://twitter.com/bitkite/status/1427327701413728264'
+				},
+				{
+					country: 'USA',
+					city: 'Austin',
+					region: 'Texas',
+					link: 'https://www.meetup.com/Austin-Bitcoin-Developers/',
+					organizer: '@_justinmoon_',
+					organizerLink: 'https://twitter.com/_justinmoon_'
+				},
+				{
+					country: 'USA',
+					city: 'Austin',
+					region: 'Texas',
+					link: 'https://austinbitcoinclub.com',
+					organizer: '@AustinBTCclub',
+					organizerLink: 'https://twitter.com/AustinBTCclub'
+				},
+				{
+					country: 'USA',
+					city: 'Dallas–Fort Worth',
+					region: 'Texas',
+					link: 'https://twitter.com/DTXbitcoiners',
+					organizer: '@DTXbitcoiners',
+					organizerLink: 'https://twitter.com/DTXbitcoiners'
+				},
+				{
+					country: 'USA',
+					city: 'Houston',
+					region: 'Texas',
+					link: 'https://www.meetup.com/houston-bitcoin-meetup-group/',
+					organizer: '@lacrosse_al',
+					organizerLink: 'https://twitter.com/lacrosse_al/status/1372764115807080457'
+				},
+				{
+					country: 'USA',
+					city: 'Georgetown',
+					region: 'Washington',
+					link: 'https://www.eventbrite.com/e/georgetown-bitcoin-meetup-tickets-84828150281',
+					organizer: '@gtown_bitcoin',
+					organizerLink: 'https://twitter.com/gtown_bitcoin'
+				},
+				{
+					country: 'USA',
+					city: 'Seattle',
+					region: 'Washington',
+					link: 'http://meetu.ps/c/jmyy/1v9Z5/a',
+					organizer: '@bitcoin_meetup',
+					organizerLink: 'https://twitter.com/bitcoin_meetup/status/1131925963598585856'
 				},
 				{
 					country: 'Venezuela',

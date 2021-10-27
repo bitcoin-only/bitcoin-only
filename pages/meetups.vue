@@ -391,14 +391,14 @@ export default {
 				},
 				{
 					country: 'USA',
-					city: 'Austin',
+					city: 'Austin, Texas',
 					link: 'https://www.meetup.com/Austin-Bitcoin-Developers/',
 					organizer: '@_justinmoon_',
 					organizerLink: 'https://twitter.com/_justinmoon_'
 				},
 				{
 					country: 'USA',
-					city: 'Austin',
+					city: 'Austin, Texas',
 					link: 'https://austinbitcoinclub.com',
 					organizer: '@AustinBTCclub',
 					organizerLink: 'https://twitter.com/AustinBTCclub'
@@ -447,14 +447,14 @@ export default {
 				},
 				{
 					country: 'USA',
-					city: 'Dallas–Fort Worth, Texas ',
+					city: 'Dallas–Fort Worth, Texas',
 					link: 'https://twitter.com/DTXbitcoiners',
 					organizer: '@DTXbitcoiners',
 					organizerLink: 'https://twitter.com/DTXbitcoiners'
 				},
 				{
 					country: 'USA',
-					city: 'Denver',
+					city: 'Denver, Colorado',
 					link: 'https://www.meetup.com/Bitcoin-and-Beer/',
 					organizer: '@beerbitcoin',
 					organizerLink: 'https://twitter.com/BeerBitcoin'
@@ -475,7 +475,7 @@ export default {
 				},
 				{
 					country: 'USA',
-					city: 'Holly Springs, NC',
+					city: 'Holly Springs, North Carolina',
 					link: 'https://www.meetup.com/holly-springs-bitcoin-meetup-group/',
 					organizer: '@Dave_Parrish',
 					organizerLink: 'https://twitter.com/Dave_Parrish/status/1354810724325810185'
@@ -496,14 +496,14 @@ export default {
 				},
 				{
 					country: 'USA',
-					city: 'Little Rock',
+					city: 'Little Rock, Arkansas',
 					link: 'https://www.meetup.com/Bitcoin-Little-Block/',
 					organizer: '@_joerodgers',
 					organizerLink: 'https://twitter.com/_joerodgers/status/1220186941368557575'
 				},
 				{
 					country: 'USA',
-					city: 'Los Angeles',
+					city: 'Los Angeles, California',
 					link: 'https://www.meetup.com/BitDevsLA/',
 					organizer: '@BitDevsLA',
 					organizerLink: 'https://twitter.com/BitDevsLA/status/1171919340020518912?s=19'
@@ -517,49 +517,49 @@ export default {
 				},
 				{
 					country: 'USA',
-					city: 'Minneapolis',
+					city: 'Minneapolis, Minnesota',
 					link: 'https://t.me/joinchat/SWd5ZeVCAhGpZIjh',
 					organizer: '@Bquittem',
 					organizerLink: 'https://twitter.com/Bquittem/status/1415441814933344266'
 				},
 				{
 					country: 'USA',
-					city: 'Nashville',
+					city: 'Nashville, Tennessee',
 					link: 'https://www.meetup.com/nashville-bitcoin/',
 					organizer: '@nashbitcoiners',
 					organizerLink: 'https://twitter.com/bitkite/status/1427327701413728264'
 				},
 				{
 					country: 'USA',
-					city: 'NYC',
+					city: 'NYC, New York',
 					link: 'https://www.meetu.ps/c/3Js7d/t1fRT/d',
 					organizer: '@TiKawamoto',
 					organizerLink: 'https://twitter.com/TiKawamoto/status/1131919021589389312'
 				},
 				{
 					country: 'USA',
-					city: 'Phoenix',
+					city: 'Phoenix, Arizona',
 					link: 'https://www.meetup.com/azbitcoin/',
 					organizer: '@sthenc',
 					organizerLink: 'https://twitter.com/sthenc/status/1355291173133320194'
 				},
 				{
 					country: 'USA',
-					city: 'Portland',
+					city: 'Portland, Oregon',
 					link: 'https://www.meetup.com/Portland-Bitcoin-Group/',
 					organizer: '@Jestopher_BTC',
 					organizerLink: 'https://twitter.com/Jestopher_BTC/status/1180280435894620160'
 				},
 				{
 					country: 'USA',
-					city: 'Raleigh',
+					city: 'Raleigh, North Carolina',
 					link: 'https://meetu.ps/c/11CJj/5jYS/d',
 					organizer: '@Steve_Jeffress',
 					organizerLink: 'https://twitter.com/Steve_Jeffress/status/1354864725675433988'
 				},
 				{
 					country: 'USA',
-					city: 'Seattle',
+					city: 'Seattle, Washington',
 					link: 'http://meetu.ps/c/jmyy/1v9Z5/a',
 					organizer: '@bitcoin_meetup',
 					organizerLink: 'https://twitter.com/bitcoin_meetup/status/1131925963598585856'

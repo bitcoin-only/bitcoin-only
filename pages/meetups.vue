@@ -547,6 +547,14 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Columbus',
+					region: 'Ohio',
+					link: 'https://t.me/ColumbusBitcoin',
+					organizer: '@ColumbusBitcoin',
+					organizerLink: 'https://twitter.com/ColumbusBitcoin'
+				},
+				{
+					country: 'USA',
 					city: 'Toledo',
 					region: 'Ohio',
 					link: 'https://toledobitcoin.wordpress.com/',

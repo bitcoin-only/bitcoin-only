@@ -364,20 +364,6 @@ export default {
 				{
 					country: 'United Kingdom',
 					city: 'London',
-					link: 'https://www.meetup.com/Bitcoin-Embassy-London/events/267134813/',
-					organizer: 'Leif C.',
-					organizerLink: 'https://www.meetup.com/Bitcoin-Embassy-London/members/48966542/'
-				},
-				{
-					country: 'United Kingdom',
-					city: 'London',
-					link: 'https://www.meetup.com/Bitcoin-Explained/',
-					organizer: '@Bitcoin_Crowd',
-					organizerLink: 'https://twitter.com/Bitcoin_Crowd/status/1183368820905447424?s=19'
-				},
-				{
-					country: 'United Kingdom',
-					city: 'London',
 					link: 'https://www.meetup.com/BitFriendly/',
 					organizer: '@raw_avocado',
 					organizerLink: 'https://twitter.com/raw_avocado/status/1247875220305739777'

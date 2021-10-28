@@ -477,7 +477,7 @@ export default {
 					country: 'USA',
 					city: 'Benton Harbor / St. Joseph',
 					region: 'Michigan',
-					link: 'https://www.meetup.com/michigan-bitcoin-meetup/events/281434874/',
+					link: 'https://www.meetup.com/michigan-bitcoin-meetup/',
 					organizer: '@dvhaley',
 					organizerLink: 'https://twitter.com/dvhaley/status/1453717187219398660'
 				},

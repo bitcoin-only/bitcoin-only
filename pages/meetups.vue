@@ -579,6 +579,14 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Philadelphia',
+					region: 'Pennsylvania',
+					link: 'https://www.meetup.com/philadelphia-bitcoin-club/events/',
+					organizer: '@OffZeroPodcast',
+					organizerLink: 'https://twitter.com/OffZeroPodcast/status/1454263924514242563'
+				},
+				{
+					country: 'USA',
 					city: 'Chattanooga',
 					region: 'Tennessee',
 					link: 'https://discord.gg/DwpkFRqcEu',

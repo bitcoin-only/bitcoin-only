@@ -289,6 +289,13 @@ export default {
 					autoDca: 'Yes'
 				},
 				{
+					title: 'Unchained Capital',
+					link: 'https://unchained.com/buy-bitcoin/',
+					description: 'Buy',
+					location: 'USA',
+					autoDca: 'No'
+				},
+				{
 					title: 'VBTC',
 					link: 'https://vbtc.exchange/',
 					description: 'Buy & Sell',

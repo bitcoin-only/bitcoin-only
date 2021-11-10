@@ -467,6 +467,14 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Lincoln Land',
+					region: 'Illinois',
+					link: 'https://t.me/LincolnlandBTCMeetup/',
+					organizer: '@BTCLincolnLand',
+					organizerLink: 'https://twitter.com/BTCLincolnLand'
+				},
+				{
+					country: 'USA',
 					city: 'Annapolis',
 					region: 'Maryland',
 					link: 'https://www.meetup.com/annapolis-bitcoin-happy-hour/',

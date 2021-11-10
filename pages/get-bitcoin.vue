@@ -282,7 +282,7 @@ export default {
 					autoDca: 'No'
 				},
 				{
-					title: 'Swan Bitcoin',
+					title: 'Swan',
 					link: 'https://www.swanbitcoin.com/',
 					description: 'Buy',
 					location: 'USA',

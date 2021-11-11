@@ -461,7 +461,7 @@ export default {
 				{
 					title: 'Unchained Vault',
 					link: 'https://unchained.com/personal/',
-					description: 'Multi-sig Bitcoin<sup>[0]</sup>',
+					description: 'Multi-sig Bitcoin',
 					platform: 'Desktop'
 				}
 			],

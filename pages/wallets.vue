@@ -457,6 +457,12 @@ export default {
 					link: 'https://nunchuk.io/',
 					description: 'Multi-sig Bitcoin [New] (frontend is closed source)',
 					platform: 'Desktop'
+				},
+				{
+					title: 'Unchained Vault',
+					link: 'https://unchained.com/personal/',
+					description: 'Multi-sig Bitcoin',
+					platform: 'Desktop'
 				}
 			],
 

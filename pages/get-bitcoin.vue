@@ -327,7 +327,7 @@ export default {
 				},
 				{
 					title: 'Squeaknode',
-					link: 'https://github.com/yzernik/squeaknode',
+					link: 'https://squeaknode.org/',
 					description: 'P2P lightning status feed'
 				},
 				{

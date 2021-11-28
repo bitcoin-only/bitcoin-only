@@ -171,6 +171,11 @@ export default {
 					link: 'https://www.youtube.com/playlist?list=PLPj3KCksGbSaEmjU0sywoTYDVYYSu8LsS',
 					description: 'Max Hillebrand\'s Wasabi Wallet Guide'
 				}
+				{
+					title: 'Ziya Sadr',
+					link: 'https://www.youtube.com/c/ZiyaSadr',
+					description: 'Weekly bitcoin QnA Sessions, Software guides and tutorials in Persian'
+				}
 			],
 			otherInfo: [
 				{

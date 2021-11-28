@@ -259,6 +259,11 @@ export default {
 					description: 'Brief Bitcoin Explanations'
 				},
 				{
+					title: 'Bitcoind.me',
+					link: 'https://bitcoind.me/',
+					description: 'Persian resources - translated books, tutorials and more'
+				},
+				{
 					title: 'Bitcoin Designed',
 					link: 'https://www.bitcoindesigned.com/',
 					description: 'Striking Bitcoin infographics'

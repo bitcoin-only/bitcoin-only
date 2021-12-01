@@ -314,7 +314,7 @@ export default {
 					link: 'https://anchor.fm/RHJ',
 					description: 'Persian Bitcoin Podcast'
 				}
-			]
+			],
 			portuguesePodcasts: [
 				{
 					title: 'Bitcoinheiros',

@@ -429,9 +429,9 @@ export default {
 					country: 'USA',
 					city: 'San Francisco Bay Area',
 					region: 'California',
-					link: 'https://www.meetup.com/bay-bitcoin-meetup/',
-					organizer: '@thomasbtc',
-					organizerLink: 'https://twitter.com/thomasbtc/status/1414659662377459735?s=20'
+					link: 'https://www.meetup.com/bay-area-bitcoiners/',
+					organizer: '@bayareabtc',
+					organizerLink: 'https://twitter.com/bayareabtc'
 				},
 				{
 					country: 'USA',

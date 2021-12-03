@@ -79,12 +79,6 @@ export default {
 
 			upcomingConferences: [
 				{
-					title: 'Adopting Bitcoin',
-					link: 'https://adoptingbitcoin.org/',
-					location: 'El Salvador',
-					dates: '2021 / Nov / 16-18th'
-				},
-				{
 					title: 'Bitcoin 2022',
 					link: 'https://b.tc/conference',
 					location: 'TBD',
@@ -100,10 +94,14 @@ export default {
 			],
 			lookingBack: [
 				{
+					title: 'Adopting Bitcoin',
+					link: 'https://adoptingbitcoin.org/',
+					pastContent: '<a href="https://adoptingbitcoin.org/" target="_blank">2021</a>'
+				},
+				{
 					title: 'Bear Arms N\' Bitcoin',
 					link: 'https://gunsnbitcoin.com/',
-					location: 'Round Rock, TX / USA',
-					dates: '2021 / Apr / 10-11th'
+					pastContent: '<a href="https://www.youtube.com/watch?v=ZRA9sEIQOOY&list=PLRws1CvWNKlu5MV872y7S_jEfNDBMX0NI"  target="_blank">2020</a>'
 				},
 				{
 					title: 'Bit Block Boom!',

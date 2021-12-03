@@ -186,6 +186,11 @@ export default {
 					description: 'Publicly-traded companies holding Bitcoin'
 				},
 				{
+					title: 'Braiins Insights',
+					link: 'https://insights.braiins.com/en/',
+					description: 'Mining Stats & Graphs'
+				},
+				{
 					title: 'Clark Moody Dashboard',
 					link: 'https://bitcoin.clarkmoody.com/dashboard/',
 					description: 'Bitcoin & LN metrics'

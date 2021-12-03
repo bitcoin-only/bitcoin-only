@@ -79,12 +79,6 @@ export default {
 
 			upcomingConferences: [
 				{
-					title: 'The Atlanta Bitcoin Conference',
-					link: 'https://tabconf.com/',
-					location: 'Atlanta, GA / USA',
-					dates: '2021 / Nov / 4-6th'
-				},
-				{
 					title: 'Adopting Bitcoin',
 					link: 'https://adoptingbitcoin.org/',
 					location: 'El Salvador',
@@ -170,6 +164,11 @@ export default {
 					title: 'Scaling Bitcoin',
 					link: 'https://telaviv2019.scalingbitcoin.org/',
 					pastContent: '2019: <a href="https://telaviv2019.scalingbitcoin.org/live/-gdfxNalDIc" target="_blank">1</a> | <a href="https://telaviv2019.scalingbitcoin.org/live/YxsjdIl0034" target="_blank">2</a> | <a href="https://telaviv2019.scalingbitcoin.org/live/PM95oNcOAlU" target="_blank">3</a> | <a href="https://telaviv2019.scalingbitcoin.org/live/Uh6Ywxrobzw" target="_blank">4</a>'
+				},
+				{
+					title: 'The Atlanta Bitcoin Conference',
+					link: 'https://tabconf.com/',
+					pastContent: '2021: <a href="https://www.youtube.com/watch?v=reKjNYQSZaQ" target="_blank">Day 1</a> | <a href="https://www.youtube.com/watch?v=mVihRFrbsbc" target="_blank">Day 2</a>',
 				},
 				{
 					title: 'Unconfiscatable',

@@ -191,6 +191,11 @@ export default {
 					description: '4-day Course'
 				},
 				{
+					title: 'Bitcoin For Everybody',
+					link: 'https://learn.saylor.org/course/view.php?id=468',
+					description: 'Free 12 hour course by Stephan Livera'
+				},
+				{
 					title: 'Bitcoin Lessons',
 					link: 'https://www.bitcoinlessons.org/',
 					description: 'App based lessons'

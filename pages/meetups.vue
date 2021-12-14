@@ -523,14 +523,6 @@ export default {
 				},
 				{
 					country: 'USA',
-					city: 'First St. Louis and St. Charles',
-					region: 'Missouri',
-					link: 'https://www.meetup.com/saint-charles-bitcoin-meetup-group/',
-					organizer: '@BitaminFranklin',
-					organizerLink: 'https://twitter.com/BitaminFranklin/status/1469964590750515206'
-				},
-				{
-					country: 'USA',
 					city: 'Kansas City',
 					region: 'Missouri',
 					link: 'https://www.meetup.com/kansas-city-bitcoin-meetup-group/',

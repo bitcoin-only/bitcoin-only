@@ -83,6 +83,11 @@ export default {
 					description: 'Sell things for Bitcoin (uses OpenNode) *'
 				},
 				{
+					title: 'SatSale',
+					link: 'https://github.com/nickfarrow/SatSale',
+					description: 'Lightweight donations page, embeds and payment gateway'
+				},
+				{
 					title: 'zaprite (BETA)',
 					link: 'https://app.zaprite.com/',
 					description: 'Bitcoin invoicing and task management'

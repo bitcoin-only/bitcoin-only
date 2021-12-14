@@ -411,6 +411,14 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Long Beach',
+					region: 'California',
+					link: 'https://www.meetup.com/long-beach-bitcoiners/events/282612809/',
+					organizer: '@lbcbitcoiners',
+					organizerLink: 'https://twitter.com/lbcbitcoiners/status/1469437379479957504'
+				},
+				{
+					country: 'USA',
 					city: 'Redding',
 					region: 'California',
 					link: 'https://www.meetup.com/Redding-Bitcoin-Meetup/',
@@ -475,6 +483,14 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Indianapolis',
+					region: 'Indiana',
+					link: 'https://t.me/LincolnlandBTCMeetup/',
+					organizer: '@IndyBitcoin',
+					organizerLink: 'https://twitter.com/IndyBitcoin'
+				},
+				{
+					country: 'USA',
 					city: 'Annapolis',
 					region: 'Maryland',
 					link: 'https://www.meetup.com/annapolis-bitcoin-happy-hour/',
@@ -504,6 +520,14 @@ export default {
 					link: 'https://t.me/joinchat/SWd5ZeVCAhGpZIjh',
 					organizer: '@Bquittem',
 					organizerLink: 'https://twitter.com/Bquittem/status/1415441814933344266'
+				},
+				{
+					country: 'USA',
+					city: 'First St. Louis and St. Charles',
+					region: 'Missouri',
+					link: 'https://www.meetup.com/saint-charles-bitcoin-meetup-group/',
+					organizer: '@BitaminFranklin',
+					organizerLink: 'https://twitter.com/BitaminFranklin/status/1469964590750515206'
 				},
 				{
 					country: 'USA',

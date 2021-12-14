@@ -146,6 +146,11 @@ export default {
 					description: 'Write 40 bytes of data to the blockchain'
 				},
 				{
+					title: 'BTCmessage',
+					link: 'https://btcmessage.com/',
+					description: 'Write data into the blockchain with vanity addrs'
+				},
+				{
 					title: 'BullBitcoin',
 					link: 'https://bullbitcoin.com/',
 					description: 'Non-custodial Bitcoin services'

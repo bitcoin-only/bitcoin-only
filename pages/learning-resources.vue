@@ -227,7 +227,7 @@ export default {
 				},
 				{
 					title: 'Towards Liberty',
-					link: 'http://towardsliberty.com/bitcoin',
+					link: 'http://towardsliberty.com/',
 					description: 'Bitcoin mentorship'
 				}
 			],

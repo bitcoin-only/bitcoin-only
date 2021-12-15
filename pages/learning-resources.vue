@@ -211,11 +211,6 @@ export default {
 					description: '1-day workshop'
 				},
 				{
-					title: 'Programming Blockchain',
-					link: 'https://programmingblockchain.com/',
-					description: '2-day seminar'
-				},
-				{
 					title: 'Smart Custody',
 					link: 'https://www.smartcustody.com/',
 					description: '1-day workshop'

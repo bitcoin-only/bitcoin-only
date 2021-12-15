@@ -216,11 +216,6 @@ export default {
 					description: '2-day seminar'
 				},
 				{
-					title: 'Programming With Bitcoin',
-					link: 'https://programmingwithbitcoin.com/',
-					description: '2-day workshop'
-				},
-				{
 					title: 'Smart Custody',
 					link: 'https://www.smartcustody.com/',
 					description: '1-day workshop'

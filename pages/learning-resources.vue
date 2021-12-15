@@ -206,11 +206,6 @@ export default {
 					description: '1-day workshops'
 				},
 				{
-					title: 'Buidl Bootcamp',
-					link: 'https://buidlbootcamp.com/',
-					description: '6-week course (20h/week) online'
-				},
-				{
 					title: 'Learn Me A Bitcoin',
 					link: 'http://learnmeabitcoin.com/workshops/',
 					description: '1-day workshop'

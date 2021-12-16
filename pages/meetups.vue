@@ -475,9 +475,17 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Chicago',
+					region: 'Illinois',
+					link: 'https://www.meetup.com/chibitdevs/',
+					organizer: '@chibitdevs',
+					organizerLink: 'https://twitter.com/chibitdevs'
+				},
+				{
+					country: 'USA',
 					city: 'Lincoln Land',
 					region: 'Illinois',
-					link: 'https://t.me/LincolnlandBTCMeetup/',
+					link: 'https://t.co/yYJeEJ1wxx',
 					organizer: '@BTCLincolnLand',
 					organizerLink: 'https://twitter.com/BTCLincolnLand'
 				},

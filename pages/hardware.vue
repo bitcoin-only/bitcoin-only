@@ -214,7 +214,7 @@ export default {
 					link: 'https://opendime.com/',
 					description: 'Bitcoin bearer bond'
 				},
-					{
+				{
 					title: 'Passport',
 					link: 'https://foundationdevices.com/',
 					description: 'Cold storage hardware wallet'

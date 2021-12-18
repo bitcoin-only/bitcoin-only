@@ -11,13 +11,12 @@
 },
 	"dependencies": {
 		"core-js": "^3.6.5",
-		"nuxt": "^2.14.6",
+		"nuxt": "^2.15.8",
 		"nuxt-buefy": "^0.4.3",
 		"nuxt-matomo": "^1.2.4"
 	},
 	"devDependencies": {
 		"@nuxt/types": "^2.14.12",
-		"fibers": "^5.0.0",
 		"sass": "^1.32.0",
 		"sass-loader": "^10.1.0"
 	}

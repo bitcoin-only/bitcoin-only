@@ -12,7 +12,7 @@
 
 		</div>
 
-		<h3>Coinjoin Tools</h3>
+		<h3>CoinJoin Tools</h3>
 
 		<div class="tbl-scroller">
 			<div class="tbl-wrapper">
@@ -28,7 +28,7 @@
 					<div v-html="lineItem.description"></div>
 					<div>
 						<template v-for="(infoLink, learnMoreIndex) in lineItem.learnMore">
-							<a :key="learnMoreIndex" :href="infoLink.link" target="_blank">{{ infoLink.name }}</a><span v-if="learnMoreIndex + 1 < lineItem.learnMore.length"> | </span>
+							<a :key="learnMoreIndex" :href="infoLink.link" target="_blank">{{ infoLink.name }}</a><span><br /></span>
 						</template>
 					</div>
 				</div>
@@ -105,9 +105,55 @@ export default {
 
 			coinjoinTools: [
 				{
+					title: 'Samourai Whirlpool',
+					link: 'https://docs.samourai.io/whirlpool',
+					description: 'Samourai Whirlpool is a free and open source (FOSS), non custodial, chaumian CoinJoin platform. Its goal is to break all deterministic links, to providing excellent forward looking on-chain privacy from a mobile device.',
+					learnMore: [
+						{
+							name: 'Text',
+							link: 'https://6102bitcoin.com/faq-whirlpool/'
+						},
+						{
+							name: 'Video',
+							link: 'https://www.youtube.com/watch?v=ehbsPZG5k-c'
+						},
+						{
+							name: 'Audio',
+							link: 'https://stephanlivera.com/episode/78/'
+						},
+						{
+							name: 'Download',
+							link: 'https://www.samouraiwallet.com/download'
+						}
+					]
+				},
+				{
+					title: 'Sparrow Whirlpool',
+					link: 'https://sparrowwallet.com/docs/mixing-whirlpool.html',
+					description: 'Utilizing the same CoinJoin implementation as Samourai Whirlpool, Sparrow Whirlpool breaks deterministic links, providing excellent forward looking on-chain privacy from a desktop environment. Includes additional functionality, such as the ability to automatically mix out to cold storage.',
+					learnMore: [
+						{
+							name: 'Text',
+							link: 'https://6102bitcoin.com/faq-whirlpool/'
+						},
+						{
+							name: 'Video',
+							link: 'https://youtu.be/6TcUY2yU41w?t=238'
+						},
+						{
+							name: 'Audio',
+							link: 'https://stephanlivera.com/episode/309/'
+						},
+						{
+							name: 'Download',
+							link: 'https://www.sparrowwallet.com/download'
+						}
+					]
+				},
+				{
 					title: 'Joinmarket',
 					link: 'https://github.com/JoinMarket-Org/joinmarket-clientserver',
-					description: 'Market based fee structure',
+					description: 'Market based fee structure CoinJoin implementation.',
 					learnMore: [
 						{
 							name: 'Text',
@@ -139,25 +185,6 @@ export default {
 						{
 							name: 'Audio',
 							link: 'https://stephanlivera.com/episode/24'
-						},
-					]
-				},
-				{
-					title: 'Whirlpool',
-					link: 'https://github.com/Samourai-Wallet/Whirlpool',
-					description: 'Advanced postmix spending',
-					learnMore: [
-						{
-							name: 'Text',
-							link: 'https://6102bitcoin.com/faq-whirlpool/'
-						},
-						{
-							name: 'Video',
-							link: 'https://www.youtube.com/playlist?list=PLIBmWVGQhizIWHyDkY-AzYc-Rn_3zGRct'
-						},
-						{
-							name: 'Audio',
-							link: 'https://stephanlivera.com/episode/78/'
 						},
 					]
 				}

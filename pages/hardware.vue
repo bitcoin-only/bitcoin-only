@@ -215,6 +215,11 @@ export default {
 					description: 'Bitcoin bearer bond'
 				},
 				{
+					title: 'Passport',
+					link: 'https://foundationdevices.com/',
+					description: 'Cold storage hardware wallet'
+				},
+				{
 					title: 'Revealer',
 					link: 'https://revealer.cc/',
 					description: 'Optical seed encryption tool'

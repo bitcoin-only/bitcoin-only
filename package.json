@@ -7,7 +7,8 @@
 		"dev": "NUXT_HOST=0.0.0.0 PORT=1111 nuxt",
 		"build": "nuxt build",
 		"start": "nuxt start",
-		"generate": "nuxt generate"
+		"generate": "nuxt generate",
+		"lint": "eslint 'pages/**/*.{js,vue}'"
 	},
 	"dependencies": {
 		"core-js": "^3.6.5",

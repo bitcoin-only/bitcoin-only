@@ -142,7 +142,7 @@ export default {
 					title: 'Bitcoin Audible',
 					link: 'https://bitcoinaudible.com/',
 					description: 'Narrations of the best Bitcoin articles'
-				},
+				}
 				{
 					title: 'Bitcoin And ...',
 					link: 'https://podcasts.apple.com/us/podcast/bitcoin-and/id1438789088',

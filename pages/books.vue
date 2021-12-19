@@ -23,7 +23,7 @@
 					<div class="tbl-title">Author</div>
 					<div class="tbl-title">Purchase Links</div>
 				</div>
-				<div v-for="(book, index) in books" :key="index" class="tbl-row">
+				<div v-for="(book, index) in books" class="tbl-row">
 					<div>{{ book.title }}</div>
 					<div>{{ book.synopsis }}</div>
 					<div>
@@ -123,7 +123,7 @@ export default {
 						}
 					]
 				},
-				{
+				
 					title: 'Bitcoin 199 Questions',
 					synopsis: 'Very concise answers to 199 bitcoin questions',
 					authors: [

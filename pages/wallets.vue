@@ -240,7 +240,7 @@ export default {
 					coinjoin: true,
 					onchain: true,
 					lightning: false,
-					multisig: true,
+					multisig: true
 					tor: true,
 				},
 				{

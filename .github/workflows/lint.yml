@@ -12,5 +12,6 @@ jobs:
           node-version: 16.13.1
           cache: 'npm'
           cache-dependency-path: package-lock.json
+      - run: npm install
       - name: Run ESLint
         run: npm run lint

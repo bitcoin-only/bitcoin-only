@@ -28,12 +28,12 @@
 					<div>{{ book.synopsis }}</div>
 					<div>
 						<template v-for="(author, authorIndex) in book.authors">
-							<a :key="authorIndex" :href="author.link" target="_blank">{{ author.name }}</a><span v-if="authorIndex + 1 < book.authors.length">, </span>
+							<a :key="authorIndex" :href="author.link" target="_blank">{{ author.name }}</a><span v-if="authorIndex + 1 < book.authors.length" :key="authorIndex">, </span>
 						</template>
 					</div>
 					<div>
 						<template v-for="(purchaseLink, purchaseLinkIndex) in book.purchaseLinks">
-							<a :key="purchaseLinkIndex" :href="purchaseLink.link" target="_blank">{{ purchaseLink.title }}</a><span v-if="purchaseLinkIndex + 1 < book.purchaseLinks.length"> , </span>
+							<a :key="purchaseLinkIndex" :href="purchaseLink.link" target="_blank">{{ purchaseLink.title }}</a><span v-if="purchaseLinkIndex + 1 < book.purchaseLinks.length" :key="purchaseLinkIndex"> , </span>
 						</template>
 					</div>
 				</div>

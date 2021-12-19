@@ -4,21 +4,24 @@
 	"author": "marc-chouinard",
 	"private": true,
 	"scripts": {
-	"dev": "NUXT_HOST=0.0.0.0 PORT=1111 nuxt",
-	"build": "nuxt build",
-	"start": "nuxt start",
-	"generate": "nuxt generate"
-},
+		"dev": "NUXT_HOST=0.0.0.0 PORT=1111 nuxt",
+		"build": "nuxt build",
+		"start": "nuxt start",
+		"generate": "nuxt generate",
+		"lint": "eslint 'pages/**/*.{js,vue}'"
+	},
 	"dependencies": {
 		"core-js": "^3.6.5",
-		"nuxt": "^2.14.6",
+		"nuxt": "^2.15.8",
 		"nuxt-buefy": "^0.4.3",
 		"nuxt-matomo": "^1.2.4"
 	},
 	"devDependencies": {
 		"@nuxt/types": "^2.14.12",
-		"fibers": "^5.0.0",
+		"eslint": "^8.5.0",
+		"eslint-plugin-vue": "^8.2.0",
 		"sass": "^1.32.0",
-		"sass-loader": "^10.1.0"
+		"sass-loader": "^10.1.0",
+		"vue-eslint-parser": "^8.0.1"
 	}
 }

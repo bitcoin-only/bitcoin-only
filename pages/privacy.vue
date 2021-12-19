@@ -28,7 +28,7 @@
 					<div v-html="lineItem.description"></div>
 					<div>
 						<template v-for="(infoLink, learnMoreIndex) in lineItem.learnMore">
-							<a :key="learnMoreIndex" :href="infoLink.link" target="_blank">{{ infoLink.name }}</a><span><br /></span>
+							<a :key="learnMoreIndex" :href="infoLink.link" target="_blank">{{ infoLink.name }}</a><span :key="learnMoreIndex"><br /></span>
 						</template>
 					</div>
 				</div>
@@ -51,7 +51,7 @@
 					<div v-html="lineItem.description"></div>
 					<div>
 						<template v-for="(infoLink, learnMoreIndex) in lineItem.learnMore">
-							<a :key="learnMoreIndex" :href="infoLink.link" target="_blank">{{ infoLink.name }}</a><span v-if="learnMoreIndex + 1 < lineItem.learnMore.length"> | </span>
+							<a :key="learnMoreIndex" :href="infoLink.link" target="_blank">{{ infoLink.name }}</a><span v-if="learnMoreIndex + 1 < lineItem.learnMore.length" :key="learnMoreIndex"> | </span>
 						</template>
 					</div>
 				</div>

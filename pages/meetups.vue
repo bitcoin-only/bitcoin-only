@@ -493,7 +493,7 @@ export default {
 					country: 'USA',
 					city: 'Indianapolis',
 					region: 'Indiana',
-					link: 'https://t.me/LincolnlandBTCMeetup/',
+					link: 'https://indybtc.com',
 					organizer: '@IndyBitcoin',
 					organizerLink: 'https://twitter.com/IndyBitcoin'
 				},

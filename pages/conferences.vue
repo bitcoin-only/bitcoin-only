@@ -79,6 +79,12 @@ export default {
 
 			upcomingConferences: [
 				{
+					title: 'Bitcoin Day Sacramento',
+					link: 'https://www.bitcoinday.io/sacramento22',
+					location: 'Roseville, CA / USA',
+					dates: '2022 / Feb / 19th'
+				},
+				{
 					title: 'Bitcoin 2022',
 					link: 'https://b.tc/conference',
 					location: 'TBD',

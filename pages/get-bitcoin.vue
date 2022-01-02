@@ -184,6 +184,13 @@ export default {
 					autoDca: 'No'
 				},
 				{
+					title: 'Bitkipi',
+					link: 'https://bitkipi.com/',
+					description: 'Buy',
+					location: 'EU',
+					autoDca: 'Yes'
+				},
+				{
 					title: 'Bitonic',
 					link: 'https://bitonic.nl/',
 					description: 'Buy & Sell',

@@ -499,6 +499,14 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Lexington',
+					region: 'Kentucky',
+					link: 'https://www.meetup.com/LexingtonBitcoin/',
+					organizer: '@patrick_ulrich',
+					organizerLink: 'https://twitter.com/patrick_ulrich/status/1476219405168254980'
+				},
+				{
+					country: 'USA',
 					city: 'Annapolis',
 					region: 'Maryland',
 					link: 'https://www.meetup.com/annapolis-bitcoin-happy-hour/',

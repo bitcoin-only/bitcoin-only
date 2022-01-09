@@ -379,6 +379,14 @@ export default {
 				},  
 				{
 					country: 'USA',
+					city: 'Huntsville',
+					region: 'Alabama',
+					link: 'https://www.meetup.com/HuntsvilleBitcoin/',
+					organizer: '@HuntsvilleBTC',
+					organizerLink: 'https://twitter.com/HuntsvilleBTC'
+				},
+				{
+					country: 'USA',
 					city: 'Phoenix',
 					region: 'Arizona',
 					link: 'https://www.meetup.com/azbitcoin/',

@@ -555,6 +555,14 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'St. Louis',
+					region: 'Missouri',
+					link: 'https://www.meetup.com/bitcoin-in-the-lou/',
+					organizer: '@Stl_Meetup',
+					organizerLink: 'https://twitter.com/Stl_Meetup'
+				},
+				{
+					country: 'USA',
 					city: 'NYC',
 					region: 'New York',
 					link: 'https://www.meetu.ps/c/3Js7d/t1fRT/d',

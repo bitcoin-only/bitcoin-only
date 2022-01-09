@@ -675,6 +675,14 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Brownsville ',
+					region: 'Texas',
+					link: 'https://www.meetup.com/brownsville-bitcoin/',
+					organizer: '@jaimeandresdiez',
+					organizerLink: 'https://twitter.com/jaimeandresdiez'
+				},
+				{
+					country: 'USA',
 					city: 'Dallas–Fort Worth',
 					region: 'Texas',
 					link: 'https://twitter.com/DTXbitcoiners',

@@ -379,6 +379,14 @@ export default {
 				},  
 				{
 					country: 'USA',
+					city: 'Huntsville',
+					region: 'Alabama',
+					link: 'https://www.meetup.com/HuntsvilleBitcoin/',
+					organizer: '@HuntsvilleBTC',
+					organizerLink: 'https://twitter.com/HuntsvilleBTC'
+				},
+				{
+					country: 'USA',
 					city: 'Phoenix',
 					region: 'Arizona',
 					link: 'https://www.meetup.com/azbitcoin/',
@@ -499,6 +507,14 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Lexington',
+					region: 'Kentucky',
+					link: 'https://lexingtonbitcoin.org/',
+					organizer: '@lexbitcoinorg',
+					organizerLink: 'https://twitter.com/lexbitcoinorg'
+				},
+				{
+					country: 'USA',
 					city: 'Annapolis',
 					region: 'Maryland',
 					link: 'https://www.meetup.com/annapolis-bitcoin-happy-hour/',
@@ -544,6 +560,14 @@ export default {
 					link: 'https://www.meetu.ps/c/3Js7d/t1fRT/d',
 					organizer: '@TiKawamoto',
 					organizerLink: 'https://twitter.com/TiKawamoto/status/1131919021589389312'
+				},
+				{
+					country: 'USA',
+					city: 'Asheville',
+					region: 'North Carolina',
+					link: 'https://www.meetup.com/asheville-bitcoin-meetup-group/',
+					organizer: '@AVLbitcoiners',
+					organizerLink: 'https://twitter.com/AVLbitcoiners'
 				},
 				{
 					country: 'USA',
@@ -648,6 +672,14 @@ export default {
 					link: 'https://austinbitcoinclub.com',
 					organizer: '@AustinBTCclub',
 					organizerLink: 'https://twitter.com/AustinBTCclub'
+				},
+				{
+					country: 'USA',
+					city: 'Brownsville ',
+					region: 'Texas',
+					link: 'https://www.meetup.com/brownsville-bitcoin/',
+					organizer: '@jaimeandresdiez',
+					organizerLink: 'https://twitter.com/jaimeandresdiez'
 				},
 				{
 					country: 'USA',

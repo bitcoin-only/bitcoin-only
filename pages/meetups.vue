@@ -555,6 +555,14 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Asheville',
+					region: 'North Carolina',
+					link: 'https://www.meetup.com/asheville-bitcoin-meetup-group/',
+					organizer: '@AVLbitcoiners',
+					organizerLink: 'https://twitter.com/AVLbitcoiners'
+				},
+				{
+					country: 'USA',
 					city: 'Charlotte',
 					region: 'North Carolina',
 					link: 'http://www.meetup.com/BitcoinCharlotte',

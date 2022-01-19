@@ -284,6 +284,11 @@ export default {
 					description: 'Comprehensive slides'
 				},
 				{
+					title: 'Bitcoin Support',
+					link: 'https://guides.bitcoinsupport.com/',
+					description: 'Self-custody and privacy guides'
+				},
+				{
 					title: 'Bitcoin Translated',
 					link: 'https://bitcoin-translated.ru/',
 					description: 'Russian translations of articles & books'

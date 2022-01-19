@@ -137,6 +137,11 @@ export default {
 					title: 'Art Design by SF',
 					link: 'https://artdesignbysf.com/',
 					description: 'Custom art & graphic design'
+				},
+				{
+					title: 'Bitcoin Support',
+					link: 'https://www.bitcoinsupport.com/',
+					description: 'One-on-one Bitcoin phone support'
 				}
 			],
 			tools: [

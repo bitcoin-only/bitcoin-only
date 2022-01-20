@@ -331,7 +331,7 @@ export default {
 				{
 					title: 'Fully Noded',
 					link: 'https://fonta1n3.github.io/FullyNoded/',
-					description: 'Bitcoin Core GUI for iOS',
+					description: 'Advanced iOS wallet that connects to Bitcoin Core',
 					platform: 'iOS'
 				},
 				{

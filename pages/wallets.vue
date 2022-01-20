@@ -600,7 +600,7 @@ export default {
 			depreciatedWallets: [
 				{
 					title: 'ABCore',
-					link: 'http://abco.re/en/releases/',
+					link: 'https://github.com/greenaddress/abcore',
 					description: 'Bitcoin Core full node for Android',
 					platform: 'Android'
 				},

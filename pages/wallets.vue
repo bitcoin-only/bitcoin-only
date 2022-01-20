@@ -373,7 +373,7 @@ export default {
 				{
 					title: 'Specter',
 					link: 'https://github.com/cryptoadvance/specter-desktop',
-					description: 'Relatively new desktop GUI for Bitcoin Core optimised to work with hardware wallets',
+					description: 'Desktop GUI for Bitcoin Core optimised to work with hardware wallets & multisig',
 					platform: 'Desktop'
 				},
 				{

@@ -33,6 +33,7 @@
 					<div class="tbl-title">Lightning</div>
 					<div class="tbl-title">Multisig</div>
 					<div class="tbl-title">Tor</div>
+					<div class="tbl-title">BIP47</div>
 				</div>
 				<div v-for="(wallet, index) in recommendedWallets" :key="index" class="tbl-row">
 					<div>
@@ -65,6 +66,9 @@
 					<div v-else><b-icon icon="panorama-fisheye" size="is-medium"> </b-icon></div>
 					<!-- tor -->
 					<div v-if="wallet.tor"><b-icon icon="check-circle" size="is-medium"> </b-icon></div>
+					<div v-else><b-icon icon="panorama-fisheye" size="is-medium"> </b-icon></div>
+					<!-- BIP47 -->
+					<div v-if="wallet.bip47"><b-icon icon="check-circle" size="is-medium"> </b-icon></div>
 					<div v-else><b-icon icon="panorama-fisheye" size="is-medium"> </b-icon></div>
 				</div>
 			</div>
@@ -242,6 +246,7 @@ export default {
 					lightning: false,
 					multisig: true,
 					tor: true,
+					bip47: true,
 				},
 				{
 					title: 'Samourai Wallet',
@@ -255,6 +260,7 @@ export default {
 					lightning: false,
 					multisig: false,
 					tor: true,
+					bip47: true,
 				},
 				{
 					title: 'Muun Wallet',
@@ -268,6 +274,7 @@ export default {
 					lightning: true,
 					multisig: false,
 					tor: false,
+					bip47: false,
 				},
 			],
 
@@ -359,7 +366,7 @@ export default {
 				{
 					title: 'Sparrow Wallet',
 					link: 'https://www.sparrowwallet.com/',
-					description: 'Relatively new desktop wallet for single sig and multi-sig',
+					description: 'Standards based desktop wallet with CoinJoin & BIP47',
 					platform: 'Desktop'
 				},
 				{

@@ -430,7 +430,7 @@ export default {
 				{
 					title: 'Sats App',
 					link: 'https://satsapp.com/',
-					description: 'Mobile non-custodial wallet connected to Casa node',
+					description: 'Mobile non-custodial wallet connected to Casa node (Paid Features)',
 					platform: 'iOS & Android (Beta)'
 				},
 				{

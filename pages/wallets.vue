@@ -351,6 +351,12 @@ export default {
 					platform: 'Android'
 				},
 				{
+					title: 'Simple Bitcoin Wallet',
+					link: 'https://sbw.app/',
+					description: 'Bitcoin wallet with Coin Control, RBF & CPFP',
+					platform: 'Android'
+				},
+				{
 					title: 'Sparrow Wallet',
 					link: 'https://www.sparrowwallet.com/',
 					description: 'Relatively new desktop wallet for single sig and multi-sig',
@@ -371,12 +377,6 @@ export default {
 			],
 
 			lightningWallets: [
-				{
-					title: 'BLW',
-					link: 'https://lightning-wallet.com/',
-					description: 'A standalone SPV Bitcoin node with a fully functional built-in Lightning node',
-					platform: 'Android'
-				},
 				{
 					title: 'Breez',
 					link: 'https://breez.technology/',
@@ -424,6 +424,12 @@ export default {
 					link: 'https://satsapp.com/',
 					description: 'Mobile non-custodial wallet connected to Casa node',
 					platform: 'iOS & Android (Beta)'
+				},
+				{
+					title: 'Simple Bitcoin Wallet',
+					link: 'https://sbw.app/',
+					description: 'Bitcoin wallet with fully functional built-in Lightning node',
+					platform: 'Android'
 				},
 				{
 					title: 'Thunderhub',

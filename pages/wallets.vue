@@ -33,6 +33,7 @@
 					<div class="tbl-title">Lightning</div>
 					<div class="tbl-title">Multisig</div>
 					<div class="tbl-title">Tor</div>
+					<div class="tbl-title">BIP47</div>
 				</div>
 				<div v-for="(wallet, index) in recommendedWallets" :key="index" class="tbl-row">
 					<div>
@@ -65,6 +66,9 @@
 					<div v-else><b-icon icon="panorama-fisheye" size="is-medium"> </b-icon></div>
 					<!-- tor -->
 					<div v-if="wallet.tor"><b-icon icon="check-circle" size="is-medium"> </b-icon></div>
+					<div v-else><b-icon icon="panorama-fisheye" size="is-medium"> </b-icon></div>
+					<!-- BIP47 -->
+					<div v-if="wallet.bip47"><b-icon icon="check-circle" size="is-medium"> </b-icon></div>
 					<div v-else><b-icon icon="panorama-fisheye" size="is-medium"> </b-icon></div>
 				</div>
 			</div>
@@ -179,6 +183,25 @@
 			<p><sup>[6]</sup>As the wallet is closed source we recommend using 3/5 and only with hardware devices that you source independently.</p>
 		</div>
 
+		<h3>Depreciated Wallets</h3>
+
+		<div class="tbl-scroller">
+			<div class="tbl-wrapper">
+				<div class="tbl-header">
+					<div class="tbl-title">Project</div>
+					<div class="tbl-title">Description</div>
+					<div class="tbl-title">Platform</div>
+				</div>
+				<div v-for="(wallet, index) in depreciatedWallets" :key="index" class="tbl-row">
+					<div>
+						<a :href="wallet.link" target="_blank">{{ wallet.title }}</a>
+					</div>
+					<div v-html="wallet.description"></div>
+					<div>{{ wallet.platform }}</div>
+				</div>
+			</div>
+		</div>
+
 	</div>
 </template>
 
@@ -242,6 +265,7 @@ export default {
 					lightning: false,
 					multisig: true,
 					tor: true,
+					bip47: true,
 				},
 				{
 					title: 'Samourai Wallet',
@@ -255,6 +279,7 @@ export default {
 					lightning: false,
 					multisig: false,
 					tor: true,
+					bip47: true,
 				},
 				{
 					title: 'Muun Wallet',
@@ -268,27 +293,22 @@ export default {
 					lightning: true,
 					multisig: false,
 					tor: false,
+					bip47: false,
 				},
 			],
 
 			onChainWallets: [
 				{
-					title: 'ABCore',
-					link: 'http://abco.re/en/releases/',
-					description: 'Bitcoin Core full node for Android',
-					platform: 'Android'
-				},
-				{
-					title: 'Armory',
-					link: 'https://www.btcarmory.com/',
-					description: 'Cold storage & multi-sig',
-					platform: 'Desktop'
-				},
-				{
 					title: 'Bitcoin Core',
 					link: 'https://bitcoincore.org/',
 					description: 'Full node & Bitcoin wallet',
 					platform: 'Desktop'
+				},
+				{
+					title: 'Blockstream Green',
+					link: 'https://blockstream.com/green/',
+					description: 'Bitcoin Wallet with option for 2FA & HW',
+					platform: 'iOS, Android & Desktop'
 				},
 				{
 					title: 'Blue Wallet',
@@ -311,14 +331,8 @@ export default {
 				{
 					title: 'Fully Noded',
 					link: 'https://fonta1n3.github.io/FullyNoded/',
-					description: 'Bitcoin Core GUI for iOS',
+					description: 'Advanced iOS wallet that connects to Bitcoin Core',
 					platform: 'iOS'
-				},
-				{
-					title: 'GreenAddress',
-					link: 'https://github.com/greenaddress/WalletElectron/releases/tag/v0.1.04',
-					description: 'Desktop companion to Blockstream Green mobile wallet',
-					platform: 'Desktop'
 				},
 				{
 					title: 'Hexa Wallet',
@@ -327,15 +341,9 @@ export default {
 					platform: 'iOS & Android'
 				},
 				{
-					title: 'Hodl Wallet',
-					link: 'https://hodlwallet.co/',
-					description: 'Relatively new wallet with simple UI',
-					platform: 'iOS & Android'
-				},
-				{
 					title: 'Lily Wallet',
 					link: 'https://lily.kevinmulcrone.com/',
-					description: 'Relatively new multi-sig wallet with simple UI',
+					description: 'Relatively new multi-sig wallet with simple UI (Paid Features)',
 					platform: 'Desktop'
 				},
 				{
@@ -351,15 +359,21 @@ export default {
 					platform: 'Android'
 				},
 				{
+					title: 'Simple Bitcoin Wallet',
+					link: 'https://sbw.app/',
+					description: 'Bitcoin wallet with Coin Control, RBF & CPFP',
+					platform: 'Android'
+				},
+				{
 					title: 'Sparrow Wallet',
 					link: 'https://www.sparrowwallet.com/',
-					description: 'Relatively new desktop wallet for single sig and multi-sig',
+					description: 'Standards based desktop wallet with CoinJoin & BIP47',
 					platform: 'Desktop'
 				},
 				{
 					title: 'Specter',
 					link: 'https://github.com/cryptoadvance/specter-desktop',
-					description: 'Relatively new desktop GUI for Bitcoin Core optimised to work with hardware wallets',
+					description: 'Desktop GUI for Bitcoin Core optimised to work with hardware wallets & multisig',
 					platform: 'Desktop'
 				},
 				{
@@ -371,12 +385,6 @@ export default {
 			],
 
 			lightningWallets: [
-				{
-					title: 'BLW',
-					link: 'https://lightning-wallet.com/',
-					description: 'A standalone SPV Bitcoin node with a fully functional built-in Lightning node',
-					platform: 'Android'
-				},
 				{
 					title: 'Breez',
 					link: 'https://breez.technology/',
@@ -422,8 +430,14 @@ export default {
 				{
 					title: 'Sats App',
 					link: 'https://satsapp.com/',
-					description: 'Mobile non-custodial wallet connected to Casa node',
+					description: 'Mobile non-custodial wallet connected to Casa node (Paid Features)',
 					platform: 'iOS & Android (Beta)'
+				},
+				{
+					title: 'Simple Bitcoin Wallet',
+					link: 'https://sbw.app/',
+					description: 'Bitcoin wallet with fully functional built-in Lightning node',
+					platform: 'Android'
 				},
 				{
 					title: 'Thunderhub',
@@ -580,6 +594,39 @@ export default {
 							link: 'https://twitter.com/Appelcline'
 						},
 					]
+				}
+			],
+
+			depreciatedWallets: [
+				{
+					title: 'ABCore',
+					link: 'https://github.com/greenaddress/abcore',
+					description: 'Bitcoin Core full node for Android',
+					platform: 'Android'
+				},
+				{
+					title: 'Armory',
+					link: 'https://www.btcarmory.com/',
+					description: 'Cold storage & multi-sig',
+					platform: 'Desktop'
+				},
+				{
+					title: 'GreenAddress',
+					link: 'https://github.com/greenaddress/WalletElectron/releases/tag/v0.1.04',
+					description: 'Desktop companion to Blockstream Green mobile wallet',
+					platform: 'Desktop'
+				},
+				{
+					title: 'Hodl Wallet',
+					link: 'https://hodlwallet.com/',
+					description: 'Relatively new wallet with simple UI',
+					platform: 'iOS & Android'
+				},
+				{
+					title: 'Bitcoin Lightning Wallet (BLW)',
+					link: 'https://lightning-wallet.com/posts/blw-is-deprecated/',
+					description: 'A standalone SPV Bitcoin node with a fully functional built-in Lightning node',
+					platform: 'Android'
 				}
 			],
 

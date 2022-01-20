@@ -183,6 +183,25 @@
 			<p><sup>[6]</sup>As the wallet is closed source we recommend using 3/5 and only with hardware devices that you source independently.</p>
 		</div>
 
+		<h3>Depreciated Wallets</h3>
+
+		<div class="tbl-scroller">
+			<div class="tbl-wrapper">
+				<div class="tbl-header">
+					<div class="tbl-title">Project</div>
+					<div class="tbl-title">Description</div>
+					<div class="tbl-title">Platform</div>
+				</div>
+				<div v-for="(wallet, index) in depreciatedWallets" :key="index" class="tbl-row">
+					<div>
+						<a :href="wallet.link" target="_blank">{{ wallet.title }}</a>
+					</div>
+					<div v-html="wallet.description"></div>
+					<div>{{ wallet.platform }}</div>
+				</div>
+			</div>
+		</div>
+
 	</div>
 </template>
 
@@ -280,18 +299,6 @@ export default {
 
 			onChainWallets: [
 				{
-					title: 'ABCore',
-					link: 'http://abco.re/en/releases/',
-					description: 'Bitcoin Core full node for Android',
-					platform: 'Android'
-				},
-				{
-					title: 'Armory',
-					link: 'https://www.btcarmory.com/',
-					description: 'Cold storage & multi-sig',
-					platform: 'Desktop'
-				},
-				{
 					title: 'Bitcoin Core',
 					link: 'https://bitcoincore.org/',
 					description: 'Full node & Bitcoin wallet',
@@ -331,12 +338,6 @@ export default {
 					title: 'Hexa Wallet',
 					link: 'https://hexawallet.io/',
 					description: 'Relatively new Shamir Secret Sharing based recovery wallet',
-					platform: 'iOS & Android'
-				},
-				{
-					title: 'Hodl Wallet',
-					link: 'https://hodlwallet.co/',
-					description: 'Relatively new wallet with simple UI',
 					platform: 'iOS & Android'
 				},
 				{
@@ -593,6 +594,33 @@ export default {
 							link: 'https://twitter.com/Appelcline'
 						},
 					]
+				}
+			],
+
+			depreciatedWallets: [
+				{
+					title: 'ABCore',
+					link: 'http://abco.re/en/releases/',
+					description: 'Bitcoin Core full node for Android',
+					platform: 'Android'
+				},
+				{
+					title: 'Armory',
+					link: 'https://www.btcarmory.com/',
+					description: 'Cold storage & multi-sig',
+					platform: 'Desktop'
+				},
+				{
+					title: 'Hodl Wallet',
+					link: 'https://hodlwallet.com/',
+					description: 'Relatively new wallet with simple UI',
+					platform: 'iOS & Android'
+				},
+				{
+					title: 'Bitcoin Lightning Wallet (BLW)',
+					link: 'https://lightning-wallet.com/posts/blw-is-deprecated/',
+					description: 'A standalone SPV Bitcoin node with a fully functional built-in Lightning node',
+					platform: 'Android'
 				}
 			],
 

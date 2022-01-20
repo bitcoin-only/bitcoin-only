@@ -343,7 +343,7 @@ export default {
 				{
 					title: 'Lily Wallet',
 					link: 'https://lily.kevinmulcrone.com/',
-					description: 'Relatively new multi-sig wallet with simple UI',
+					description: 'Relatively new multi-sig wallet with simple UI (Paid Features)',
 					platform: 'Desktop'
 				},
 				{

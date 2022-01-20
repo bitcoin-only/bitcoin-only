@@ -305,6 +305,12 @@ export default {
 					platform: 'Desktop'
 				},
 				{
+					title: 'Blockstream Green',
+					link: 'https://blockstream.com/green/',
+					description: 'Bitcoin Wallet with option for 2FA & HW',
+					platform: 'iOS, Android & Desktop'
+				},
+				{
 					title: 'Blue Wallet',
 					link: 'https://bluewallet.io/',
 					description: 'Feature rich Bitcoin wallet<sup>[1]</sup>',

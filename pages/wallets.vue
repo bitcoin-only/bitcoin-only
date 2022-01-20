@@ -329,12 +329,6 @@ export default {
 					platform: 'iOS'
 				},
 				{
-					title: 'GreenAddress',
-					link: 'https://github.com/greenaddress/WalletElectron/releases/tag/v0.1.04',
-					description: 'Desktop companion to Blockstream Green mobile wallet',
-					platform: 'Desktop'
-				},
-				{
 					title: 'Hexa Wallet',
 					link: 'https://hexawallet.io/',
 					description: 'Relatively new Shamir Secret Sharing based recovery wallet',
@@ -608,6 +602,12 @@ export default {
 					title: 'Armory',
 					link: 'https://www.btcarmory.com/',
 					description: 'Cold storage & multi-sig',
+					platform: 'Desktop'
+				},
+				{
+					title: 'GreenAddress',
+					link: 'https://github.com/greenaddress/WalletElectron/releases/tag/v0.1.04',
+					description: 'Desktop companion to Blockstream Green mobile wallet',
 					platform: 'Desktop'
 				},
 				{

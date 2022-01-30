@@ -3,7 +3,7 @@
 
 		<h1 class="page-title">Conferences</h1>
 
-		<p>These meetups are Bitcoin only.</p>
+		<p>These conferences are Bitcoin only.</p>
 
 		<h3>Upcoming</h3>
 

@@ -307,8 +307,8 @@ export default {
 					region: 'Bayern',
 					city: 'Franken',
 					link: 'https://t.me/joinchat/08upA6MrVKpkNWE6',
-					organizer: 'Unknown',
-					organizerLink: 'https://einundzwanzig.space/meetups/'
+					organizer: '@einundzwanzigFR',
+					organizerLink: 'https://twitter.com/einundzwanzigFR'
 				},
 				{
 					country: 'Germany',

@@ -360,6 +360,11 @@ export default {
 					description: 'Card game that teaches kids how Bitcoin mining works'
 				},
 				{
+					title: 'Lightning Store',
+					link: 'http://lightning.store',
+					description: 'Bitcoin culture on T-shirts & stickers'
+				},
+				{
 					title: 'Start 2 Bitcoin',
 					link: 'https://www.start2bitcoin.com/',
 					description: 'Fun Bitcoin info pack'

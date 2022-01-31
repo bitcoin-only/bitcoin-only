@@ -3,7 +3,7 @@
 
 		<h1 class="page-title">Conferences</h1>
 
-		<p>These meetups are Bitcoin only.</p>
+		<p>These conferences are Bitcoin only.</p>
 
 		<h3>Upcoming</h3>
 
@@ -85,16 +85,34 @@ export default {
 					dates: '2022 / Feb / 19th'
 				},
 				{
+					title: 'Advancing Bitcoin',
+					link: 'https://www.advancingbitcoin.com/',
+					location: 'London / UK',
+					dates: '2022 / Mar / 3rd-4th'
+				},
+				{
+					title: 'Unconfiscatable',
+					link: 'https://unconfiscatable.com/',
+					location: 'Las Vegas, NV / USA',
+					dates: '2022 / Mar / 3rd-6th'
+				},
+				{
+					title: 'Empower: Energizing Bitcoin',
+					link: 'https://www.digitalwildcatters.com/empower-energizing-bitcoin/',
+					location: 'Houston, TX / USA',
+					dates: '2022 / Mar / 30th-31st'
+				},
+				{
 					title: 'Bitcoin 2022',
 					link: 'https://b.tc/conference',
-					location: 'TBD',
-					dates: '2022 / Apr / 6-9th'
+					location: 'Miami, FL / USA',
+					dates: '2022 / Apr / 6th-9th'
 				},
 				{
 					title: 'Bit Block Boom!',
 					link: 'https://bitblockboom.com/',
 					location: 'Austin, TX / USA',
-					dates: '2022 / Aug / 25-28th'
+					dates: '2022 / Aug / 25th-28th'
 				},
 				
 			],

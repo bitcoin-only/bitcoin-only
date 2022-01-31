@@ -369,9 +369,9 @@ export default {
 					description: 'Bitcoin cashback rewards'
 				},
 				{
-					title: 'Stekking',
-					link: 'https://stekking.com/',
-					description: 'Bitcoin cashback rewards'
+					title: 'Satsback.com',
+					link: 'https://satsback.com/',
+					description: 'Bitcoin (Lightning) cashback rewards'
 				}
 			]
 

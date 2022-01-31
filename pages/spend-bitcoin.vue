@@ -137,6 +137,11 @@ export default {
 					title: 'Art Design by SF',
 					link: 'https://artdesignbysf.com/',
 					description: 'Custom art & graphic design'
+				},
+				{
+					title: 'Bitcoin Support',
+					link: 'https://www.bitcoinsupport.com/',
+					description: 'One-on-one Bitcoin phone support'
 				}
 			],
 			tools: [
@@ -353,6 +358,11 @@ export default {
 					title: 'SHAmory',
 					link: 'https://shamory.com/',
 					description: 'Card game that teaches kids how Bitcoin mining works'
+				},
+				{
+					title: 'Lightning Store',
+					link: 'http://lightning.store',
+					description: 'Bitcoin culture on T-shirts & stickers'
 				},
 				{
 					title: 'Start 2 Bitcoin',

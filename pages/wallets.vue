@@ -181,6 +181,7 @@
 			<p><sup>[4]</sup>Tippin.me is fully custodial meaning you do not have your private keys, thus you are not guaranteed full control of your funds.</p>
 			<p><sup>[5]</sup>Wallet of Satoshi is fully custodial meaning you do not have your private keys, thus you are not guaranteed full control of your funds.</p>
 			<p><sup>[6]</sup>As the wallet is closed source we recommend using 3/5 and only with hardware devices that you source independently.</p>
+			<p><sup>[7]</sup>These wallets integrate a KYC exchange to buy bitcoin. We recommend against using KYC exchanges due to the <a href="https://bitcoinqna.github.io/noKYConly1/" target="_blank">risks</a>.</p>
 		</div>
 
 		<h3>Depreciated Wallets</h3>
@@ -313,7 +314,7 @@ export default {
 				{
 					title: 'Blue Wallet',
 					link: 'https://bluewallet.io/',
-					description: 'Feature rich Bitcoin wallet<sup>[1]</sup>',
+					description: 'Feature rich Bitcoin wallet<sup>[1]</sup>,<sup>[7]</sup>',
 					platform: 'iOS, Android, MacOS'
 				},
 				{
@@ -337,7 +338,7 @@ export default {
 				{
 					title: 'Hexa Wallet',
 					link: 'https://hexawallet.io/',
-					description: 'Relatively new Shamir Secret Sharing based recovery wallet',
+					description: 'Relatively new Shamir Secret Sharing based recovery wallet <sup>[7]</sup>',
 					platform: 'iOS & Android'
 				},
 				{
@@ -373,7 +374,7 @@ export default {
 				{
 					title: 'Specter',
 					link: 'https://github.com/cryptoadvance/specter-desktop',
-					description: 'Desktop GUI for Bitcoin Core optimised to work with hardware wallets & multisig',
+					description: 'Desktop GUI for Bitcoin Core optimised to work with hardware wallets & multisig <sup>[7]</sup>',
 					platform: 'Desktop'
 				},
 				{

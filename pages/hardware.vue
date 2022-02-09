@@ -172,6 +172,11 @@ export default {
 					description: 'Full Stack (Pi4)'
 				},
 				{
+					title: 'Citadel',
+					link: 'https://runcitadel.space/',
+					description: 'Full Stack (Pi4)'
+				},
+				{
 					title: 'Other DIY Bitcoin Hardware',
 					link: 'https://diybitcoinhardware.com/',
 					description: 'Other DIY hardware projects'

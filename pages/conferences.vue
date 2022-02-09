@@ -109,6 +109,12 @@ export default {
 					dates: '2022 / Apr / 6th-9th'
 				},
 				{
+					title: 'The Bitcoin Mining Conference',
+					link: 'https://braiins.com/bitcoin-mining-conference-2022',
+					location: 'Prague / CZ',
+					dates: '2022 / June / 14th-16th'
+				},
+				{
 					title: 'Bit Block Boom!',
 					link: 'https://bitblockboom.com/',
 					location: 'Austin, TX / USA',

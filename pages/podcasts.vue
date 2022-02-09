@@ -209,6 +209,11 @@ export default {
 					description: 'Interviews with Bitcoiners'
 				},
 				{
+					title: 'Closing the Loop',
+					link: 'https://www.seetee.io/podcast/',
+					description: 'Interviews with Bitcoiners'
+				},
+				{
 					title: 'Fun With Bitcoin',
 					link: 'https://anchor.fm/funwithbitcoin',
 					description: 'Interviews with Bitcoiners'

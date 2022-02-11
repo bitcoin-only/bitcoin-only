@@ -313,6 +313,13 @@ export default {
 					description: 'German weekly Bitcoin podcast'
 				}
 			],
+			spanishPodcasts: [
+				{
+					title: 'Lunaticoin',
+					link: 'https://anchor.fm/lunaticoin',
+					description: 'Connect with Spanish-speaking Bitcoin enthusiasts'
+				}
+			],
 			persianPodcasts: [
 				{
 					title: 'لانه خرگوش (Rabbit Hole Podcast)',

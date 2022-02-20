@@ -120,6 +120,12 @@ export default {
 					location: 'Austin, TX / USA',
 					dates: '2022 / Aug / 25th-28th'
 				},
+				{
+					title: 'B Conf',
+					link: 'https://bconf.de/',
+					location: 'Innsbruck, Austria / USA',
+					dates: '2022 / Sept / 15th-17th'
+				},
 				
 			],
 			lookingBack: [

@@ -123,7 +123,7 @@ export default {
 				{
 					title: 'B Conf',
 					link: 'https://bconf.de/',
-					location: 'Innsbruck, Austria / USA',
+					location: 'Innsbruck, Austria',
 					dates: '2022 / Sept / 15th-17th'
 				},
 				

@@ -2,7 +2,7 @@
 	<div id="meetups-page">
 
 		<h1 class="page-title">Meetups</h1>
-		
+
 		<div class="getting-started-section">
 
 					<h3>Getting Started</h3>
@@ -18,7 +18,7 @@
 
 					<p> To get your meetup added <a href="https://github.com/bitcoin-only/bitcoin-only/issues/new?assignees=&labels=meetup&template=meetup-suggestion.md&title=Meetup+Suggestion%3A+%2A%2AExample+Bitcoin+Meetup%2A%2A" target="_blank">raise an issue</a>.</p>
 		</div>
-		
+
 		<h3>Cyberspace</h3>
 
 		<div class="tbl-scroller">
@@ -128,9 +128,9 @@ export default {
 				{
 					country: 'Australia',
 					city: 'Brisbane',
-					link: 'http://meetu.ps/c/3xLDF/53GSl/a',
-					organizer: '@AleksSvetski',
-					organizerLink: 'https://twitter.com/AleksSvetski/status/1132068910986014720'
+					link: 'https://www.meetup.com/en-AU/Bitcoin_Brisbane/',
+					organizer: '@BenHowardAU',
+					organizerLink: 'https://twitter.com/BenHowardAU'
 				},
 				{
 					country: 'Australia',
@@ -738,6 +738,30 @@ export default {
 					link: 'http://bitcoinsheffield.co.uk/',
 					organizer: '@in3rsha',
 					organizerLink: 'https://github.com/in3rsha'
+				},
+				{
+					country: 'USA',
+					city: 'Huntsville',
+					region: 'Alabama',
+					link: 'https://www.meetup.com/HuntsvilleBitcoin/',
+					organizer: '@HuntsvilleBTC',
+					organizerLink: 'https://twitter.com/HuntsvilleBTC'
+				},
+				{
+					country: 'USA',
+					city: 'Phoenix',
+					region: 'Arizona',
+					link: 'https://www.meetup.com/azbitcoin/',
+					organizer: '@sthenc',
+					organizerLink: 'https://twitter.com/sthenc/status/1355291173133320194'
+				},
+				{
+					country: 'USA',
+					city: 'Little Rock',
+					region: 'Arkansas',
+					link: 'https://www.meetup.com/Bitcoin-Little-Block/',
+					organizer: '@_joerodgers',
+					organizerLink: 'https://twitter.com/_joerodgers/status/1220186941368557575'
 				},
 				{
 					country: 'USA',

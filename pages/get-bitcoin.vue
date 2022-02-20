@@ -190,6 +190,13 @@ export default {
 					location: 'EU',
 					autoDca: 'Yes'
 				},
+        {
+					title: 'Bitmoon',
+					link: 'https://bitmoon.bitcoinpeople.it',
+					description: 'Buy & Sell',
+					location: 'Italy',
+					autoDca: 'Yes'
+				},
 				{
 					title: 'Bitonic',
 					link: 'https://bitonic.nl/',

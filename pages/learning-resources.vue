@@ -319,6 +319,11 @@ export default {
 					description: 'Resources for Spanish Bitcoiners'
 				},
 				{
+					title: 'exonumia.africa',
+					link: 'https://exonumia.africa',
+					description: 'Freely available African language translations of literature that explains Bitcoin'
+				},
+				{
 					title: 'Get Coined',
 					link: 'https://www.getcoined.io/',
 					description: 'Concise introduction for precoiners'

@@ -142,7 +142,7 @@ export default {
 					description: 'Full node with API (PC / Pi4)'
 				},
 				{
-					title: 'Raspibolt',
+					title: 'RaspiBolt',
 					link: 'https://raspibolt.org/',
 					description: 'Bitcoin & Lightning node, manual installation guide for Debian-based OS'
 				},

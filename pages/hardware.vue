@@ -143,8 +143,8 @@ export default {
 				},
 				{
 					title: 'Raspibolt',
-					link: 'https://stadicus.github.io/RaspiBolt/',
-					description: 'Lightning node (Pi3 / Pi4)'
+					link: 'https://raspibolt.org/',
+					description: 'Bitcoin & Lightning node, manual installation guide for Debian-based OS'
 				},
 				{
 					title: 'RoninDojo',

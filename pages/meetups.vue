@@ -1093,6 +1093,14 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Broward County',
+					region: 'Florida',
+					link: 'https://www.meetup.com/meetup-group-zzcspgmf/',
+					organizer: '@Bitcoincounty',
+					organizerLink: 'https://twitter.com/Bitcoincounty'
+				},
+				{
+					country: 'USA',
 					city: 'St. Louis',
 					region: 'Missouri',
 					link: 'https://www.meetup.com/bitcoin-in-the-lou/',

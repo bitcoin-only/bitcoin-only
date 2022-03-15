@@ -377,12 +377,6 @@ export default {
 					description: 'Desktop GUI for Bitcoin Core optimised to work with hardware wallets & multisig <sup>[7]</sup>',
 					platform: 'Desktop'
 				},
-				{
-					title: 'Wasabi Wallet',
-					link: 'https://wasabiwallet.io/',
-					description: 'Privacy focused Bitcoin wallet, that implements trustless coin shuffling',
-					platform: 'Desktop'
-				}
 			],
 
 			lightningWallets: [

@@ -168,25 +168,6 @@ export default {
 							link: 'https://stephanlivera.com/episode/58'
 						},
 					]
-				},
-				{
-					title: 'Wasabi Wallet',
-					link: 'https://wasabiwallet.io/',
-					description: 'Strong network level privacy',
-					learnMore: [
-						{
-							name: 'Text',
-							link: 'https://6102bitcoin.com/faq-wasabi/'
-						},
-						{
-							name: 'Video',
-							link: 'https://www.youtube.com/watch?v=zPKpC9cRcZo&list=PLmoQ11MXEmahCG1nkbKK6DiAwVx9giJCi'
-						},
-						{
-							name: 'Audio',
-							link: 'https://stephanlivera.com/episode/24'
-						},
-					]
 				}
 			],
 			communicationTools: [

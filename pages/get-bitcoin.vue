@@ -166,7 +166,7 @@ export default {
 					title: 'Amber',
 					link: 'https://amber.app/',
 					description: 'Buy & Sell',
-					location: 'Australia',
+					location: 'Australia & USA',
 					autoDca: 'Yes'
 				},
 				{

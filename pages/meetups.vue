@@ -901,6 +901,14 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'San Antonio',
+					region: 'Texas',
+					link: 'https://www.sanantoniobitcoinclub.com/',
+					organizer: '@SABTCclub',
+					organizerLink: 'hhttps://twitter.com/SABTCclub'
+				},
+				{
+					country: 'USA',
 					city: 'Indianapolis',
 					region: 'Indiana',
 					link: 'https://indybtc.com',

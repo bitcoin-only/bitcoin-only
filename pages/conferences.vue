@@ -79,12 +79,6 @@ export default {
 
 			upcomingConferences: [
 				{
-					title: 'Empower: Energizing Bitcoin',
-					link: 'https://www.digitalwildcatters.com/empower-energizing-bitcoin/',
-					location: 'Houston, TX / USA',
-					dates: '2022 / Mar / 30th-31st'
-				},
-				{
 					title: 'Bitcoin 2022',
 					link: 'https://b.tc/conference',
 					location: 'Miami, FL / USA',

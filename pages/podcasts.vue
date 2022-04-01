@@ -219,6 +219,11 @@ export default {
 					description: 'Interviews with Bitcoiners'
 				},
 				{
+					title: 'Jan 3 Podcast',
+					link: 'https://jan3podcast.com/',
+					description: 'Persian language bitcoin podcast'
+				},
+				{
 					title: 'Noded',
 					link: 'https://noded.org/podcast/',
 					description: 'Michael Goldstein and Pierre Rochard'

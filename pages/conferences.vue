@@ -79,12 +79,6 @@ export default {
 
 			upcomingConferences: [
 				{
-					title: 'Unconfiscatable',
-					link: 'https://unconfiscatable.com/',
-					location: 'Las Vegas, NV / USA',
-					dates: '2022 / Mar / 3rd-6th'
-				},
-				{
 					title: 'Empower: Energizing Bitcoin',
 					link: 'https://www.digitalwildcatters.com/empower-energizing-bitcoin/',
 					location: 'Houston, TX / USA',
@@ -195,7 +189,7 @@ export default {
 				{
 					title: 'Unconfiscatable',
 					link: 'https://tonevays.com/conference/unconfiscatable',
-					pastContent: '<a href="https://youtu.be/16T5CUNGX2Q" target="_blank">2019</a>'
+					pastContent: '<a href="https://youtu.be/16T5CUNGX2Q" target="_blank">2019</a> | 2022: <a href="https://youtu.be/8j_Rw-dHrDY" target="_blank">1</a> | <a href="https://youtu.be/Xe3cXSAa75U" target="_blank">2</a>',
 				},
 				{
 					title: 'Understanding BTC',

@@ -1109,6 +1109,14 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Jackson',
+					region: 'Mississippi',
+					link: 'https://www.meetup.com/jxn-mississippi-bitcoin/',
+					organizer: '@MatthewABurrow',
+					organizerLink: 'https://twitter.com/matthewaburrow/status/1491551371182710786'
+				},
+				{
+					country: 'USA',
 					city: 'St. Louis',
 					region: 'Missouri',
 					link: 'https://www.meetup.com/bitcoin-in-the-lou/',

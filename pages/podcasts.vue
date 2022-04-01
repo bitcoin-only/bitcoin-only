@@ -219,6 +219,11 @@ export default {
 					description: 'Interviews with Bitcoiners'
 				},
 				{
+					title: 'Jan 3 Podcast',
+					link: 'https://jan3podcast.com/',
+					description: 'Persian language bitcoin podcast'
+				},
+				{
 					title: 'Noded',
 					link: 'https://noded.org/podcast/',
 					description: 'Michael Goldstein and Pierre Rochard'
@@ -227,6 +232,11 @@ export default {
 					title: 'Once BITten!',
 					link: 'https://anchor.fm/daniel-prince6',
 					description: 'Daniel Prince'
+				},
+				{
+					title: 'Plebscast',
+					link: 'https://anchor.fm/plebscast',
+					description: 'Spanish Bitcoin Podcast'
 				},
 				{
 					title: 'Reckless Review',

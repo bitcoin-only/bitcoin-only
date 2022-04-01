@@ -781,6 +781,14 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Montrose',
+					region: 'Colorado',
+					link: 'https://twitter.com/adam_egloff/status/1503830108519477254',
+					organizer: '@adam_egloff',
+					organizerLink: 'https://twitter.com/adam_egloff/status/1503830108519477254'
+				},
+				{
+					country: 'USA',
 					city: 'Boise',
 					region: 'Idaho',
 					link: 'https://www.meetup.com/boise-bitcoiners/',
@@ -898,6 +906,14 @@ export default {
 					link: 'https://twitter.com/DTXbitcoiners',
 					organizer: '@DTXbitcoiners',
 					organizerLink: 'https://twitter.com/DTXbitcoiners'
+				},
+				{
+					country: 'USA',
+					city: 'San Antonio',
+					region: 'Texas',
+					link: 'https://www.sanantoniobitcoinclub.com/',
+					organizer: '@SABTCclub',
+					organizerLink: 'hhttps://twitter.com/SABTCclub'
 				},
 				{
 					country: 'USA',
@@ -1098,6 +1114,14 @@ export default {
 					link: 'https://www.meetup.com/meetup-group-zzcspgmf/',
 					organizer: '@Bitcoincounty',
 					organizerLink: 'https://twitter.com/Bitcoincounty'
+				},
+				{
+					country: 'USA',
+					city: 'Jackson',
+					region: 'Mississippi',
+					link: 'https://www.meetup.com/jxn-mississippi-bitcoin/',
+					organizer: '@MatthewABurrow',
+					organizerLink: 'https://twitter.com/matthewaburrow/status/1491551371182710786'
 				},
 				{
 					country: 'USA',

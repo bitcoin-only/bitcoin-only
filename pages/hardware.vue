@@ -225,11 +225,6 @@ export default {
 					description: 'Cold storage hardware wallet'
 				},
 				{
-					title: 'Revealer',
-					link: 'https://revealer.cc/',
-					description: 'Optical seed encryption tool'
-				},
-				{
 					title: 'Seed Signer',
 					link: 'https://github.com/SeedSigner/seedsigner',
 					description: 'Offline, airgapped Bitcoin signing device'

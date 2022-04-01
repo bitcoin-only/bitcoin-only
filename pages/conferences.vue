@@ -79,30 +79,6 @@ export default {
 
 			upcomingConferences: [
 				{
-					title: 'Bitcoin Day Sacramento',
-					link: 'https://www.bitcoinday.io/sacramento22',
-					location: 'Roseville, CA / USA',
-					dates: '2022 / Feb / 19th'
-				},
-				{
-					title: 'Advancing Bitcoin',
-					link: 'https://www.advancingbitcoin.com/',
-					location: 'London / UK',
-					dates: '2022 / Mar / 3rd-4th'
-				},
-				{
-					title: 'Unconfiscatable',
-					link: 'https://unconfiscatable.com/',
-					location: 'Las Vegas, NV / USA',
-					dates: '2022 / Mar / 3rd-6th'
-				},
-				{
-					title: 'Empower: Energizing Bitcoin',
-					link: 'https://www.digitalwildcatters.com/empower-energizing-bitcoin/',
-					location: 'Houston, TX / USA',
-					dates: '2022 / Mar / 30th-31st'
-				},
-				{
 					title: 'Bitcoin 2022',
 					link: 'https://b.tc/conference',
 					location: 'Miami, FL / USA',
@@ -121,7 +97,7 @@ export default {
 					dates: '2022 / Aug / 25th-28th'
 				},
 				{
-					title: 'B Conf',
+					title: 'BTC22',
 					link: 'https://bconf.de/',
 					location: 'Innsbruck, Austria',
 					dates: '2022 / Sept / 15th-17th'
@@ -207,7 +183,7 @@ export default {
 				{
 					title: 'Unconfiscatable',
 					link: 'https://tonevays.com/conference/unconfiscatable',
-					pastContent: '<a href="https://youtu.be/16T5CUNGX2Q" target="_blank">2019</a>'
+					pastContent: '<a href="https://youtu.be/16T5CUNGX2Q" target="_blank">2019</a> | 2022: <a href="https://youtu.be/8j_Rw-dHrDY" target="_blank">1</a> | <a href="https://youtu.be/Xe3cXSAa75U" target="_blank">2</a>',
 				},
 				{
 					title: 'Understanding BTC',

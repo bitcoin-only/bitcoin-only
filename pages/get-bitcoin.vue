@@ -166,7 +166,7 @@ export default {
 					title: 'Amber',
 					link: 'https://amber.app/',
 					description: 'Buy & Sell',
-					location: 'Australia',
+					location: 'Australia & USA',
 					autoDca: 'Yes'
 				},
 				{
@@ -251,7 +251,7 @@ export default {
 					link: 'https://www.hardblock.com.au/',
 					description: 'Buy & Sell',
 					location: 'Australia',
-					autoDca: 'No'
+					autoDca: 'Yes'
 				},
 				{
 					title: 'Pocket Bitcoin',

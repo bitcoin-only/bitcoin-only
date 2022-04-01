@@ -781,6 +781,14 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Montrose',
+					region: 'Colorado',
+					link: 'https://twitter.com/adam_egloff/status/1503830108519477254',
+					organizer: '@adam_egloff',
+					organizerLink: 'https://twitter.com/adam_egloff/status/1503830108519477254'
+				},
+				{
+					country: 'USA',
 					city: 'Boise',
 					region: 'Idaho',
 					link: 'https://www.meetup.com/boise-bitcoiners/',

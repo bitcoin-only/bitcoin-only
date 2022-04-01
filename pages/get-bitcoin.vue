@@ -251,7 +251,7 @@ export default {
 					link: 'https://www.hardblock.com.au/',
 					description: 'Buy & Sell',
 					location: 'Australia',
-					autoDca: 'No'
+					autoDca: 'Yes'
 				},
 				{
 					title: 'Pocket Bitcoin',

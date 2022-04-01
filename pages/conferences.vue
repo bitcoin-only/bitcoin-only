@@ -79,12 +79,6 @@ export default {
 
 			upcomingConferences: [
 				{
-					title: 'Advancing Bitcoin',
-					link: 'https://www.advancingbitcoin.com/',
-					location: 'London / UK',
-					dates: '2022 / Mar / 3rd-4th'
-				},
-				{
 					title: 'Unconfiscatable',
 					link: 'https://unconfiscatable.com/',
 					location: 'Las Vegas, NV / USA',

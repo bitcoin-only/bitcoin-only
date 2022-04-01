@@ -229,6 +229,11 @@ export default {
 					description: 'Daniel Prince'
 				},
 				{
+					title: 'Plebscast',
+					link: 'https://anchor.fm/plebscast',
+					description: 'Spanish Bitcoin Podcast'
+				},
+				{
 					title: 'Reckless Review',
 					link: 'http://www.recklessreview.horse/',
 					description: 'Lawrence Nahum & Udi Wertheimer'

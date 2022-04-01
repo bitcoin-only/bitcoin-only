@@ -121,7 +121,7 @@ export default {
 					dates: '2022 / Aug / 25th-28th'
 				},
 				{
-					title: 'B Conf',
+					title: 'BTC22',
 					link: 'https://bconf.de/',
 					location: 'Innsbruck, Austria',
 					dates: '2022 / Sept / 15th-17th'

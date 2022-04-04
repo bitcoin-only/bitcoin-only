@@ -98,6 +98,23 @@
 			</div>
 		</div>
 
+		<h3>Spanish</h3>
+
+		<div class="tbl-scroller">
+			<div class="tbl-wrapper">
+				<div class="tbl-header">
+					<div class="tbl-title">Podcast</div>
+					<div class="tbl-title">Description</div>
+				</div>
+				<div v-for="(pod, index) in spanishPodcasts" :key="index" class="tbl-row">
+					<div>
+						<a :href="pod.link" target="_blank">{{ pod.title }}</a>
+					</div>
+					<div v-html="pod.description"></div>
+				</div>
+			</div>
+		</div>
+
 	</div>
 </template>
 

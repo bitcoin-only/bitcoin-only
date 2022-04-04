@@ -156,6 +156,11 @@ export default {
 
 			englishPodcasts: [
 				{
+					title: 'Australian Bitcoin Podcast',
+					link: 'https://anchor.fm/australianbitcoinpodcast',
+					description: 'Bitcoin news & more'
+				},
+				{
 					title: 'Bitcoin Audible',
 					link: 'https://bitcoinaudible.com/',
 					description: 'Narrations of the best Bitcoin articles'

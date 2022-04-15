@@ -102,7 +102,11 @@ export default {
 					location: 'Innsbruck, Austria',
 					dates: '2022 / Sept / 15th-17th'
 				},
-				
+				{title: 'Pacific Bitcoin Conference 2022',
+					link: 'https://www.swanbitcoin.com/pacbitcoin/',
+					location: 'Los Angeles, CA / USA',
+					dates: '2022 / Sept / 29th-30th'
+				},
 			],
 			lookingBack: [
 				{

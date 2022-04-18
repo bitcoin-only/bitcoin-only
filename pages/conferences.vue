@@ -78,12 +78,7 @@ export default {
 		return {
 
 			upcomingConferences: [
-				{
-					title: 'Bitcoin 2022',
-					link: 'https://b.tc/conference',
-					location: 'Miami, FL / USA',
-					dates: '2022 / Apr / 6th-9th'
-				},
+				
 				{
 					title: 'The Bitcoin Mining Conference',
 					link: 'https://braiins.com/bitcoin-mining-conference-2022',
@@ -105,6 +100,12 @@ export default {
 				
 			],
 			lookingBack: [
+				{
+					title: 'Bitcoin 2022',
+					link: 'https://b.tc/conference',
+					pastContent: '<a href="https://www.youtube.com/playlist?list=PLe0djdakvnFZ2C7DMjQfiuqCtbxk0ZTsz/" target="_blank">2022</a>'
+				},				
+				
 				{
 					title: 'Adopting Bitcoin',
 					link: 'https://adoptingbitcoin.org/',

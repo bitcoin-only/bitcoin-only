@@ -78,7 +78,6 @@ export default {
 		return {
 
 			upcomingConferences: [
-				
 				{
 					title: 'The Bitcoin Mining Conference',
 					link: 'https://braiins.com/bitcoin-mining-conference-2022',
@@ -97,15 +96,13 @@ export default {
 					location: 'Innsbruck, Austria',
 					dates: '2022 / Sept / 15th-17th'
 				},
-				
 			],
 			lookingBack: [
 				{
 					title: 'Bitcoin 2022',
 					link: 'https://b.tc/conference',
 					pastContent: '<a href="https://www.youtube.com/playlist?list=PLe0djdakvnFZ2C7DMjQfiuqCtbxk0ZTsz/" target="_blank">2022</a>'
-				},				
-				
+				},
 				{
 					title: 'Adopting Bitcoin',
 					link: 'https://adoptingbitcoin.org/',

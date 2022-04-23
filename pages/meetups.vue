@@ -823,7 +823,7 @@ export default {
 					country: 'USA',
 					city: 'Detroit',
 					region: 'Michigan',
-					link: 'detbtc.com',
+					link: 'https://detbtc.com',
 					organizer: '@detbtc',
 					organizerLink: 'https://twitter.com/detbtc'
 				},

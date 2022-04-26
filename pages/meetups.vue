@@ -1140,6 +1140,14 @@ export default {
 					organizerLink: 'https://twitter.com/MaxwellSikorski/status/1232133160353370112'
 				},
 				{
+					country: 'USA',
+					city: 'Los Angeles',
+					region: 'California',
+					link: 'https://la.bitplebs.com/',
+					organizer: '@BitPlebsLA',
+					organizerLink: 'https://twitter.com/BitPlebsLA'
+				},
+				{
 					country: 'Venezuela',
 					city: 'Caracas',
 					link: 'https://www.meetup.com/Satoshi-en-Venezuela/',

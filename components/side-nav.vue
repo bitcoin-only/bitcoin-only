@@ -109,6 +109,11 @@ export default {
 					to: '/privacy'
 				},
 				{
+					title: 'Jobs',
+					icon: 'jobs',
+					to: '/jobs'
+				},
+				{
 					title: 'Peers',
 					icon: '',
 					to: '/peers'

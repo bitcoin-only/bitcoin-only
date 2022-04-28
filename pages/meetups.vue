@@ -1143,7 +1143,7 @@ export default {
 					country: 'USA',
 					city: 'Los Angeles',
 					region: 'California',
-					link: 'https://la.bitplebs.com/',
+					link: 'http://la.bitplebs.com/',
 					organizer: '@BitPlebsLA',
 					organizerLink: 'https://twitter.com/BitPlebsLA'
 				},

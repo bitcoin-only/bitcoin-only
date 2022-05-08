@@ -366,6 +366,66 @@ export default {
 							link: 'https://www.amazon.co.jp/dp/4623090299'
 						}
 					]
+				},
+				{
+					title: '달러는 왜 비트코인을 싫어하는가',
+					synopsis: 'Korean translation of The Bitcoin Standard',
+					authors: [
+						{
+							name: 'Saifedean Ammous',
+							link: 'https://twitter.com/saifedean'
+						},
+						{
+							name: 'Teruko Neriki',
+							link: 'https://twitter.com/TerukoNeriki'
+						},
+						{
+							name: 'wiz',
+							link: 'https://twitter.com/wiz'
+						}
+					],
+					purchaseLinks: [
+						{
+							title: 'Yes24',
+							link: 'http://www.yes24.com/Product/Goods/66815979'
+						},
+						{
+							title: 'Kyobo',
+							link: 'http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791161340333'
+						}
+					]
+				},
+				{
+					title: '밑바닥부터 시작하는 비트코인',
+					synopsis: 'Korean translation of Programming Bitcoin',
+					authors: [
+						{
+							name: 'Jimmy Song',
+							link: 'https://twitter.com/jimmysong'
+						}
+					],
+					purchaseLinks: [
+						{
+							title: 'Yes24',
+							link: 'http://www.yes24.com/Product/Goods/81536965'
+						}
+					]
+				},
+				{
+					title: '인벤팅 비트코인',
+					synopsis: 'Korean translation of Inventing Bitcoin',
+					authors: [
+						{
+							name: 'Yan Pritzker',
+							link: 'https://twitter.com/skwp'
+						}
+					],
+					purchaseLinks: [
+						{
+							title: 'Free PDF',
+							link: 'https://drive.google.com/file/d/11LPFAPjGQeWC335Aw6oefCodBXH9g2BT/view'
+						}
+					]
 				}
 			]
 

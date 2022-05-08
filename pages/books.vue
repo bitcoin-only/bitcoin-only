@@ -374,14 +374,6 @@ export default {
 						{
 							name: 'Saifedean Ammous',
 							link: 'https://twitter.com/saifedean'
-						},
-						{
-							name: 'Teruko Neriki',
-							link: 'https://twitter.com/TerukoNeriki'
-						},
-						{
-							name: 'wiz',
-							link: 'https://twitter.com/wiz'
 						}
 					],
 					purchaseLinks: [
@@ -418,6 +410,10 @@ export default {
 						{
 							name: 'Yan Pritzker',
 							link: 'https://twitter.com/skwp'
+						},
+						{
+							name: 'SoulBitcoin',
+							link: 'https://twitter.com/soulbitcoin'
 						}
 					],
 					purchaseLinks: [

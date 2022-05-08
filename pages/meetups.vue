@@ -613,6 +613,13 @@ export default {
 				},
 				{
 					country: 'Norway',
+					city: 'Bergen',
+					link: 'https://www.kongerik.et/arrangementer',
+					organizer: '@EuroDale',
+					organizerLink: 'https://twitter.com/EuroDale',
+				},				
+				{
+					country: 'Norway',
 					city: 'Oslo',
 					link: 'https://www.meetup.com/Oslo-Bitcoin-First-Meetup-Group/',
 					organizer: '@sikanderlhote',

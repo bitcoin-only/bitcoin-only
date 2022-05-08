@@ -85,6 +85,12 @@ export default {
 					dates: '2022 / Apr / 6th-9th'
 				},
 				{
+				title: 'btc++ - a bitcoin dev conference',
+				link: 'https://www.btcplusplus.dev/',
+				location: 'Austin, TX / USA',
+				dates: '2022 / June / 7th-10th'
+				},
+				{
 					title: 'The Bitcoin Mining Conference',
 					link: 'https://braiins.com/bitcoin-mining-conference-2022',
 					location: 'Prague / CZ',

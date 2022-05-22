@@ -633,6 +633,13 @@ export default {
 					organizerLink: 'https://twitter.com/OnHodliday/status/1132220583134019584?s=20'
 				},
 				{
+					country: 'Portugal',
+					city: 'Lisbon',
+					link: 'https://www.meetup.com/lisbon-bitcoin-maximalists/',
+					organizer: '@BitcoinErrorLog',
+					organizerLink: 'https://twitter.com/BitcoinErrorLog/status/1521375961794727936'
+				},
+				{
 					country: 'Singapore',
 					city: 'Singapore',
 					link: 'https://www.meetup.com/Bitcoin-Maximalists-Singapore/',

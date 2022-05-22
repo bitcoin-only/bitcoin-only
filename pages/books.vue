@@ -248,6 +248,26 @@ export default {
 					]
 				},
 				{
+					title: 'Mastering Bitcoin',
+					synopsis: 'Technical guide to bitcoin.',
+					authors: [
+						{
+							name: 'Andreas M. Antonopoulos',
+							link: 'https://twitter.com/aantonop'
+						}
+					],
+					purchaseLinks: [
+						{
+							title: 'Amazon',
+							link: 'https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388'
+						},
+						{
+							title: 'Repository',
+							link: 'https://github.com/bitcoinbook/bitcoinbook'
+						}
+					]
+				},
+				{
 					title: 'Mastering the Lightning Network',
 					synopsis: 'Technical guide to lightning.',
 					authors: [

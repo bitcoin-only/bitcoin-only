@@ -1117,6 +1117,14 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Tampa',
+					region: 'Florida',
+					link: 'https://tampabitdevs.io//',
+					organizer: '@bennyhodl',
+					organizerLink: 'https://twitter.com/bennyhodl/status/1518941630358818817'
+				},
+				{
+					country: 'USA',
 					city: 'Broward County',
 					region: 'Florida',
 					link: 'https://www.meetup.com/meetup-group-zzcspgmf/',

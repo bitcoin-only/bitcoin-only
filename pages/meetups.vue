@@ -727,6 +727,13 @@ export default {
 				},
 				{
 					country: 'United Kingdom',
+					city: 'Berkshire',
+					link: 'https://t.me/BerkshireBitcoiners',
+					organizer: '@Bitcoinshire',
+					organizerLink: 'https://twitter.com/Bitcoinshire/status/1519925849465798656'
+				},
+				{
+					country: 'United Kingdom',
 					city: 'London',
 					link: 'https://www.meetup.com/BitFriendly/',
 					organizer: '@raw_avocado',

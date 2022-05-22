@@ -85,7 +85,7 @@ export default {
 					dates: '2022 / June / 14th-16th'
 				},
 				{
-					title: 'btc++ - a bitcoin dev conference',
+					title: 'btc++',
 					link: 'https://www.btcplusplus.dev/',
 					location: 'Austin, TX / USA',
 					dates: '2022 / June / 7th-10th'

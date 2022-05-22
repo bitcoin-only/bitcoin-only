@@ -85,6 +85,12 @@ export default {
 					dates: '2022 / June / 14th-16th'
 				},
 				{
+					title: 'btc++',
+					link: 'https://www.btcplusplus.dev/',
+					location: 'Austin, TX / USA',
+					dates: '2022 / June / 7th-10th'
+				},
+				{
 					title: 'Bit Block Boom!',
 					link: 'https://bitblockboom.com/',
 					location: 'Austin, TX / USA',

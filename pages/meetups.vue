@@ -715,8 +715,8 @@ export default {
 					region: 'Istanbul',
 					city: 'Yirmibir Istanbul',
 					link: 'https://t.me/YirmibirBitcoin',
-					organizer: 'Unknown',
-					organizerLink: 'https://einundzwanzig.space/meetups/'
+					organizer: '@_pretyflaco',
+					organizerLink: 'https://twitter.com/_pretyflaco/status/1520805884334690305'
 				},
 				{
 					country: 'United Arab Emirates',

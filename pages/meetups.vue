@@ -829,6 +829,14 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Grand Rapids',
+					region: 'Michigan',
+					link: 'https://t.me/GRBitcoiners',
+					organizer: '@grbtc',
+					organizerLink: 'https://twitter.com/grbtc/status/1513958273736757257'
+				},
+				{
+					country: 'USA',
 					city: 'Asheville',
 					region: 'North Carolina',
 					link: 'https://www.meetup.com/asheville-bitcoin-meetup-group/',

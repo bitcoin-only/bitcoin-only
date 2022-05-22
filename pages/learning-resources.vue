@@ -163,7 +163,7 @@ export default {
 					description: 'Monthly Bitcoin cultural zine'
 				},
 				{
-					title: 'Lightning Hood Round Up',
+					title: 'Lightning Hood (Inactive)',
 					link: 'https://medium.com/@lightninghood',
 					description: 'Weekly summary of Bitcoin and Lightning Network news'
 				},

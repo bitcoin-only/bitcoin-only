@@ -168,6 +168,11 @@ export default {
 					description: 'Weekly summary of Bitcoin and Lightning Network news'
 				},
 				{
+					title: 'Lightning Labs',
+					link: 'https://lightninglabs.substack.com/archive',
+					description: 'Lightning Network news'
+				},
+				{
 					title: 'Bitcoin Monthly',
 					link: 'https://bitcoiner.guide/monthly',
 					description: 'Monthly index of Bitcoin and Lightning Network news and developments'

@@ -264,6 +264,11 @@ export default {
 					description: 'Striking Bitcoin infographics'
 				},
 				{
+					title: 'Bitcoin Design Guide',
+					link: 'https://bitcoin.design/guide/',
+					description: 'A bitcoin application design guide'
+				},
+				{
 					title: 'Bitcoin Explained',
 					link: 'https://www.bitcoin-explained.com/',
 					description: 'Comprehensive intro with curated links'

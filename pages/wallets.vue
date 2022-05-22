@@ -414,7 +414,7 @@ export default {
 					title: 'Phoenix',
 					link: 'https://phoenix.acinq.co/',
 					description: 'Lightning-only Bitcoin wallet',
-					platform: 'Android'
+					platform: 'iOS & Android'
 				},
 				{
 					title: 'Ride The Lightning',

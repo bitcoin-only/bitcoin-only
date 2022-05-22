@@ -633,6 +633,13 @@ export default {
 					organizerLink: 'https://twitter.com/OnHodliday/status/1132220583134019584?s=20'
 				},
 				{
+					country: 'Portugal',
+					city: 'Lisbon',
+					link: 'https://www.meetup.com/lisbon-bitcoin-maximalists/',
+					organizer: '@BitcoinErrorLog',
+					organizerLink: 'https://twitter.com/BitcoinErrorLog/status/1521375961794727936'
+				},
+				{
 					country: 'Singapore',
 					city: 'Singapore',
 					link: 'https://www.meetup.com/Bitcoin-Maximalists-Singapore/',
@@ -715,8 +722,8 @@ export default {
 					region: 'Istanbul',
 					city: 'Yirmibir Istanbul',
 					link: 'https://t.me/YirmibirBitcoin',
-					organizer: 'Unknown',
-					organizerLink: 'https://einundzwanzig.space/meetups/'
+					organizer: '@_pretyflaco',
+					organizerLink: 'https://twitter.com/_pretyflaco/status/1520805884334690305'
 				},
 				{
 					country: 'United Arab Emirates',
@@ -724,6 +731,13 @@ export default {
 					link: 'https://www.meetup.com/Bitcoin-Dubai/',
 					organizer: '@FarooqAhmedX',
 					organizerLink: 'https://twitter.com/FarooqAhmedX/status/1339937329729957889'
+				},
+				{
+					country: 'United Kingdom',
+					city: 'Berkshire',
+					link: 'https://t.me/BerkshireBitcoiners',
+					organizer: '@Bitcoinshire',
+					organizerLink: 'https://twitter.com/Bitcoinshire/status/1519925849465798656'
 				},
 				{
 					country: 'United Kingdom',
@@ -826,6 +840,22 @@ export default {
 					link: 'https://detbtc.com',
 					organizer: '@detbtc',
 					organizerLink: 'https://twitter.com/detbtc'
+				},
+				{
+					country: 'USA',
+					city: 'Grand Rapids',
+					region: 'Michigan',
+					link: 'https://t.me/GRBitcoiners',
+					organizer: '@grbtc',
+					organizerLink: 'https://twitter.com/grbtc/status/1513958273736757257'
+				},
+				{
+					country: 'USA',
+					city: 'Ovid',
+					region: 'Michigan',
+					link: 'https://bitcoin101.io/events/',
+					organizer: '@hancock_ben',
+					organizerLink: 'https://twitter.com/hancock_ben/status/1513643467041292290'
 				},
 				{
 					country: 'USA',
@@ -1106,6 +1136,14 @@ export default {
 					link: 'https://oldcity-bitcoiners.info/introducing-oldcity-bitcoiners/',
 					organizer: '@OldCityBitcoin',
 					organizerLink: 'https://twitter.com/OldCityBitcoin/status/1374379639632629768'
+				},
+				{
+					country: 'USA',
+					city: 'Tampa',
+					region: 'Florida',
+					link: 'https://tampabitdevs.io//',
+					organizer: '@bennyhodl',
+					organizerLink: 'https://twitter.com/bennyhodl/status/1518941630358818817'
 				},
 				{
 					country: 'USA',

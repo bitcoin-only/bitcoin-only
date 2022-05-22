@@ -844,6 +844,14 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Ovid',
+					region: 'Michigan',
+					link: 'https://bitcoin101.io/events/',
+					organizer: '@hancock_ben',
+					organizerLink: 'https://twitter.com/hancock_ben/status/1513643467041292290'
+				},
+				{
+					country: 'USA',
 					city: 'Asheville',
 					region: 'North Carolina',
 					link: 'https://www.meetup.com/asheville-bitcoin-meetup-group/',

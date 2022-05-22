@@ -248,6 +248,34 @@ export default {
 					]
 				},
 				{
+					title: 'Mastering the Lightning Network',
+					synopsis: 'Technical guide to lightning.',
+					authors: [
+						{
+							name: 'Andreas M. Antonopoulos',
+							link: 'https://twitter.com/aantonop'
+						},
+						{
+							name: 'Olaoluwa Osuntokun',
+							link: 'https://twitter.com/roasbeef'
+						},
+						{
+							name: 'Rene Pickhardt',
+							link: 'https://twitter.com/renepickhardt'
+						}
+					],
+					purchaseLinks: [
+						{
+							title: 'Amazon',
+							link: 'https://www.amazon.com/Mastering-Lightning-Network-Blockchain-Protocol/dp/1492054860'
+						},
+						{
+							title: 'Repository',
+							link: 'https://github.com/lnbook/lnbook'
+						}
+					]
+				},
+				{
 					title: 'Q/A About Bitcoin',
 					synopsis: 'Common questions and answers',
 					authors: [

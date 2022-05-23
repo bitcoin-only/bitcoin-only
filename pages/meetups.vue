@@ -1133,7 +1133,7 @@ export default {
 					country: 'USA',
 					city: 'St. Augustine',
 					region: 'Florida',
-					link: 'https://oldcity-bitcoiners.info/introducing-oldcity-bitcoiners/',
+					link: 'https://www.oldcity-bitcoiners.info/about/',
 					organizer: '@OldCityBitcoin',
 					organizerLink: 'https://twitter.com/OldCityBitcoin/status/1374379639632629768'
 				},

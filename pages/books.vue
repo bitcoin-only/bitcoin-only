@@ -378,12 +378,8 @@ export default {
 					],
 					purchaseLinks: [
 						{
-							title: 'Yes24',
-							link: 'http://www.yes24.com/Product/Goods/66815979'
-						},
-						{
-							title: 'Kyobo',
-							link: 'http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791161340333'
+							title: 'Gmarket',
+							link: 'http://item.gmarket.co.kr/Item?goodscode=2113285951'
 						}
 					]
 				},
@@ -398,8 +394,8 @@ export default {
 					],
 					purchaseLinks: [
 						{
-							title: 'Yes24',
-							link: 'http://www.yes24.com/Product/Goods/81536965'
+							title: 'Gmarket',
+							link: 'http://item.gmarket.co.kr/Item?goodscode=1933274414'
 						}
 					]
 				},

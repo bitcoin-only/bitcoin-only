@@ -1,8 +1,10 @@
 <template>
 	<div id="home-page">
-		<h1 class="welcome">Welcome to Bitcoin Only, a collection of the highest quality Bitcoin resources.</h1>
-		<div class="subtitle">Click on any of the following categories to learn more.</div>
+		<h1 class="welcome">Benvenuti su Ventuno, una collezione delle migliori risorse su Bitcoin, in lingua italiana. 🇮🇹</h1>
+		<div class="subtitle">Impara di più approfondendo ogni categoria.</div>
 
+		<iframe src="https://www.youtube.com/embed/R-6hPkQV1pA?autoplay=1&mute=0"  onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:200px;width:100%;border:none;overflow:hidden;"></iframe>
+		
 		<div class="categories">
 
 			<div v-for="(navLink, index) in navigationLinks" :key="index" class="category">
@@ -27,7 +29,7 @@ export default {
 	name: 'HomePage',
 
 	head: {
-		title: 'Bitcoin Only',
+		title: 'Ventuno',
 		meta: [
 			{ hid: 'description', name: 'description', content: 'Bitcoin only resources including meetups, books, wallets, podcasts, conferences, and much more.' }
 		]
@@ -37,12 +39,12 @@ export default {
 		return {
 			navigationLinks: [
 				{
-					title: 'What is Bitcoin?',
+					title: 'Cos\'è Bitcoin?',
 					icon: 'what-is-bitcoin',
 					to: '/what-is-bitcoin'
 				},
 				{
-					title: 'Learning Resources',
+					title: 'Risorse didattiche',
 					icon: 'learning-resources',
 					to: '/learning-resources'
 				},
@@ -52,7 +54,7 @@ export default {
 					to: '/meetups'
 				},
 				{
-					title: 'Books',
+					title: 'Libri',
 					icon: 'books',
 					to: '/books'
 				},
@@ -72,17 +74,17 @@ export default {
 					to: '/podcasts'
 				},
 				{
-					title: 'Get Bitcoin',
+					title: 'Compra Bitcoin',
 					icon: 'get-bitcoin',
 					to: '/get-bitcoin'
 				},
 				{
-					title: 'Spend Bitcoin',
+					title: 'Spendi Bitcoin',
 					icon: 'spend-bitcoin',
 					to: '/spend-bitcoin'
 				},
 				{
-					title: 'Store Tools',
+					title: 'Ricevi Bitcoin',
 					icon: 'store-tools',
 					to: '/store-tools'
 				},
@@ -92,12 +94,12 @@ export default {
 					to: '/explorers-dashboards'
 				},
 				{
-					title: 'Dev Tools',
+					title: 'Sviluppo',
 					icon: 'dev-tools',
 					to: '/dev-tools'
 				},
 				{
-					title: 'Conferences',
+					title: 'Conferenze',
 					icon: 'conferences',
 					to: '/conferences'
 				},
@@ -112,7 +114,7 @@ export default {
 					to: '/privacy'
 				},
 				{
-					title: 'Jobs',
+					title: 'Lavora con Bitcoin',
 					icon: 'jobs',
 					to: '/jobs'
 				},
@@ -122,7 +124,7 @@ export default {
 					to: '/peers'
 				},
 				{
-					title: 'Promote',
+					title: 'Promuovi',
 					icon: 'promote',
 					to: '/promote'
 				},
@@ -132,7 +134,7 @@ export default {
 					to: '/about'
 				},
 				{
-					title: 'Contact',
+					title: 'Contatti',
 					icon: 'contact',
 					to: '/contact'
 				},

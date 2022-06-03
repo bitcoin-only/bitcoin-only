@@ -11,6 +11,16 @@ h1 {
 	margin: 0 0 40px 0;
 	color: #fff;
 }
+.video-container {
+	position: relative;
+	padding-bottom: 56.25%;
+	padding-top: 30px;
+	height: 0;
+	overflow: hidden;
+	background: #000;
+	margin-bottom: 30px;
+	
+}
 .categories {
 	display: flex;
 	flex-wrap: wrap;

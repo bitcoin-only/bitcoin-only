@@ -15,8 +15,8 @@
 
 		</div>
 
-		<p>It is very important that you learn how to backup your mnemonic seed & that if you use a passphrase you back that up too. Read <a href="https://bitcoin-intro.com/en/backup" target="_blank">this document</a> to learn more about backing up your wallet and check out the <nuxt-link to="/privacy">privacy page</nuxt-link>.</p>
-		<p> See <a href="https://veriphi.io/en/blog/software-wallet-analysis" target="_blank">this report</a> for a comparison of the features of many of the wallets listed below.</p>
+		<p>It is very important that you learn how to back up your mnemonic seed and that if you use a passphrase, you back that up too. Read this document to learn more about backing up your wallet and check out the privacy page.</p>
+		<p>See <a href="https://veriphi.io/en/blog/software-wallet-analysis" target="_blank">this report</a> for a comparison of the features of many of the wallets listed below.</p>
 
 		<h3>Recommended Wallets</h3>
 
@@ -174,13 +174,13 @@
 		</div>
 
 		<div class="footnotes">
-			<p><sup>[0]</sup>Google Drive backups allow those companies to access your email address, name, & Google profile picture. It's strongly recommended to use a separate Google account to use these apps.</p>
-			<p><sup>[1]</sup>Blue Wallet's Lightning is custodial by default but users can opt to connect their app to their own Lightning node using LNDhub. The on-chain functionality is non-custodial.</p>
-			<p><sup>[2]</sup>Bottle.li is fully custodial meaning you do not have your private keys, thus you are not guaranteed full control of your funds.</p>
-			<p><sup>[3]</sup>Opennode is fully custodial meaning you do not have your private keys, thus you are not guaranteed full control of your funds. You can (and should) set reoccurring withdrawals to send any bitcoin you receive to your own wallet.</p>
-			<p><sup>[4]</sup>Tippin.me is fully custodial meaning you do not have your private keys, thus you are not guaranteed full control of your funds.</p>
-			<p><sup>[5]</sup>Wallet of Satoshi is fully custodial meaning you do not have your private keys, thus you are not guaranteed full control of your funds.</p>
-			<p><sup>[6]</sup>As the wallet is closed source we recommend using 3/5 and only with hardware devices that you source independently.</p>
+			<p><sup>[0]</sup>Google Drive backups allow companies to access your email address, name, and Google profile picture. It's strongly recommended to use a separate Google account to use these apps.</p>
+			<p><sup>[1]</sup>Blue Wallet's Lightning is custodial by default, but users can opt to connect their app to their own Lightning node using LNDhub. The on-chain functionality is non-custodial.</p>
+			<p><sup>[2]</sup>Bottle.li is fully custodial, meaning you do not have your private keys, thus you are not guaranteed full control of your funds.</p>
+			<p><sup>[3]</sup>Opennode is fully custodial, meaning you do not have your private keys, thus you are not guaranteed full control of your funds. You can (and should) set reoccurring withdrawals to send any bitcoin you receive to your own wallet.</p>
+			<p><sup>[4]</sup>Tippin.me is fully custodial, meaning you do not have your private keys, thus you are not guaranteed full control of your funds.</p>
+			<p><sup>[5]</sup>Wallet of Satoshi is fully custodial, meaning you do not have your private keys, thus you are not guaranteed full control of your funds.</p>
+			<p><sup>[6]</sup>Since the wallet is closed source, we recommend using 3/5 and only with hardware devices that you source independently.</p>
 			<p><sup>[7]</sup>These wallets integrate a KYC exchange to buy bitcoin. We recommend against using KYC exchanges due to the <a href="https://bitcoinqna.github.io/noKYConly1/" target="_blank">risks</a>.</p>
 		</div>
 
@@ -380,6 +380,12 @@ export default {
 			],
 
 			lightningWallets: [
+				{
+					title: 'Blixt Wallet',
+					link: 'https://blixtwallet.github.io/',
+					description: 'Non-custodial Bitcoin Lightning Wallet',
+					platform: 'iOS & Android (Beta)'
+				},
 				{
 					title: 'Breez',
 					link: 'https://breez.technology/',

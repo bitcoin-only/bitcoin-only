@@ -1,9 +1,9 @@
 <template>
 	<div id="jobs">
 
-		<h1 class="page-title">Jobs</h1>
+		<h1 class="page-title">Lavoro</h1>
 		
-		<p>Get a job in bitcoin - visit <a href="https://bitcoinerjobs.com/" target="_blank">bitcoinerjobs.com</a></p>
+		<p>Per cercare lavoro con Bitcoin, visita <a href="https://bitcoinerjobs.com/" target="_blank">bitcoinerjobs.com</a></p>
 
 	</div>
 </template>
@@ -18,7 +18,7 @@ export default {
 	name: 'JobsPage',
 
 	head: {
-		title: 'Jobs',
+		title: 'Lavoro',
 		meta: [
 			{ hid: 'description', name: 'description', content: 'Get a job in bitcoin' }
 		]

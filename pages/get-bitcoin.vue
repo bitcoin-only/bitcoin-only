@@ -1,7 +1,7 @@
 <template>
 	<div id="get-bitcoin-page">
 
-		<h1 class="page-title">Get Bitcoin</h1>
+		<h1 class="page-title">Ottieni Bitcoin</h1>
 
 		<p>There are many ways you can get Bitcoin. You can buy a fraction of a Bitcoin, so don't let a high price per bitcoin put you off. Many people are <a href="https://twitter.com/search?q=%23stackingsats" target="_blank">#stackingsats</a> (regularly spending a fixed $ amount on buying bitcoin, also known as dollar cost averaging), you can see that this method has historically been a good way of accumulating Bitcoin by looking at <a href="https://hodl.camp/" target="_blank">hodl.camp</a>.</p>
 
@@ -137,7 +137,7 @@ export default {
 	name: 'GetBitcoinPage',
 
 	head: {
-		title: 'Get Bitcoin - Bitcoin Only',
+		title: 'Ottieni Bitcoin - Bitcoin Only',
 		meta: [
 			{ hid: 'description', name: 'description', content: 'List of methods of acquiring Bitcoin.' }
 		]

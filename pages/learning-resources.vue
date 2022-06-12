@@ -1,6 +1,6 @@
 <template>
 	<div id="learning-resources-page">
-		<h1 class="page-title">Learning Resources</h1>
+		<h1 class="page-title">Risorse Didattiche</h1>
 
 		<div class="getting-started-section">
 
@@ -129,7 +129,7 @@ export default {
 	name: 'LearningResourcesPage',
 
 	head: {
-		title: 'Learning Resources - Bitcoin Only',
+		title: 'Risorse Didattiche - Bitcoin Only',
 		meta: [
 			{ hid: 'description', name: 'description', content: 'A collection of educational resources to learn more about Bitcoin.' }
 		]

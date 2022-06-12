@@ -3,7 +3,7 @@
 
 		<div class="logo">
 			<nuxt-link to="/">
-				<img src="/ventuno-alpha-v2.png" alt="Bitcoin Only">
+				<img src="/ventuno-alpha.png" alt="Bitcoin Only">
 			</nuxt-link>
 		</div>
 

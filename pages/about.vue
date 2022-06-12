@@ -8,7 +8,8 @@
 			<br> 
 			È costruito e gestito da volontari. 
 			<br>
-			Nato come fork di www.bitcoin-only.com 
+			Nato come fork di <a href="https://bitcoin-only.com/" target="_blank">www.bitcoin-only.com</a>
+			
  		</p>
 		<h3> Open Source </h3>	
 			Il termine open source si riferisce a qualcosa che le persone possono modificare e condividere perché il suo progetto è pubblicamente accessibile.

@@ -106,7 +106,7 @@ export default {
 					title: 'Pacific Bitcoin Conference 2022',
 					link: 'https://www.swanbitcoin.com/pacbitcoin/',
 					location: 'Los Angeles, CA / USA',
-					dates: '2022 / Sept / 29th-30th'
+					dates: '2022 / Nov / 10-11th'
 				},
 			],
 			lookingBack: [

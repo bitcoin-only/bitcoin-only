@@ -170,7 +170,6 @@ export default {
 					city: 'Verona',
 					group: 'https://www.meetup.com/it-IT/Bitcoin-Verona/',
 				},
-				{
 					region: 'Toscana',
 					city: 'Pisa',
 					group: 'https://www.meetup.com/Pisa-Bitcoin-Meetup',

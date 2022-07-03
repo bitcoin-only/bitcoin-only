@@ -3,7 +3,7 @@
 
 		<div class="logo">
 			<nuxt-link to="/">
-				<img src="/bitcoin-only-logo.png" alt="Bitcoin Only">
+				<img src="/ventuno-alpha.png" alt="Bitcoin Only">
 			</nuxt-link>
 		</div>
 
@@ -34,12 +34,12 @@ export default {
 					to: '/'
 				},
 				{
-					title: 'What is Bitcoin?',
+					title: 'Cos\'è Bitcoin',
 					icon: '',
 					to: '/what-is-bitcoin'
 				},
 				{
-					title: 'Learning Resources',
+					title: 'Risorse Didattiche',
 					icon: '',
 					to: '/learning-resources'
 				},
@@ -49,7 +49,7 @@ export default {
 					to: '/meetups'
 				},
 				{
-					title: 'Books',
+					title: 'Libri',
 					icon: '',
 					to: '/books'
 				},
@@ -69,17 +69,17 @@ export default {
 					to: '/podcasts'
 				},
 				{
-					title: 'Get Bitcoin',
+					title: 'Ottieni Bitcoin',
 					icon: '',
 					to: '/get-bitcoin'
 				},
 				{
-					title: 'Spend Bitcoin',
+					title: 'Spendi Bitcoin',
 					icon: '',
 					to: '/spend-bitcoin'
 				},
 				{
-					title: 'Store Tools',
+					title: 'Fatti pagare in Bitcoin',
 					icon: '',
 					to: '/store-tools'
 				},
@@ -89,12 +89,12 @@ export default {
 					to: '/explorers-dashboards'
 				},
 				{
-					title: 'Dev Tools',
+					title: 'Sviluppo',
 					icon: '',
 					to: '/dev-tools'
 				},
 				{
-					title: 'Conferences',
+					title: 'Conferenze',
 					icon: '',
 					to: '/conferences'
 				},
@@ -109,7 +109,7 @@ export default {
 					to: '/privacy'
 				},
 				{
-					title: 'Jobs',
+					title: 'Lavora con Bitcoin',
 					icon: 'jobs',
 					to: '/jobs'
 				},
@@ -119,7 +119,7 @@ export default {
 					to: '/peers'
 				},
 				{
-					title: 'Promote',
+					title: 'Promuovi',
 					icon: '',
 					to: '/promote'
 				},
@@ -129,7 +129,7 @@ export default {
 					to: '/about'
 				},
 				{
-					title: 'Contact',
+					title: 'Contatti',
 					icon: '',
 					to: '/contact'
 				},
@@ -141,6 +141,6 @@ export default {
 			]
 		}
 	}
-
 }
+
 </script>

@@ -28,7 +28,7 @@
 			</div>
 		</div>
 
-		<h3>Learning Resources</h3>
+		<h3>Risorse Didattiche</h3>
 
 		<div class="tbl-scroller">
 			<div class="tbl-wrapper">

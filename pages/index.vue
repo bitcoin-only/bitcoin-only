@@ -3,8 +3,6 @@
 		<h1 class="welcome">Benvenuti su Ventuno, una collezione delle migliori risorse su Bitcoin, in lingua italiana. 🇮🇹</h1>
 		<div class="subtitle">Impara di più approfondendo ogni categoria.</div>
 
-		<iframe src="https://www.youtube.com/embed/R-6hPkQV1pA?autoplay=1&mute=0"  onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:200px;width:100%;border:none;overflow:hidden;"></iframe>
-		
 		<div class="categories">
 
 			<div v-for="(navLink, index) in navigationLinks" :key="index" class="category">
@@ -44,7 +42,7 @@ export default {
 					to: '/what-is-bitcoin'
 				},
 				{
-					title: 'Risorse didattiche',
+					title: 'Risorse Didattiche',
 					icon: 'learning-resources',
 					to: '/learning-resources'
 				},
@@ -74,7 +72,7 @@ export default {
 					to: '/podcasts'
 				},
 				{
-					title: 'Compra Bitcoin',
+					title: 'Ottieni Bitcoin',
 					icon: 'get-bitcoin',
 					to: '/get-bitcoin'
 				},
@@ -84,7 +82,7 @@ export default {
 					to: '/spend-bitcoin'
 				},
 				{
-					title: 'Ricevi Bitcoin',
+					title: 'Fatti pagare in Bitcoin',
 					icon: 'store-tools',
 					to: '/store-tools'
 				},

@@ -1,7 +1,7 @@
 <template>
 	<div id="spend-bitcoin-page">
 
-		<h1 class="page-title">Spend Bitcoin</h1>
+		<h1 class="page-title">Spendi Bitcoin</h1>
 
 		<div class="getting-started-section">
 
@@ -116,7 +116,7 @@ export default {
 	name: 'SpendBitcoinPage',
 
 	head: {
-		title: 'Spend Bitcoin - Bitcoin Only',
+		title: 'Spendi Bitcoin - Bitcoin Only',
 		meta: [
 			{ hid: 'description', name: 'description', content: 'List of places where you can spend your Bitcoin.' }
 		]

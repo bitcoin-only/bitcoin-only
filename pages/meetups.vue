@@ -56,7 +56,7 @@
 			</div>
 		</div>
 
-	<h3>Meetup</h3>
+		<h3>Meetup</h3>
 
 		<div class="tbl-scroller">
 			<div class="tbl-wrapper">
@@ -77,6 +77,7 @@
 
 	</div>
 </template>
+
 
 <style lang="scss" scoped>
 @import 'assets/css/pages.scss';
@@ -128,17 +129,15 @@ export default {
 					group: 'https://t.me/satoshispritztorino',
 				},
 				{
-					region: 'Lombardia',
-					city: 'Milano',
-					group: 'https://t.me/satoshispritzmilano',
+					region: 'Lazio',
+					city: 'Roma',
+					group: 'https://t.me/satoshispritzroma',
 				},
 				{
 					region: 'Veneto',
 					city: '',
 					group: 'https://t.me/satoshispritzveneto',
-				},
-				
-				
+				},			
 			],
 		meetups: [
 				{
@@ -171,19 +170,13 @@ export default {
 					city: 'Verona',
 					group: 'https://www.meetup.com/it-IT/Bitcoin-Verona/',
 				},
-				
+				{
+					region: 'Toscana',
+					city: 'Pisa',
+					group: 'https://www.meetup.com/Pisa-Bitcoin-Meetup',
+				},	
 			]
-
-
-	    // - Pisa 
-        //     - https://www.meetup.com/Pisa-Bitcoin-Meetup/
-        // - Roma
-        //     - Satoshi Spritz romano: https://t.me/satoshispritzroma
-        
-        
-
 		}
 	}
-
 }
 </script>

@@ -1,7 +1,7 @@
 <template>
 	<div id="what-is-bitcoin-page">
 
-		<h1 class="page-title">What Is Bitcoin?</h1>
+		<h1 class="page-title">Cos'è Bitcoin</h1>
 		<div class="page-subtitle">Written by <a href="https://twitter.com/in3rsha" target="_blank">Greg Walker</a></div>
 
 		<p>Bitcoin is an electronic payment system, but really it's just a computer program.</p>
@@ -70,7 +70,7 @@ export default {
 	name: 'WhatIsBitcoinPage',
 
 	head: {
-		title: 'What is Bitcoin? - Bitcoin Only',
+		title: 'Cos\'è Bitcoin - Bitcoin Only',
 		meta: [
 			{ hid: 'description', name: 'description', content: 'An explanation of what Bitcoin is.' }
 		]

@@ -779,11 +779,27 @@ export default {
 				},
 				{
 					country: 'USA',
-					city: 'Anaheim',
-					region: 'California',
+					city: 'Bakersfield',
+					region: 'Kern County, California',
 					link: 'https://www.meetup.com/oc-btc/',
-					organizer: '@ocbtcn',
-					organizerLink: 'https://twitter.com/ocbtcn'
+					organizer: '@ocbtcn, @RAG3_AF, and @JesseMize',
+					organizerLink: 'https://twitter.com/ocbtcn, https://twitter.com/RAG3_AF, and https://twitter.com/JesseMize'
+				},
+				{
+					country: 'USA',
+					city: 'Costa Mesa',
+					region: 'Orange County, California',
+					link: 'https://www.meetup.com/oc-btc/',
+					organizer: '@ocbtcn, @Heady_Wook, @MBronens, and @BitcoinerSocial',
+					organizerLink: 'https://twitter.com/ocbtcn, https://twitter.com/Heady_Wook, https://twitter.com/MBronens, and https://twitter.com/BitcoinerSocial'
+				},
+				{
+					country: 'USA',
+					city: 'Murrieta',
+					region: 'Inland Empire, California',
+					link: 'https://www.meetup.com/oc-btc/',
+					organizer: '@ocbtcn, @BrainHarrington, and @BitcoinHomes',
+					organizerLink: 'https://twitter.com/ocbtcn, https://twitter.com/BrainHarrington, and https://twitter.com/BitcoinHomes'
 				},
 				{
 					country: 'USA',

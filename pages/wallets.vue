@@ -182,6 +182,7 @@
 			<p><sup>[5]</sup>Wallet of Satoshi is fully custodial, meaning you do not have your private keys, thus you are not guaranteed full control of your funds.</p>
 			<p><sup>[6]</sup>Since the wallet is closed source, we recommend using 3/5 and only with hardware devices that you source independently.</p>
 			<p><sup>[7]</sup>These wallets integrate a KYC exchange to buy bitcoin. We recommend against using KYC exchanges due to the <a href="https://bitcoinqna.github.io/noKYConly1/" target="_blank">risks</a>.</p>
+			<p><sup>[8]</sup>Alby's users can opt to connect their browser extension to their Lightning node using LND, LNDhub, LNbits or Eclair. Also they can use Alby's custodial Lightning.</p>
 		</div>
 
 		<h3>Depreciated Wallets</h3>
@@ -380,6 +381,12 @@ export default {
 			],
 
 			lightningWallets: [
+				{
+					title: 'Alby',
+					link: 'https://getalby.com/',
+					description: 'The Bitcoin Lightning App for your Browser<sup>[8]</sup>',
+					platform: 'Web'
+				},
 				{
 					title: 'Blixt Wallet',
 					link: 'https://blixtwallet.github.io/',

@@ -18,7 +18,7 @@
 
 		<img src="/content-suggestion.png" alt="Suggest new content on Bitcoin-only">
 
-		<p>Replace the words in CAPITAL LETTERS and click "Sumbit New Issue"</p>
+		<p>Replace the words in CAPITAL LETTERS and click "Submit New Issue"</p>
 
 		<img src="/content-suggestion-example.png" alt="Suggest new content example on Bitcoin-only">
 

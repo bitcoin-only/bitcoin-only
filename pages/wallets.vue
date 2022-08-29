@@ -384,7 +384,7 @@ export default {
 				{
 					title: 'Alby',
 					link: 'https://getalby.com/',
-					description: 'The Bitcoin Lightning App for your Browser<sup>[8]</sup>',
+					description: 'Bitcoin Lightning Payments and Identity Browser Extension<sup>[8]</sup>',
 					platform: 'Web'
 				},
 				{

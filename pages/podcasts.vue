@@ -301,6 +301,11 @@ export default {
 					description: 'Interviews with Bitcoin engineers'
 				},
 				{
+					title: 'The Hash Cast (THC)',
+					link: 'https://econoalchemist.github.io/hashcast/',
+					description: 'A mining-specific bi-weekly podcast hosted by Econoalchemist'
+				},
+				{
 					title: 'The Total Connector',
 					link: 'https://anchor.fm/keyvandavani/',
 					description: 'Interviews with Bitcoiners'

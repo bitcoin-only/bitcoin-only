@@ -783,15 +783,15 @@ export default {
 					region: 'Kern County, California',
 					link: 'https://www.meetup.com/oc-btc/',
 					organizer: '@ocbtcn, @RAG3_AF, and @JesseMize',
-					organizerLink: 'https://twitter.com/ocbtcn, https://twitter.com/RAG3_AF, and https://twitter.com/JesseMize'
+					organizerLink: 'https://twitter.com/RAG3_AF', 'https://twitter.com/JesseMize', 'https://twitter.com/oc_btc_network', 'https://twitter.com/ocbtcn',
 				},
 				{
 					country: 'USA',
 					city: 'Costa Mesa',
 					region: 'Orange County, California',
 					link: 'https://www.meetup.com/oc-btc/',
-					organizer: '@ocbtcn, @Heady_Wook, @MBronens, and @BitcoinerSocial',
-					organizerLink: 'https://twitter.com/ocbtcn, https://twitter.com/Heady_Wook, https://twitter.com/MBronens, and https://twitter.com/BitcoinerSocial'
+					organizer: '@MBronens, @BitcoinerSocial, @Heady_Wook, @oc_btc_network, and @OCBTCN',
+					organizerLink: 'https://twitter.com/BitcoinerSocial', 'https://twitter.com/MBronens', 'https://twitter.com/Heady_Wook', 'https://twitter.com/oc_btc_network', 'https://twitter.com/ocbtcn',
 				},
 				{
 					country: 'USA',
@@ -799,7 +799,7 @@ export default {
 					region: 'Inland Empire, California',
 					link: 'https://www.meetup.com/oc-btc/',
 					organizer: '@ocbtcn, @BrainHarrington, and @BitcoinHomes',
-					organizerLink: 'https://twitter.com/ocbtcn, https://twitter.com/BrainHarrington, and https://twitter.com/BitcoinHomes'
+					organizerLink: 'https://twitter.com/BrainHarrington', 'https://twitter.com/BitcoinHomes', 'https://twitter.com/oc_btc_network', 'https://twitter.com/ocbtcn',
 				},
 				{
 					country: 'USA',

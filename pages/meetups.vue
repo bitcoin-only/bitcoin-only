@@ -902,7 +902,7 @@ export default {
 					city: 'Cincinnati',
 					region: 'Ohio',
 					link: 'https://t.me/joinchat/Yt-J5-c7QRJiOGEx',
-					organizer: '@bitcoinincincy',
+					organizer: '@cinti_btc',
 					organizerLink: 'https://twitter.com/bitcoinincincy'
 				},
 				{

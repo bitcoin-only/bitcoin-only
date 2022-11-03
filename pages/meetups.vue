@@ -819,6 +819,14 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Honolulu',
+					region: 'Hawaii',
+					link: 'https://www.honolulubitdevs.com/',
+					organizer: '@HonoluluBitcoin',
+					organizerLink: 'https://twitter.com/HonoluluBitcoin'
+				},
+				{
+					country: 'USA',
 					city: 'Boise',
 					region: 'Idaho',
 					link: 'https://www.meetup.com/boise-bitcoiners/',

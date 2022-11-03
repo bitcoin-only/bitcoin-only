@@ -803,6 +803,22 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Atlanta',
+					region: 'Georgia',
+					link: 'https://atlantabitdevs.org/',
+					organizer: '@atlantabitdevs',
+					organizerLink: 'https://twitter.com/atlantabitdevs'
+				},
+				{
+					country: 'USA',
+					city: 'Atlanta',
+					region: 'Georgia',
+					link: 'https://www.meetup.com/atlanta-bitplebs/',
+					organizer: '@atlantabitplebs',
+					organizerLink: 'https://twitter.com/atlantabitplebs'
+				},
+				{
+					country: 'USA',
 					city: 'Boise',
 					region: 'Idaho',
 					link: 'https://www.meetup.com/boise-bitcoiners/',

@@ -79,16 +79,16 @@ export default {
 
 			upcomingConferences: [
 				{
-					title: 'Bitcoin 2022',
-					link: 'https://b.tc/conference',
-					location: 'Miami, FL / USA',
-					dates: '2022 / Apr / 6th-9th'
-				},
-				{
 					title: 'The Bitcoin Mining Conference',
 					link: 'https://braiins.com/bitcoin-mining-conference-2022',
 					location: 'Prague / CZ',
 					dates: '2022 / June / 14th-16th'
+				},
+				{
+					title: 'btc++',
+					link: 'https://www.btcplusplus.dev/',
+					location: 'Austin, TX / USA',
+					dates: '2022 / June / 7th-10th'
 				},
 				{
 					title: 'Bit Block Boom!',
@@ -124,6 +124,11 @@ export default {
 					title: 'Bit Block Boom!',
 					link: 'https://bitblockboom.com/',
 					pastContent: '<a href="https://www.youtube.com/watch?v=ch4IFBkNxsM" target="_blank">2021</a> | 2020: <a href="https://www.youtube.com/watch?v=Robc43rQoVQ" target="_blank">1</a> | <a href="https://www.youtube.com/watch?v=HLALE9X2JkA" target="_blank">2</a> | <a href="https://www.youtube.com/watch?v=bLKlsYYnoXM" target="_blank">3</a>'
+				},
+				{
+					title: 'Bitcoin 2022',
+					link: 'https://b.tc/conference',
+					pastContent: '<a href="https://www.youtube.com/playlist?list=PLe0djdakvnFZ2C7DMjQfiuqCtbxk0ZTsz/" target="_blank">2022</a>'
 				},
 				{
 					title: 'Bitcoin Only India',

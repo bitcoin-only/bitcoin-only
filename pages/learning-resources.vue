@@ -163,9 +163,14 @@ export default {
 					description: 'Monthly Bitcoin cultural zine'
 				},
 				{
-					title: 'Lightning Hood Round Up',
+					title: 'Lightning Hood (Inactive)',
 					link: 'https://medium.com/@lightninghood',
 					description: 'Weekly summary of Bitcoin and Lightning Network news'
+				},
+				{
+					title: 'Lightning Labs',
+					link: 'https://lightninglabs.substack.com/archive',
+					description: 'Lightning Network news'
 				},
 				{
 					title: 'Bitcoin Monthly',
@@ -257,6 +262,11 @@ export default {
 					title: 'Bitcoin Designed',
 					link: 'https://www.bitcoindesigned.com/',
 					description: 'Striking Bitcoin infographics'
+				},
+				{
+					title: 'Bitcoin Design Guide',
+					link: 'https://bitcoin.design/guide/',
+					description: 'A bitcoin application design guide'
 				},
 				{
 					title: 'Bitcoin Explained',

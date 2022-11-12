@@ -154,6 +154,12 @@ export default {
 					location: 'Global'
 				},
 				{
+					title: 'Peach Bitcoin',
+					link: 'https://peachbitcoin.com/',
+					description: 'P2P Buy & Sell (Closed Beta)',
+					location: 'Global'
+				},
+				{
 					title: 'SBB Railway Station',
 					link: 'https://www.sbb.ch/en/station-services/at-the-station/services-from-the-ticket-machine/bitcoin.html',
 					description: 'Buy',

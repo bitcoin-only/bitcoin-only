@@ -28,7 +28,7 @@
 
 		<h3>Buy (other)</h3>
 
-		<p class="explainer">If you want to use KYC on-ramps (despite the <a href="https://bitcoinqna.github.io/noKYConly1/" target="_blank">risks</a>) there are the following Bitcoin-only options.</p>
+		<p class="explainer">If you want to use KYC on-ramps (despite the <a href="https://bitcoinqna.github.io/noKYConly1/" target="_blank">risks</a>) there are the following Bitcoin-only options which enforce taking self custody.</p>
 
 		<div class="tbl-scroller">
 			<div class="tbl-wrapper">
@@ -169,20 +169,6 @@ export default {
 
 			buyOther: [
 				{
-					title: 'Amber',
-					link: 'https://amber.app/',
-					description: 'Buy & Sell',
-					location: 'Australia & USA',
-					autoDca: 'Yes'
-				},
-				{
-					title: 'Bitaroo',
-					link: 'https://trade.bitaroo.com.au/',
-					description: 'Buy & Sell',
-					location: 'Australia',
-					autoDca: 'Yes'
-				},
-				{
 					title: 'Bitcoin Reserve',
 					link: 'https://bitcoinreserve.com/',
 					description: 'Buy',
@@ -218,45 +204,10 @@ export default {
 					autoDca: 'Yes'
 				},
 				{
-					title: 'Cash App',
-					link: 'https://cash.app/',
-					description: 'Buy & Sell',
-					location: 'USA',
-					autoDca: 'Yes'
-				},
-				{
-					title: 'Coinfloor',
-					link: 'https://coinfloor.co.uk/',
-					description: 'Buy & Sell',
-					location: 'UK',
-					autoDca: 'Yes'
-				},
-				{
-					title: 'Flitz',
-					link: 'https://flitz.be/',
-					description: 'Buy',
-					location: 'EU',
-					autoDca: 'Yes'
-				},
-				{
 					title: 'FastBitcoins',
 					link: 'https://fastbitcoins.com/',
 					description: 'Buy & Sell',
 					location: 'Canada & UK',
-					autoDca: 'Yes'
-				},
-				{
-					title: 'GiveBitcoin',
-					link: 'https://givebitcoin.io/',
-					description: 'Buy',
-					location: 'USA',
-					autoDca: 'No'
-				},
-				{
-					title: 'HardBlock',
-					link: 'https://www.hardblock.com.au/',
-					description: 'Buy & Sell',
-					location: 'Australia',
 					autoDca: 'Yes'
 				},
 				{
@@ -268,37 +219,9 @@ export default {
 				},
 				{
 					title: 'Relai',
-					link: 'https://relai.ch/',
+					link: 'https://relai.app/',
 					description: 'Buy & Sell',
 					location: 'EU',
-					autoDca: 'Yes'
-				},
-				{
-					title: 'River Financial',
-					link: 'https://river.com/',
-					description: 'Buy & Sell',
-					location: 'USA',
-					autoDca: 'Yes'
-				},
-				{
-					title: 'Stackinsat',
-					link: 'https://www.stackinsat.com/',
-					description: 'Buy',
-					location: 'EU',
-					autoDca: 'Yes'
-				},
-				{
-					title: 'Strike',
-					link: 'https://beta.strike.me/',
-					description: 'Buy & Sell',
-					location: 'USA',
-					autoDca: 'No'
-				},
-				{
-					title: 'Swan',
-					link: 'https://www.swanbitcoin.com/',
-					description: 'Buy',
-					location: 'USA',
 					autoDca: 'Yes'
 				},
 				{
@@ -306,13 +229,6 @@ export default {
 					link: 'https://unchained.com/buy-bitcoin/',
 					description: 'Buy',
 					location: 'USA',
-					autoDca: 'No'
-				},
-				{
-					title: 'VBTC',
-					link: 'https://vbtc.exchange/',
-					description: 'Buy & Sell',
-					location: 'Vietnam',
 					autoDca: 'No'
 				}
 			],

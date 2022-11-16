@@ -215,6 +215,11 @@ export default {
 					description: 'Bitcoin mnemonic seed backup'
 				},
 				{
+					title: 'Laser Eyes Cards',
+					link: 'https://lasereyes.cards/',
+					description: 'Contactless payment card with bitcoin over lightning (aka bolt card) with laser eyes'
+				},
+				{
 					title: 'Opendime',
 					link: 'https://opendime.com/',
 					description: 'Bitcoin bearer bond'

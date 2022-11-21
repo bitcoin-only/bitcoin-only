@@ -1099,6 +1099,14 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Lancaster',
+					region: 'Pennsylvania',
+					link: 'https://www.meetup.com/lancaster-bitcoin-meetup/',
+					organizer: '@LanCoBitcoin',
+					organizerLink: 'http://lancobitco.in/'
+				},
+				{
+					country: 'USA',
 					city: 'Philadelphia',
 					region: 'Pennsylvania',
 					link: 'https://www.meetup.com/philadelphia-bitcoin-club/events/',

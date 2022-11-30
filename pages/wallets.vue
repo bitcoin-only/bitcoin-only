@@ -436,12 +436,6 @@ export default {
 					platform: 'Web'
 				},
 				{
-					title: 'Sats App',
-					link: 'https://satsapp.com/',
-					description: 'Mobile non-custodial wallet connected to Casa node (Paid Features)',
-					platform: 'iOS & Android (Beta)'
-				},
-				{
 					title: 'Simple Bitcoin Wallet',
 					link: 'https://sbw.app/',
 					description: 'Bitcoin wallet with fully functional built-in Lightning node',
@@ -468,12 +462,6 @@ export default {
 			],
 
 			closedSourceWallets: [
-				{
-					title: 'Casa Keymaster',
-					link: 'https://keys.casa/keymaster/',
-					description: 'Multi-sig Bitcoin<sup>[0]</sup>',
-					platform: 'iOS, Android'
-				},
 				{
 					title: 'Nunchuk',
 					link: 'https://nunchuk.io/',
@@ -530,17 +518,6 @@ export default {
 						{
 							name: 'Michael Flaxman',
 							link: 'https://twitter.com/mflaxman/'
-						}
-					]
-				},
-				{
-					title: 'Casa Wealth Security Protocol',
-					link: 'https://github.com/Casa/wealth-security-protocol',
-					description: 'Casa approach to designing their service <sup>[6]</sup>',
-					devs: [
-						{
-							name: 'Casa Team',
-							link: 'https://twitter.com/CasaHODL'
 						}
 					]
 				},

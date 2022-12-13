@@ -456,7 +456,7 @@ export default {
 				{
 					title: 'Zeus',
 					link: 'https://zeusln.app/',
-					description: 'Mobile app for LND users',
+					description: 'Mobile interface for LND, Core Lightning, and Eclair',
 					platform: 'iOS, Android'
 				}
 			],

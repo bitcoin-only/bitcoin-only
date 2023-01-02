@@ -215,6 +215,11 @@ export default {
 					description: 'Bitcoin mnemonic seed backup'
 				},
 				{
+					title: 'Laser Eyes Cards',
+					link: 'https://lasereyes.cards/',
+					description: 'Illuminated NFC lightning (bolt) cards'
+				},
+				{
 					title: 'Opendime',
 					link: 'https://opendime.com/',
 					description: 'Bitcoin bearer bond'

@@ -217,7 +217,7 @@ export default {
 				{
 					title: 'Laser Eyes Cards',
 					link: 'https://lasereyes.cards/',
-					description: 'Contactless payment card with bitcoin over lightning (aka bolt card) with laser eyes'
+					description: 'Illuminated NFC lightning (bolt) cards'
 				},
 				{
 					title: 'Opendime',

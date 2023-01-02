@@ -130,6 +130,11 @@ export default {
 					description: 'Spring Boot Starter for Bitcoin [Experimental]'
 				},
 				{
+					title: 'Bolt Card',
+					link: 'https://www.boltcard.org/',
+					description: 'NFC lightning payment card'
+				},
+				{
 					title: 'Braiins OS',
 					link: 'https://braiins-os.org/',
 					description: 'Open source mining software'

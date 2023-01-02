@@ -132,7 +132,7 @@ export default {
 				{
 					title: 'Bolt Card',
 					link: 'https://www.boltcard.org/',
-					description: 'Bitcoin payments over the Lightning Network with a contactless payment card'
+					description: 'NFC lightning payment card'
 				},
 				{
 					title: 'Braiins OS',

@@ -374,6 +374,11 @@ export default {
 					description: 'Basics guide & glossary'
 				},
 				{
+					title: "Satoshi Vibes",
+					link: "https://www.satoshivibes.com",
+					description: "Satoshi Nakamoto Quotes Wiki",
+				},
+				{
 					title: 'Storing Bitcoin',
 					link: 'https://storingbitcoin.info/',
 					description: 'Interactive guide to storing bitcoin'

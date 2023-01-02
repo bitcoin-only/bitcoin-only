@@ -376,7 +376,7 @@ export default {
 				{
 					title: "Satoshi Vibes",
 					link: "https://www.satoshivibes.com",
-					description: "Satoshi Nakamoto Quotes Wiki. HODLujah 🚀",
+					description: "Satoshi Nakamoto Quotes Wiki",
 				},
 				{
 					title: 'Storing Bitcoin',

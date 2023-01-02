@@ -79,34 +79,58 @@ export default {
 
 			upcomingConferences: [
 				{
-					title: 'The Bitcoin Mining Conference',
-					link: 'https://braiins.com/bitcoin-mining-conference-2022',
-					location: 'Prague / CZ',
-					dates: '2022 / June / 14th-16th'
+					title: 'Advancing Bitcoin',
+					link: 'https://www.advancingbitcoin.com/',
+					location: 'London / UK',
+					dates: '2023 / March / 2nd-3rd'
 				},
 				{
-					title: 'btc++',
-					link: 'https://www.btcplusplus.dev/',
-					location: 'Austin, TX / USA',
-					dates: '2022 / June / 7th-10th'
+					title: 'Empower, Energizing Bitcoin',
+					link: 'https://digitalwildcatters.com/empower-2023/',
+					location: 'Houston, TX / USA',
+					dates: '2023 / March / 7th-9th'
 				},
 				{
-					title: 'Bit Block Boom!',
+					title: 'Nigeria Bitcoin Conference',
+					link: 'https://nigeriabitcoinconference.com/',
+					location: 'Lagos, Nigeria',
+					dates: '2023 / March / 24th-25th'
+				},
+				{
+					title: 'BTC++',
+					link: 'https://twitter.com/niftynei/status/1602499013286174722',
+					location: 'Austin, USA',
+					dates: '2023 / April / 28th-30th'
+				},
+				{
+					title: 'Satoshis Bleibe',
+					link: 'https://einundzwanzig.space/events/satoshis-bleibe-2022/',
+					location: 'Bernkastel-Wehlen, DE',
+					dates: '2023 / May / 12th-14th'
+				},
+				{
+					title: 'Bitcoin 2023',
+					link: 'https://b.tc/conference/',
+					location: 'Miami Beach, USA',
+					dates: '2023 / May / 18-20th'
+				},
+				{
+					title: 'Braiins Mining Conference',
+					link: 'https://braiins.com/bitcoin-mining-conference-2023',
+					location: 'Prague, Czech Republic',
+					dates: '2023 / June / 7th'
+				},
+				{
+					title: 'BTC Prague',
+					link: 'https://www.btcprague.com/',
+					location: 'Prague, Czech Republic',
+					dates: '2023 / June / 8th-10th'
+				},
+				{
+					title: 'Bit Block Boom',
 					link: 'https://bitblockboom.com/',
-					location: 'Austin, TX / USA',
-					dates: '2022 / Aug / 25th-28th'
-				},
-				{
-					title: 'BTC22',
-					link: 'https://bconf.de/',
-					location: 'Innsbruck, Austria',
-					dates: '2022 / Sept / 15th-17th'
-				},
-				{
-					title: 'Pacific Bitcoin Conference 2022',
-					link: 'https://www.pacificbitcoin.com/',
-					location: 'Los Angeles, CA / USA',
-					dates: '2022 / Nov / 10-11th'
+					location: 'Austin, Texas, USA',
+					dates: '2023 / June / 24th-27th'
 				},
 			],
 			lookingBack: [
@@ -116,6 +140,11 @@ export default {
 					pastContent: '<a href="https://adoptingbitcoin.org/" target="_blank">2021</a>'
 				},
 				{
+					title: 'Bconf',
+					link: 'https://bconf.de/',
+					pastContent: '<a href="https://www.youtube.com/watch?v=-342g6OLYQA&list=PLWcOaHDdBoii_ymVGLNCD5X13lb6T1WL4"  target="_blank">2022</a>'
+				},
+				{
 					title: 'Bear Arms N\' Bitcoin',
 					link: 'https://gunsnbitcoin.com/',
 					pastContent: '<a href="https://www.youtube.com/watch?v=ZRA9sEIQOOY&list=PLRws1CvWNKlu5MV872y7S_jEfNDBMX0NI"  target="_blank">2020</a>'
@@ -123,7 +152,7 @@ export default {
 				{
 					title: 'Bit Block Boom!',
 					link: 'https://bitblockboom.com/',
-					pastContent: '<a href="https://www.youtube.com/watch?v=ch4IFBkNxsM" target="_blank">2021</a> | 2020: <a href="https://www.youtube.com/watch?v=Robc43rQoVQ" target="_blank">1</a> | <a href="https://www.youtube.com/watch?v=HLALE9X2JkA" target="_blank">2</a> | <a href="https://www.youtube.com/watch?v=bLKlsYYnoXM" target="_blank">3</a>'
+					pastContent: '<a href="https://www.youtube.com/watch?v=Hf74fd9HEuk&list=PLoLI_Hx40HR_o76jlGmSDnrrjztZayeh7" target="_blank">2022</a> | <a href="https://www.youtube.com/watch?v=ch4IFBkNxsM" target="_blank">2021</a> | 2020: <a href="https://www.youtube.com/watch?v=Robc43rQoVQ" target="_blank">1</a> | <a href="https://www.youtube.com/watch?v=HLALE9X2JkA" target="_blank">2</a> | <a href="https://www.youtube.com/watch?v=bLKlsYYnoXM" target="_blank">3</a>'
 				},
 				{
 					title: 'Bitcoin 2022',
@@ -134,6 +163,16 @@ export default {
 					title: 'Bitcoin Only India',
 					link: 'http://blr.bitcoinmeetup.info/',
 					pastContent: '<a href="http://blr.bitcoinmeetup.info/" target="_blank">2020</a>'
+				},
+				{
+					title: 'Braiins Bitcoin Mining Conference',
+					link: 'https://braiins.com/bitcoin-mining-conference-2022',
+					pastContent: '<a href="unknown-requested" target="_blank">2022</a>'
+				},
+				{
+					title: 'BTC++',
+					link: 'https://www.btcplusplus.dev/',
+					pastContent: '<a href="unknown-requested" target="_blank">2022</a>'
 				},
 				{
 					title: 'The Lightning Conference',
@@ -174,6 +213,11 @@ export default {
 					title: 'Lightning Hack Day',
 					link: 'https://lightninghackday.fulmo.org/',
 					pastContent: '2019: <a href="https://www.youtube.com/watch?v=BcjKejXlLbM" target="_blank">Day 1</a> | <a href="https://www.youtube.com/watch?v=IIxCYrRiP78" target="_blank">Day 2</a>'
+				},
+				{
+					title: 'Pacific Bitcoin Conference',
+					link: 'https://paralelnapolis.sk/event/bitcoin-hackathon-paralelna-polis/',
+					pastContent: '<a href="https://www.youtube.com/watch?v=h7YAWhvFY9Y&list=PLoB1eZWSVHVaCfQJ_Suq9gBw0fCyUKELP" target="_blank">2022</a>'
 				},
 				{
 					title: 'Paralelna Polis',

@@ -389,6 +389,11 @@ export default {
 					description: 'Bitcoin tech explained'
 				},
 				{
+					title: 'What Is Bitcoin?',
+					link: 'https://whatisbitcoin.com/',
+					description: 'Educational Bitcoin Content For Anyone'
+				},
+				{
 					title: 'Why Hold Bitcoin',
 					link: 'https://whyholdbitcoin.com/resources/',
 					description: 'Reviews, guides & resources'

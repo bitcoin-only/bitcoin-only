@@ -391,7 +391,7 @@ export default {
 				{
 					title: 'What Is Bitcoin?',
 					link: 'https://whatisbitcoin.com/',
-					description: 'Educational Bitcoin Content For Anyone'
+					description: 'Educational Bitcoin Content'
 				},
 				{
 					title: 'Why Hold Bitcoin',

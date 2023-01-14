@@ -305,6 +305,11 @@ export default {
 					description: 'Bitcoin nodes & more'
 				},
 				{
+					title: 'HODL.Rodeo',
+					link: 'https://HODL.Rodeo',
+					description: 'Bitcoin-Only Merchandise Shop, playlist + podcast curation, 5-Day Bitcoin 101 Email Course'
+				},
+				{
 					title: 'Konsensus Network',
 					link: 'https://konsensus.network/shop',
 					description: 'The Bitcoin publishing house'

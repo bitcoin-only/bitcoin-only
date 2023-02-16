@@ -211,6 +211,11 @@ export default {
 					description: 'Interviews with Bitcoiners'
 				},
 				{
+          title: 'Bitoin.Review',
+          link: 'https://bitcoin.review/',
+          description: 'Updates and Commentary on Bitcoin and related projects'
+        },
+				{
 					title: 'Blockdigest',
 					link: 'https://www.youtube.com/channel/UCb53lXz2IzEFT5JNHSbdvPg/videos',
 					description: 'Casual Bitcoin news podcast'

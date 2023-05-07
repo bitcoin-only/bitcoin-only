@@ -350,6 +350,11 @@ export default {
 					description: 'Coasters, magnets, & more'
 				},
 				{
+					title: 'SatsSpend',
+					link: 'https://satsspend.com/',
+					description: 'Australian Bitcoin Business List - a searchable list and interactive map of Australian bitcoin businesses'
+				},
+				{
 					title: 'Sats Ledger',
 					link: 'https://www.satsledger.com/',
 					description: 'Bitcoin savings book for kids'

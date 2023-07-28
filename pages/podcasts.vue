@@ -211,7 +211,7 @@ export default {
 					description: 'Interviews with Bitcoiners'
 				},
 				{
-          title: 'Bitoin.Review',
+          title: 'Bitcoin.Review',
           link: 'https://bitcoin.review/',
           description: 'Updates and Commentary on Bitcoin and related projects'
         },

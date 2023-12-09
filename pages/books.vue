@@ -103,6 +103,26 @@ export default {
 						}
 					]
 				},
+								{
+					title: 'Bitcoin and the Trust Problem',
+					synopsis: 'Society and Trust',
+					authors: [
+						{
+							name: 'Karo Zagorus',
+							link: 'https://twitter.com/btcdragonlord'
+						}
+					],
+					purchaseLinks: [
+						{
+							title: 'Amazon',
+							link: 'https://www.amazon.com/Bitcoin-Trust-Problem-bitcoin-fixing/dp/9916723567/'
+						},
+						{
+							title: 'Publisher',
+							link: 'https://bitcoinbook.shop/'
+						}
+					]
+				},
 				{
 					title: 'Bitcoin Money',
 					synopsis: 'Bitcoin story book for kids',

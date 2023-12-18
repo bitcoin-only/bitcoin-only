@@ -211,6 +211,13 @@ export default {
 					autoDca: 'Yes'
 				},
 				{
+					title: 'Longui.io',
+					link: 'https://longui.io/',
+					description: 'Buy (Closed Beta)',
+					location: 'Brazil',
+					autoDca: 'Yes'
+				},
+				{
 					title: 'Pocket Bitcoin',
 					link: 'https://pocketbitcoin.com/',
 					description: 'Buy',

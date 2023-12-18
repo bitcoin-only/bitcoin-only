@@ -251,6 +251,11 @@ export default {
 					description: 'Persian language bitcoin podcast'
 				},
 				{
+					title: 'Moneydelics',
+					link: 'https://fountain.fm/show/EllSq11gifMhq2hCD8nm',
+					description: 'Bitcoin life in El Salvador'
+				},
+				{
 					title: 'Noded',
 					link: 'https://noded.org/podcast/',
 					description: 'Michael Goldstein and Pierre Rochard'

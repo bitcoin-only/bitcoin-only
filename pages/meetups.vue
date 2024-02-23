@@ -1123,6 +1123,14 @@ export default {
 				},
 				{
 					country: 'USA',
+					city: 'Albany',
+					region: 'New York',
+					link: 'https://www.meetup.com/capitalregionbitcoinnetwork',
+					organizer: '@bitcoinkendal',
+					organizerLink: 'https://twitter.com/UpstateNYBTC'
+				},
+				{
+					country: 'USA',
 					city: 'NYC',
 					region: 'New York',
 					link: 'https://www.meetu.ps/c/3Js7d/t1fRT/d',

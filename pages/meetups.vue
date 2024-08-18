@@ -456,7 +456,15 @@ export default {
 					region: 'Bayern',
 					city: 'München',
 					link: 'https://www.meetup.com/de-DE/Bitcoin-Munich/',
-					organizer: 'Unknown',
+					organizer: 'Bitcoin Munich',
+					organizerLink: 'https://x.com/bitcoinmuc'
+				},
+				{
+					country: 'Germany',
+					region: 'Bayern',
+					city: 'München',
+					link: 'http://t.me/EinundzwanzigM',
+					organizer: 'Einundzwanzig München',
 					organizerLink: 'https://einundzwanzig.space/meetups/'
 				},
 				{

@@ -901,7 +901,7 @@ export default {
 					country: 'USA',
 					city: 'Cincinnati',
 					region: 'Ohio',
-					link: 'https://t.me/joinchat/Yt-J5-c7QRJiOGEx',
+					link: 'https://t.me/+2575PuA4zjxlNDkx',
 					organizer: '@cinti_btc',
 					organizerLink: 'https://twitter.com/bitcoinincincy'
 				},

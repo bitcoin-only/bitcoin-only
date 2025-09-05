@@ -697,6 +697,14 @@ export default {
 					organizerLink: 'https://einundzwanzig.space/meetups/'
 				},
 				{
+					country: 'Switzerland',
+					region: 'Wallis',
+					city: 'Brig',
+					link: 'https://bitcoinwallis.ch',
+					organizer: 'nathanael',
+					organizerLink: 'https://dalliard.ch'
+				},
+				{
 					country: 'Taiwan',
 					city: 'Taipei',
 					link: 'https://www.meetup.com/Taiwan-Bitcoin-Only-Meetup/',

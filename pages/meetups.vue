@@ -699,7 +699,7 @@ export default {
 				{
 					country: 'Switzerland',
 					region: 'Wallis',
-					city: 'Brig',
+					city: 'Brig-Glis',
 					link: 'https://bitcoinwallis.ch',
 					organizer: 'nathanael',
 					organizerLink: 'https://dalliard.ch'

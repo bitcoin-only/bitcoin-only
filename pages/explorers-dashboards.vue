@@ -186,6 +186,11 @@ export default {
 					description: 'Publicly-traded companies holding Bitcoin'
 				},
 				{
+					title: 'BitcoinCompanies',
+					link: 'https://bitcoincompanies.co/',
+					description: 'Corporate Bitcoin treasury map & leaderboard (claimed vs verified)'
+				},
+				{
 					title: 'Braiins Insights',
 					link: 'https://insights.braiins.com/en/',
 					description: 'Mining Stats & Graphs'

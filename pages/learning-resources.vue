@@ -344,6 +344,11 @@ export default {
 					description: 'Informative Bitcoin evangelizing'
 				},
 				{
+					title: 'Knowing Bitcoin',
+					link: 'https://knowingbitcoin.com/',
+					description: 'In-depth guides on Lightning Network, wallets, security & privacy'
+				},
+				{
 					title: 'L2B Global',
 					link: 'https://blog.l2b.global/',
 					description: 'Blog from an OTC desk'

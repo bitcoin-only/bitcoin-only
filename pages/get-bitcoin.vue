@@ -176,6 +176,13 @@ export default {
 					autoDca: 'No'
 				},
 				{
+					title: 'BitcoinVN',
+					link: 'https://bitcoinvn.io/',
+					description: 'Buy & Sell',
+					location: 'Vietnam',
+					autoDca: 'Yes'
+				},
+				{
 					title: 'Bitkipi',
 					link: 'https://bitkipi.com/',
 					description: 'Buy',

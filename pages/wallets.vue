@@ -293,6 +293,12 @@ export default {
 					platform: 'Desktop'
 				},
 				{
+					title: 'Bitcoin Safe',
+					link: 'https://bitcoin-safe.org/',
+					description: 'A FOSS for managing cold storage wallets.',
+					platform: 'MacOS, Linux, Windows'
+				},
+				{
 					title: 'Blockstream Green',
 					link: 'https://blockstream.com/green/',
 					description: 'Bitcoin Wallet with option for 2FA & HW',

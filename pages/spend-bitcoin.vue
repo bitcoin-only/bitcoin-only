@@ -146,11 +146,6 @@ export default {
 			],
 			tools: [
 				{
-					title: 'Bitscribble',
-					link: 'https://bitscribble.com/',
-					description: 'Write 40 bytes of data to the blockchain'
-				},
-				{
 					title: 'BTCmessage',
 					link: 'https://btcmessage.com/',
 					description: 'Write data into the blockchain with vanity addrs'

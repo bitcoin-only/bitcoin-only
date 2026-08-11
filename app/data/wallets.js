@@ -45,6 +45,12 @@ export const onChainWallets = [
 		platform: 'Desktop',
 	},
 	{
+		title: 'Bitcoin-Safe',
+		link: 'https://bitcoin-safe.org/',
+		description: 'BDK powere desktop software for managing your cold storage wallets.',
+		platform: 'Desktop',
+	},
+	{
 		title: 'Blockstream Green',
 		link: 'https://blockstream.com/green/',
 		description: 'Bitcoin Wallet with option for 2FA & HW',
@@ -55,12 +61,6 @@ export const onChainWallets = [
 		link: 'https://bluewallet.io/',
 		description: 'Feature rich Bitcoin wallet<sup>[1]</sup>,<sup>[7]</sup>',
 		platform: 'iOS, Android, MacOS',
-	},
-	{
-		title: 'Bitcoin Safe',
-		link: 'https://bitcoin-safe.org/',
-		description: 'Single & multisig cold storage wallet powered by BDK',
-		platform: 'Desktop',
 	},
 	{
 		title: 'Caravan',

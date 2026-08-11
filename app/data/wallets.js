@@ -47,7 +47,7 @@ export const onChainWallets = [
 	{
 		title: 'Bitcoin-Safe',
 		link: 'https://bitcoin-safe.org/',
-		description: 'BDK powere desktop software for managing your cold storage wallets.',
+		description: 'BDK powered desktop software for managing your cold storage wallets.',
 		platform: 'Desktop',
 	},
 	{

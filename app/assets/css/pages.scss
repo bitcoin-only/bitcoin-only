@@ -1,0 +1,125 @@
+@use 'tokens' as tokens;
+
+h1.page-title {
+	color: var(--color-accent);
+	font-size: 36px;
+	font-weight: 500;
+	margin-left: -2px;
+	margin-bottom: 15px;
+	border-bottom: 3px solid #1e232e;
+	padding-bottom: 4px;
+}
+.page-subtitle {
+	margin-bottom: 30px;
+	font-size: 18px;
+}
+h2 {
+	color: var(--color-accent);
+	font-size: 28px;
+	font-weight: 500;
+	margin-bottom: 20px;
+}
+h3 {
+	color: var(--color-accent);
+	font-size: 22px;
+	font-weight: 500;
+	margin-bottom: 25px;
+	margin-top: 30px;
+}
+h4 {
+	color: var(--color-accent);
+	font-size: 16px;
+	font-weight: 500;
+	margin-bottom: 20px;
+}
+p {
+	margin-bottom: 15px;
+	font-size: 16px;
+	line-height: 1.7;
+}
+.getting-started-section {
+	background: var(--color-sidebar);
+	padding: 20px 30px;
+	border: 1px solid var(--color-panel-border);
+	border-radius: 5px;
+	margin-bottom: 30px;
+	margin-top: 20px;
+
+	h3 {
+		font-size: 18px;
+		margin-bottom: 15px;
+		margin-top: 0;
+	}
+	ul {
+		list-style-type: disc;
+		padding-left: 20px;
+
+		li {
+			margin-bottom: 8px;
+		}
+	}
+	p:last-child {
+		margin-bottom: 0;
+	}
+}
+.tbl-scroller {
+	overflow-x: auto;
+}
+.tbl-wrapper {
+	width: 100%;
+	border-collapse: collapse;
+}
+.tbl-header {
+	border-bottom: 2px solid var(--color-accent);
+
+	.tbl-title {
+		text-align: left;
+		font-size: 14px;
+		text-transform: uppercase;
+		letter-spacing: 0.5px;
+		font-weight: 500;
+		padding: 0 10px 10px 10px;
+	}
+}
+.tbl-row {
+	&:nth-child(even) td {
+		background: var(--color-sidebar);
+	}
+
+	td {
+		padding: 14px 10px;
+		vertical-align: top;
+	}
+
+	a {
+		color: var(--color-text);
+
+		&:hover {
+			color: var(--color-accent);
+		}
+	}
+}
+.footnote {
+	max-width: 800px;
+	text-align: center;
+	font-style: italic;
+	color: var(--color-muted);
+	margin-top: 20px;
+}
+.footnotes {
+	margin-top: 40px;
+}
+.footnotes {
+	margin-top: 40px;
+}
+.explainer {
+	margin-bottom: 30px;
+}
+@media only screen and (max-width: tokens.$bp-phone) {
+	.getting-started-section {
+		padding: 15px 20px 20px;
+	}
+	h1.page-title {
+		font-size: 28px;
+	}
+}

@@ -1,0 +1,26 @@
+version: 2
+updates:
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: weekly
+    versioning-strategy: increase
+    groups:
+      nuxt:
+        patterns:
+          - nuxt
+          - nuxt-*
+          - '@nuxt/*'
+      lint-tooling:
+        patterns:
+          - eslint
+          - eslint-plugin-vue
+          - '@eslint/*'
+          - globals
+          - prettier
+          - sass
+
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly

@@ -71,6 +71,12 @@ typings/
 # Nuxt generate
 dist
 
+# link checker cache/reports
+.cache
+
+# Nuxt 3 build output
+.output
+
 # vuepress build output
 .vuepress/dist
 

@@ -10,7 +10,7 @@ Content lives in `app/data/` as plain JavaScript modules (one per topic, e.g. `m
 
 ## Prerequisites
 
-- Node.js >= 20 (a `.nvmrc` is provided — run `nvm use` or `nvm install`)
+- Node.js >= 24 (a `.nvmrc` is provided — run `nvm use` or `nvm install`)
 
 ## Development
 
@@ -22,15 +22,17 @@ npm install
 npm run dev
 
 # quality checks
-npm run lint       # ESLint (flat config, whole tree)
-npm run format     # Prettier (write)
+npm run lint         # ESLint (flat config, whole tree)
+npm run format       # Prettier (write)
 npm run format:check
 
 # create the static build (.output/public)
 npm run generate
+npm run check:pages  # smoke-test all rendered pages after generate
+npm run check:links  # verify all external/internal links are live
 ```
 
-Every PR is validated in CI (`.github/workflows/check.yml`): lint, formatting, and a static `nuxt generate` build. Dependencies and GitHub Actions are kept up to date automatically via Dependabot.
+Every PR is validated in CI (`.github/workflows/check.yml`): lint, formatting, a static `nuxt generate` build, and a page-render smoke test. Dependencies and GitHub Actions are kept up to date automatically via Dependabot.
 
 ## Built with
 

@@ -20,6 +20,11 @@ export const explorers = [
 		description: 'Open source Bitcoin explorer',
 	},
 	{
+		title: 'OpenBitcoin',
+		link: 'https://openbitcoin.com/',
+		description: 'Open source Bitcoin explorer & tools',
+	},
+	{
 		title: 'Yogh Explorer',
 		link: 'https://yogh.io/',
 		description: 'Bitcoin blockchain reader',

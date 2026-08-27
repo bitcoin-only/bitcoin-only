@@ -19,7 +19,7 @@
 		"format:check": "prettier --check ."
 	},
 	"dependencies": {
-		"@nuxtjs/sitemap": "^8.3.4",
+		"@nuxtjs/sitemap": "^8.5.0",
 		"nuxt": "^4.5.2"
 	},
 	"devDependencies": {

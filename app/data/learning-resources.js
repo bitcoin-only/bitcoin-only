@@ -119,6 +119,11 @@ export const websites = [
 		description: 'Self-custody and privacy guides',
 	},
 	{
+		title: 'Crypto in Brief',
+		link: 'https://cryptoinbrief.xyz/bitcoin-from-zero.html',
+		description: 'Illustrated Bitcoin from hashing to mining, with browser labs',
+	},
+	{
 		title: 'Hello Bitcoin',
 		link: 'https://www.hellobitco.in/',
 		description: 'Friendly beginner videos about Bitcoin',

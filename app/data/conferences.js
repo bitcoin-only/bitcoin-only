@@ -1,5 +1,9 @@
 export const upcomingConferences = []
 
+// Community-maintained event calendars & directories:
+// - Bitcoin FilmFest: https://bitcoinfilmfest.com/ (annual Bitcoin-only film festival)
+// - Awesome Bitcoin Events: https://github.com/itstomekk/awesome-bitcoin-events (calendar of conferences, meetups, retreats)
+
 export const lookingBack = [
 	{
 		title: 'Adopting Bitcoin',

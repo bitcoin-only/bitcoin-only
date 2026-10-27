@@ -20,7 +20,7 @@
 	},
 	"dependencies": {
 		"@nuxtjs/sitemap": "^8.3.4",
-		"nuxt": "^4.5.2"
+		"nuxt": "^4.6.3"
 	},
 	"devDependencies": {
 		"@eslint/js": "^10.0.1",

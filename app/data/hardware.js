@@ -33,11 +33,6 @@ export const nodeDiy = [
 		description: 'Bitcoin & Lightning node, manual installation guide for Debian-based OS',
 	},
 	{
-		title: 'RoninDojo',
-		link: 'https://wiki.ronindojo.io/',
-		description: 'Full Stack (Rockpro 64 / Pi4 / Odroid N2)',
-	},
-	{
 		title: 'The Bitcoin Machines',
 		link: 'https://thebitcoinmachines.com/',
 		description: 'Custom made enclosure, heatsink, & SATA expansion',

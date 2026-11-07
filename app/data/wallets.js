@@ -242,9 +242,19 @@ export const advancedStorageMethods = [
 		],
 	},
 	{
+		title: 'Air-Gapped vs USB Cold Storage Guide',
+		link: 'https://ratemywallets.com/blog/air-gapped-vs-usb-hardware-wallet',
+		description: 'PSBT air-gapped QR signing vs USB hardware cold storage risk',
+		devs: [
+			{
+				name: 'RateMyWallets',
+				link: 'https://ratemywallets.com',
+			},
+		],
+	},
+	{
 		title: 'Gentle Introduction to Cold Storage',
-		link: 'https://bitzuma.com/posts/a-gentle-introduction-to-bitcoin-cold-storage/',
-		description: 'Short explanation of hot wallet risk',
+		description: '[OLD] Short explanation of hot wallet risk',
 		devs: [
 			{
 				name: 'Rich Apodaca',

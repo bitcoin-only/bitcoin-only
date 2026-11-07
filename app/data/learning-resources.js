@@ -99,6 +99,11 @@ export const websites = [
 		description: 'Comprehensive intro with curated links',
 	},
 	{
+		title: 'Bitcoin Family Vault',
+		link: 'https://bitcoinfamilyvault.com/learn',
+		description: 'Self-custody and inheritance guides for families',
+	},
+	{
 		title: 'Bitcoin Q & A',
 		link: 'https://bitcoiner.guide/qna/',
 		description: 'Extensive questions & answers',
